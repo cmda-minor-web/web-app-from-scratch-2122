@@ -10,6 +10,33 @@ In dit vak gaan we een web app maken zonder frameworks of onnodige libraries, du
 
 [Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
 
+## Lesprogramma
+
+### Week 1 - Hello API 🐒
+
+Doel: Data ophalen uit een API en renderen in een overzichtspagina.
+
+[Opdrachten](https://drive.google.com/open?id=1OVhWQNaCgSluYviTKKWcApkyPd23xow1PiExb8GYANM)
+
+[Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
+
+### Week 2 - Design and Refactor 🛠
+
+Doel: Breakdown maken van de web app. Routes en states toevoegen. Detailpagina renderen.
+
+[Opdrachten](https://drive.google.com/open?id=1GMDTdW3LycAYpZSFI6gk_lrKrx8-zLWrNh69aaVEH5Y)
+
+[Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
+
+### Week 3 - Wrapping up 🎁
+
+Doel: Data manipuleren. Code splitsen in modules. Reflecteren op eindresultaat.
+
+[Opdrachten](https://drive.google.com/open?id=13pKQu72pshaEzKw9q5JHLa-aop85nMP6nDCdqioWjoQ)
+
+[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
+
+
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
 <!-- ☝️ replace this description with a description of your own work -->
