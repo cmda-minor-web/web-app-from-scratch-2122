@@ -16,7 +16,7 @@ In dit vak gaan we een web app maken zonder frameworks of onnodige libraries, du
 
 Doel: Data ophalen uit een API en renderen in een overzichtspagina.
 
-[Opdrachten](https://drive.google.com/open?id=1OVhWQNaCgSluYviTKKWcApkyPd23xow1PiExb8GYANM)
+[Opdrachten](https://github.com/cmda-minor-web/web-app-from-scratch-1819/blob/master/week-1.md)
 
 [Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
 
