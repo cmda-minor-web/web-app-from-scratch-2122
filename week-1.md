@@ -80,10 +80,10 @@ Maak bij verschillende collega studenten minimaal 2 issues aan. Je kan kijken na
 Mocht je extra uitdaging kunnen gebruiken, dan zijn onderstaande onderwerpen interessant. Het kan verstandig zijn om eerst de bovenstaande opdrachten als zodanig te maken, en daarna één of meer van onderstaande advanced topics in de app te verwerken. Mocht je een ander onderwerp willen aanpakken, overleg dat dan even.
 
 ### Resources
-[Schrijf je eigen template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
-[Bouw je app op met Web components](https://meowni.ca/posts/web-components-with-otters/)
-[Schrijf je eigen Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
-[Go functional met Reactive UI’s](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
+[Schrijf je eigen template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line) 
+[Bouw je app op met Web components](https://meowni.ca/posts/web-components-with-otters/) 
+[Schrijf je eigen Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) 
+[Go functional met Reactive UI’s](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/) 
 
 
 
