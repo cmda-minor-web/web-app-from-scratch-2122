@@ -16,22 +16,18 @@ Breakdown the web app. Add routes and states. Rendering detail pages
 ## Opdrachten
 1 Fork GitHub repository for this course (Monday)
 2 Write a good README.md (Monday)
-3 Loading asynchronous data from an API (Wednesday)
-4 Rendering data in the overview page (Wednesday)
-5 Conduct Code Review via GitHub (Friday)
+3 Loading asynchronous data from an API (Tuesday)
+4 Rendering data in the overview page (Tuesday)
+5 Conduct Code Review via GitHub (Tuesday)
 Extra challenge
 
 ## 1 Fork GitHub repository for this course (Monday)
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
-Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-1819
-Voeg onderstaande bestanden toe in de repo folder ‘week 1’ 
-index.html
-src/css/styles.css
-src/js/app.js
+Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-1920
 
-Zet issues open op jouw repo zodat je feedback kan krijgen!
-Zet je website live op Github pages(kies project site) en zet een link naar de website in de repo description.
+Open issues on your repo so that you can get feedback!
+Publish your web app with Github pages and add the link to the web app in the repo description.
 
 ### Resources
 GitHub Hello World (getting started) 
@@ -39,47 +35,49 @@ Git command explorer
 Github Pages
 
 
-## 2 Schrijf een goede README.md (vrijdag)
+## 2 Write a good README.md (Tuesday)
+A good app comes with a good README.md in which you describe the application. Add the chapters below and document your app.
 
-Bij een web app hoort een goed README.md waar je de applicatie beschrijft. Voeg onderstaande hoofdstukken toe en documenteer jou app. 
+linkToLiveDemo? review (assignment): assignGrade (1);
+What does your app do, what is the goal? (passing butter)
+Which actors are there in your application? (actor diagram)
+Which API is used and what are the limitations? (rate limit)
+How does flowed interaction through the application? (interaction diagram)
+Which design patterns and best practices
+What would you like to add (feature wishlist / backlog)
 
-linkToLiveDemo ? review(assignment) : assignGrade(1);
-Wat doet jou app, wat is het doel? (passing butter)
-Welke actoren zitten er in jouw applicatie? (actor diagram)
-Welke API wordt gebruikt en wat zijn de beperkingen? (rate limit)
-Hoe flowed interactie door de applicatie? (interaction diagram)
-Welke design patterns en best practices
-Wat zou je nog willen toevoegen (feature wishlist / backlog)
-
-### Resources
-Een lijst met awesome README’s
-
-## 3 Asynchroon data laden uit een API (woensdag)
-Data opvragen van een API kan relatief veel tijd kosten waarop jouw programma code niet op zou hoeven wachten. Daarom ga je een asynchrone request naar de API doen.
-
-Kies een JSON API uit op bijvoorbeeld Programmable Web (de api moet https ondersteunen!) (http://www.programmableweb.com/apis/directory) 
-Maak een request object aan in je code waarmee je met een asynchrone call data (een lijst van items) inlaadt vanaf de gekozen API. 
-Parse de JSON en sla de data items op in een tijdelijk object (en/of in LocalStorage)
+(Also see the commented hints in the README.md)
 
 ### Resources
-The Event Loop, hoe asynchrone code werkt in JavaScript < MUST SEE!!!
+A list of awesome READMEs
+
+## 3 Loading data asynchronously from an API (Tuesday)
+Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
+
+Select a JSON API of your choice from for example Programmable Web (the api must support https!) (Http://www.programmableweb.com/apis/directory)
+Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.
+Parse de JSON and save the data items in a temporary object (and / or in LocalStorage). 
+
+### Resources
+The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!
 You don’t know JS; Async & Performance
 
-## 4 Data renderen in de overzichtspagina (vrijdag)
-Genereer aan de hand van de data die je opgehaald en geparsed hebt vanuit JavaScript een lijst van items in de overzichtspagina (index.html). Loop door de data items en schrijf het weg met bijvoorbeeld de innerHTML method van een DOM node. Of je kijkt alvast of je een template engine wil gebruiken. Template engines behandelen we later nog in vak. 
+## 4 Rendering data in the overview page (Tuesday)
+Generate a list of items in the overview page (index.html) based on the data you collected and parsed from the API. Walk through the data items and insert them into the DOM using the innerHTML method in combination with template literals for example. 
 
 ### Resources
 element.innerHTML
 Template engines
-5 Code Review uitvoeren via GitHub (vrijdag)
-Op GitHub kan je met Issues wijzigingen in code van een collega developer suggereren. Dit doe je online via de GitHub website.
-Maak bij verschillende collega studenten minimaal 2 issues aan. Je kan kijken naar verbeteringen/suggesties voor of vragen over HTML, CSS & JavaScript code.
 
-## Extra uitdaging
-Mocht je extra uitdaging kunnen gebruiken, dan zijn onderstaande onderwerpen interessant. Het kan verstandig zijn om eerst de bovenstaande opdrachten als zodanig te maken, en daarna één of meer van onderstaande advanced topics in de app te verwerken. Mocht je een ander onderwerp willen aanpakken, overleg dat dan even.
+## 5 Conduct Code Review on GitHub  (vrijdag)
+On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
+Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
+
+## Extra challenge
+If you can use some extra challenge, the topics below might be interesting for you. It may be wise to first create the above exercises as such, and then process one or more of the advanced topics below. If you want to tackle a different topic, we advice you to consult a teacher.
 
 ### Resources
-[Schrijf je eigen template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line) 
-[Bouw je app op met Web components](https://meowni.ca/posts/web-components-with-otters/) 
-[Schrijf je eigen Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) 
-[Go functional met Reactive UI’s](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/) 
+[Write your own template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line) 
+[Build your app with Web components](https://meowni.ca/posts/web-components-with-otters/) 
+[Write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) 
+[Go functional with Reactive UI’s](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/) 
