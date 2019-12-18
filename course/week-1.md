@@ -20,7 +20,7 @@ Retrieve data from an API and render in an overview page
 
 Breakdown the web app in features. Add routes and states. Rendering detail pages
 
-## Opdrachten
+## Exercises
 
 1 Fork GitHub repository for this course (Monday)
 2 Write a good README.md (Monday)
@@ -29,7 +29,7 @@ Breakdown the web app in features. Add routes and states. Rendering detail pages
 5 Conduct Code Review via GitHub (Tuesday)
 Extra challenge
 
-## 1 Fork GitHub repository for this course (Monday)
+### 1 Fork GitHub repository for this course (Monday)
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
@@ -38,13 +38,13 @@ Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-192
 Open issues on your repo so that you can get feedback!
 Publish your web app with Github pages and add the link to the web app in the repo description.
 
-### Resources
+#### Resources
 
 GitHub Hello World (getting started)
 Git command explorer
 Github Pages
 
-## 2 Write a good README.md (Tuesday)
+### 2 Write a good README.md (Tuesday)
 
 A good app comes with a good README.md in which you describe the application. Add the chapters below and document your app.
 
@@ -58,11 +58,11 @@ What would you like to add (feature wishlist / backlog)
 
 (Also see the commented hints in the README.md)
 
-### Resources
+#### Resources
 
 A list of awesome READMEs
 
-## 3 Loading data asynchronously from an API (Tuesday)
+### 3 Loading data asynchronously from an API (Tuesday)
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
 
@@ -70,30 +70,30 @@ Select a JSON API of your choice from for example Programmable Web (the api must
 Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.
 Parse de JSON and save the data items in a temporary object (and / or in LocalStorage).
 
-### Resources
+#### Resources
 
 The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!
 You don’t know JS; Async & Performance
 
-## 4 Rendering data in the overview page (Tuesday)
+### 4 Rendering data in the overview page (Tuesday)
 
 Generate a list of items in the overview page (index.html) based on the data you collected and parsed from the API. Walk through the data items and insert them into the DOM using the innerHTML method in combination with template literals for example.
 
-### Resources
+#### Resources
 
 element.innerHTML
 Template engines
 
-## 5 Conduct Code Review on GitHub (vrijdag)
+### 5 Conduct Code Review on GitHub (vrijdag)
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
 
-## Extra challenge
+### Extra challenge
 
 If you can use some extra challenge, the topics below might be interesting for you. It may be wise to first create the above exercises as such, and then process one or more of the advanced topics below. If you want to tackle a different topic, we advice you to consult a teacher.
 
-### Resources
+#### Resources
 
 [Write your own template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 [Build your app with Web components](https://meowni.ca/posts/web-components-with-otters/)
