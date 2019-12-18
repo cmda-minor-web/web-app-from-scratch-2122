@@ -1,31 +1,30 @@
-# Opdrachten Week 1: ‘Hello API’ 🐒
+# Exercises Week 1: ‘Hello API’ 🐒
 Minor Web Development - Web App From Scratch
 
-## Intentie
-De komende 3 weken ga je in dit vak een client side web app maken. Op basis van data uit een API naar keuze maak je een overzichts- en detailpagina’s van de items die je ophaalt uit de API. Op de overzichtspagina bouw je een filter/sorteer functionaliteit, zodat je de items kan filteren. Je schrijft zoveel mogelijk vanilla code, dus je gebruikt geen frameworks of libraries (met uitzondering van hier en daar een micro library). In de loop van dit vak ga je zelf steeds meer structuur geven aan de code.
+## Intention
+The next 3 weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-## Werkwijze
-Er is 16 uur ingeroosterd om deze week aan dit vak te werken. Probeer je werk goed te plannen! Tussentijds wordt in standup meetings en klassikale bijeenkomsten de voortgang gemonitord. Aan het eind van de week wordt je code gereviewed. Eventuele issues komen in de GitHub repository te staan.
+## Method
+16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
-### Deze week: ‘Hello API’ 🐒
-Data ophalen uit een API en renderen in een overzichtspagina.
+### This week: ‘Hello API’ 🐒
+Retrieve data from an API and render in an overview page
 
 ### Volgende week:  ‘Design & refactor’ 🛠
-Breakdown maken van de web app. Routes en states toevoegen. Detailpagina’s renderen
+Breakdown the web app. Add routes and states. Rendering detail pages
 
 ## Opdrachten
+1 Fork GitHub repository for this course (Monday)
+2 Write a good README.md (Monday)
+3 Loading asynchronous data from an API (Wednesday)
+4 Rendering data in the overview page (Wednesday)
+5 Conduct Code Review via GitHub (Friday)
+Extra challenge
 
-1 GitHub repository forken voor dit vak (maandag)
-2 Schrijf een goede README.md (maandag)
-3 Asynchroon data laden uit een API (woensdag)
-4 Data renderen in de overzichtspagina (woensdag)
-5 Code Review uitvoeren via GitHub (vrijdag)
-Extra uitdaging
+## 1 Fork GitHub repository for this course (Monday)
+All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
-## 1 GitHub repository forken voor dit vak (maandag)
-Alle code en documentatie die je schrijft (voor alle vakken en projecten in deze minor) komt in een GitHub repository te staan. Maak een nette indeling van bestanden en folders. Zorg ervoor dat de code ook via GitHub Pages te bekijken is als gerenderde HTML, CSS & JavaScript. Een Github repo is pas volledig als er een description en readme bij zitten. We hebben alvast een repository voor je klaar gezet die je kan forken.
-
-Maak een fork van deze repository: https://github.com/cmda-minor-web/web-app-from-scratch-1819
+Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-1819
 Voeg onderstaande bestanden toe in de repo folder ‘week 1’ 
 index.html
 src/css/styles.css
@@ -84,6 +83,3 @@ Mocht je extra uitdaging kunnen gebruiken, dan zijn onderstaande onderwerpen int
 [Bouw je app op met Web components](https://meowni.ca/posts/web-components-with-otters/) 
 [Schrijf je eigen Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) 
 [Go functional met Reactive UI’s](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/) 
-
-
-
