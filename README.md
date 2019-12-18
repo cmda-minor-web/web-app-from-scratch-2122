@@ -1,38 +1,39 @@
 # Web App From Scratch @cmda-minor-web 1819
 
-In dit vak gaan we een web app maken zonder frameworks of onnodige libraries, dus zoveel mogelijk met native HTML, CSS & JavaScript. Het eindproduct is een modulair opgezet prototype voor een single page web app. Data wordt opgehaald uit een externe API, waar nodig gemanipuleerd en vervolgens getoond in de Web App. Je leert hoe je structuur aanbrengt in je code en hoe je hiermee 'from scratch' een (prototype voor een) web app maakt. Met deze kennis begrijp je daarnaast beter hoe bestaande api’s, libraries en frameworks werken.
+In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular constructed, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and start developing your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of the how API's, frameworks and libraries work.
 
-## Leerdoelen
-- _Je kan structuur aanbrengen in je code door patterns toe te passen. Je kan de keuze voor de gekozen patterns beargumenteren_
-- _Je kan data ophalen, manipuleren en dynamisch omzetten naar html elementen mbv templating._
-- _Je begrijpt hoe je middels asynchrone code met een externe API kan werken._
-- _Je begrijpt hoe je states in je applicaties kan managen en stelt de gebruiker op de hoogte van states waar nodig._
+## Learning goals
+- _You can add structure to your code by applying patterns. You can argue the choice for the chosen patterns_
+- _You can retrieve data, manipulate it and dynamically convert it to html elements using templating_
+- _You understand how you can work with an external API using asynchronous code_
+- _You understand how you can manage states in your applications and you inform the user of states where necessary_
 
 [Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
 
-## Lesprogramma
+## Program
 
 ### Week 1 - Hello API 🐒
 
-Doel: Data ophalen uit een API en renderen in een overzichtspagina.
+Goal: Retrieve data from an API and render it in an overview page.
 
-[Opdrachten](https://github.com/cmda-minor-web/web-app-from-scratch-1819/blob/master/week-1.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1819/blob/master/week-1.md)
 
 [Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
 
 ### Week 2 - Design and Refactor 🛠
 
-Doel: Breakdown maken van de web app. Routes en states toevoegen. Detailpagina renderen.
+Goal: Breakdown the web app. Add routes and states. Rendering detail page.
 
-[Opdrachten](https://drive.google.com/open?id=1GMDTdW3LycAYpZSFI6gk_lrKrx8-zLWrNh69aaVEH5Y)
+[Exercises](https://drive.google.com/open?id=1GMDTdW3LycAYpZSFI6gk_lrKrx8-zLWrNh69aaVEH5Y)
 
 [Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
 
 ### Week 3 - Wrapping up 🎁
 
-Doel: Data manipuleren. Code splitsen in modules. Reflecteren op eindresultaat.
+Goal: 
+Manipulate data. Split code into modules. Reflect on end result
 
-[Opdrachten](https://drive.google.com/open?id=13pKQu72pshaEzKw9q5JHLa-aop85nMP6nDCdqioWjoQ)
+[Excersises](https://drive.google.com/open?id=13pKQu72pshaEzKw9q5JHLa-aop85nMP6nDCdqioWjoQ)
 
 [Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
 
