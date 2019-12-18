@@ -1,4 +1,5 @@
-Opdrachten Week 3: ‘Wrapping up’ 🎁
+# Exercises Week 3: ‘Wrapping up’ 🎁
+
 Minor Web Development - Web App From Scratch
 
 Intentie
