@@ -18,7 +18,7 @@ Retrieve data from an API and render in an overview page
 
 ### Volgende week: ‘Design & refactor’ 🛠
 
-Breakdown the web app. Add routes and states. Rendering detail pages
+Breakdown the web app in features. Add routes and states. Rendering detail pages
 
 ## Opdrachten
 
