@@ -22,13 +22,13 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 
 ## Exercises
 
-1 Create actor diagram (Monday)  
-2 Creating an interaction diagram (Monday)  
-3 Refactor code (Monday)  
-4 Handle routes to the detail pages (Monday)  
-5 Implement a template engine (Tuesday)
+1. Create actor diagram (Monday)
+2. Creating an interaction diagram (Monday)
+3. Refactor code (Monday)
+4. Handle routes to the detail pages (Monday)
+5. Implement a template engine (Tuesday)
 
-### 1 Create actor diagram (Monday)
+### 1. Create actor diagram (Monday)
 
 Visualize where your code lives in a comprehensible way. Ensure that all objects, properties, methods and any variables and functions are included. Look back to the lecture and your notes to see how you do this. Put the actor diagram in your README.md of the forked repo.
 
@@ -38,7 +38,7 @@ Perform the step-by-step of the documentation below.
 
 Documentation Actor and Interaction diagram
 
-### 2 Create interaction diagram (Monday)
+### 2. Create interaction diagram (Monday)
 
 How does the interaction between user and app work? For example, when will data be loaded? Which use cases are possible? We will do the assessment based on this diagram and your actor diagram. Put the interaction diagram in your README.md of the forked repo.
 
@@ -48,7 +48,7 @@ Perform the step-by-step of the documentation below
 
 Documentation Actor and Interaction diagram
 
-### 3 Refactor code (Monday)
+### 3. Refactor code (Monday)
 
 Now that you have gained a better understanding, using the diagrams, it may be time to refact the structure of your app. In other words, how are you going to code the various actors and the dependencies between them in your app? Which design patterns do you use? Look carefully at the criteria in the [rubric] and make sure that your code meets these.
 
@@ -57,7 +57,7 @@ Now that you have gained a better understanding, using the diagrams, it may be t
 JavaScript Design Patterns
 Advanced JavaScript concepts
 
-### 4 Handle routes to the detail pages (Monday)
+### 4. Handle routes to the detail pages (Monday)
 
 n a single page web app you will have to create the URLs (or routes) to the different "pages" in JavaScript. For example if you want to be able to navigate to a detail page. You can do this by using the hash (#) in the url, in combination with the hashchange event. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
@@ -68,7 +68,7 @@ Make sure that you can also navigate back to the overview page.
 
 http://microjs.com/#router
 
-### 5 Implement a template engine (Tuesday)
+### 5. Implement a template engine (Tuesday)
 
 Use a template engine to render the data to HTML.
 Add the Transparency.js template engine (https://github.com/leonidas/transparency) to your application. Or use a different template engine of your own choice.
