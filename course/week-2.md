@@ -22,10 +22,10 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 
 ## Exercises
 
-1 Create actor diagram (Monday)
-2 Creating an interaction diagram (Monday)
-3 Refactor code (Monday)
-4 Handle routes to the detail pages (Monday)
+1 Create actor diagram (Monday)  
+2 Creating an interaction diagram (Monday)  
+3 Refactor code (Monday)  
+4 Handle routes to the detail pages (Monday)  
 5 Implement a template engine (Tuesday)
 
 ### 1 Create actor diagram (Monday)
