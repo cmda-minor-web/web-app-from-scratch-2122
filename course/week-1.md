@@ -16,7 +16,7 @@ The coming three weeks you will create a client side web app during this course.
 
 Retrieve data from an API and render in an overview page
 
-### Volgende week: ‘Design & refactor’ 🛠
+### Next week: ‘Design & refactor’ 🛠
 
 Breakdown the web app in features. Add routes and states. Rendering detail pages
 

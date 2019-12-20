@@ -2,37 +2,47 @@
 
 Minor Web Development - Web App From Scratch
 
-Intentie
-De komende 3 weken ga je in dit vak een client side web app maken. Op basis van data uit een API naar keuze maak je een overzichts- en detailpagina. Op de overzichtspagina bouw je een filter/sorteer functionaliteit, zodat je de items kan filteren. Je schrijft zoveel mogelijk vanilla code, dus je gebruikt geen frameworks als React of Vue.js. In de loop van dit vak ga je zelf steeds meer structuur geven aan de code.
+## Intention
 
-Deze week: ‘Wrapping up’ 🎁
-Data manipuleren. Code splitsen in modules. Reflecteren op eindresultaat. Eindbeoordeling
+The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-Werkwijze
-Er is 16 uur ingeroosterd om deze week aan dit vak te werken. Probeer je werk goed te plannen! Tussentijds wordt in standup meetings en klassikale bijeenkomsten de voortgang gemonitord. Aan het eind van de week wordt je code gereviewed. Eventuele issues komen in de GitHub repository te staan.
+## Method
 
-Opdrachten
+16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
-1 Data manipuleren, filteren en sorteren (maandag) 2
-2 Reflecteren op het werk (vrijdag) 2
-3 Code splitsen in modules (vrijdag) 2
+### This week: ‘Wrapping up’ 🎁
 
-1 Data manipuleren, filteren en sorteren (maandag)
-Om de data die je uit een API hebt ingeladen gerichter te kunnen bekijken, voeg je een filter- en sorteercomponent toe aan je webapp. Om de data goed te kunnen filteren en sorteren is het handig om data lokaal op te slaan. bijvoorbeeld in localStorage of gewoon in een variabele die onderdeel is van jouw app. Met de map, filter en reduce methods haal je steeds de gewenste data op en toon je het in de interface.
+Manipulate data and templating. Split code into modules. Reflect on what you made.
 
-Resources
+## Exercises
+
+1. Manipulate, filter and sort data (Monday)
+2. Reflect on work (Monday)
+3. Split code into modules (Tuesday)
+
+### 1. Manipulate, filter and sort data (Monday)
+
+To be able to view the data that you have loaded from an API in a more targeted way, add a filtering and sorting component to your web app. To properly filter and sort the data, it is useful to store data locally. for example in LocalStorage or simply in an object that is part of your app. With the map, filter and reduce methods you always retrieve the desired data and display it in the interface.
+
+#### Resources
+
 Advanced data manipulation
 
-2 Reflecteren op het werk (woensdag)
-Wat zijn de consequenties van het bouwen van een web app die volledig draait in de browser, een client side, single page web app? Lees onderstaande artikelen en beschouw de voor- en nadelen van deze werkwijze.
+### 2. Reflect on work (Monday)
 
-Resources
-The coast of JavaScript
+What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
+
+#### Resources
+
+The coast of JavaScript  
 One-page-applications are not accessible
-3 Code splitsen in modules (vrijdag)
-Als het goed is is je app nu bijna klaar. Refactor je code naar losse modules (deze zouden min of meer overeen moeten komen met de actors uit je actor diagram), zodat je code overzichtelijker is. Zet de modules in aparte bestanden.
 
-Resources
+### 3. Code splitsen in modules (vrijdag)
+
+If all goes well, your app is now almost ready. Refactor your code to individual modules (these should more or less correspond to the actors from your actor diagram), so that your code is more manageable. Put the modules in separate files.
+
+#### Resources
+
 From IIFE to Common.js to ES Modules MUST SEE!!!
 JavaScript Design Patterns
 Asynchronous Javascript (promises)

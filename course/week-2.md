@@ -16,7 +16,7 @@ The coming three weeks you will create a client side web app during this course.
 
 Breakdown the web app in features. Add routes and states. Rendering detail pages
 
-### Volgende week: ‘Wrapping up’ 🎁
+### Next week: ‘Wrapping up’ 🎁
 
 Manipulate data and templating. Split code into modules. Reflect on what you made.
 
