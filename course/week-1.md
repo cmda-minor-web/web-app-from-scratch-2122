@@ -72,7 +72,7 @@ Parse de JSON and save the data items in a temporary object (and / or in LocalSt
 
 #### Resources
 
-[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
 [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 
 ### 4. Rendering data in the overview page (Tuesday)
@@ -81,7 +81,7 @@ Generate a list of items in the overview page (index.html) based on the data you
 
 #### Resources
 
-[element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
+[element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)  
 [Template engines](http://microjs.com/#template)
 
 ### 5. Conduct Code Review on GitHub (vrijdag)
