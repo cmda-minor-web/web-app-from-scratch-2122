@@ -40,27 +40,27 @@ Publish your web app with Github pages and add the link to the web app in the re
 
 #### Resources
 
-GitHub Hello World (getting started)
-Git command explorer
-Github Pages
+[GitHub Hello World (getting started)](https://guides.github.com/activities/hello-world/)  
+[Git command explorer](https://gitexplorer.com/)  
+[Github Pages](https://pages.github.com/)  
 
 ### 2. Write a good README.md (Tuesday)
 
 A good app comes with a good README.md in which you describe the application. Add the chapters below and document your app.
 
-linkToLiveDemo? review (assignment): assignGrade (1);
-What does your app do, what is the goal? (passing butter)
-Which actors are there in your application? (actor diagram)
-Which API is used and what are the limitations? (rate limit)
-How does flowed interaction through the application? (interaction diagram)
-Which design patterns and best practices
-What would you like to add (feature wishlist / backlog)
+linkToLiveDemo? review (assignment): assignGrade (1);  
+What does your app do, what is the goal? (passing butter)  
+Which actors are there in your application? (actor diagram)  
+Which API is used and what are the limitations? (rate limit)  
+How does flowed interaction through the application? (interaction diagram)  
+Which design patterns and best practices  
+What would you like to add (feature wishlist / backlog)  
 
-(Also see the commented hints in the README.md)
+*(Also see the commented hints in the README.md)*
 
 #### Resources
 
-A list of awesome READMEs
+[A list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
 
 ### 3. Loading data asynchronously from an API (Tuesday)
 
@@ -72,8 +72,8 @@ Parse de JSON and save the data items in a temporary object (and / or in LocalSt
 
 #### Resources
 
-The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!
-You don’t know JS; Async & Performance
+[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 
 ### 4. Rendering data in the overview page (Tuesday)
 
@@ -81,8 +81,8 @@ Generate a list of items in the overview page (index.html) based on the data you
 
 #### Resources
 
-element.innerHTML
-Template engines
+[element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
+[Template engines](http://microjs.com/#template)
 
 ### 5. Conduct Code Review on GitHub (vrijdag)
 
