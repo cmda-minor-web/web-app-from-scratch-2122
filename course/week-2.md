@@ -6,7 +6,7 @@ Minor Web Development - Web App From Scratch
 
 The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-[Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTlOfu6EkB05R1a0a9mVihvU4aHDPa-ABDzTZTIQcfpHJaqKlUxAP9QMMg-i5lO9wHnHgK233C9niFF/pub?start=false&loop=false&delayms=3000)
 
 ## Method
 
@@ -36,7 +36,7 @@ Perform the step-by-step of the documentation below.
 
 #### Resources
 
-Documentation Actor and Interaction diagram
+[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)
 
 ### 2. Create interaction diagram (Monday)
 
@@ -46,7 +46,7 @@ Perform the step-by-step of the documentation below
 
 #### Resources
 
-Documentation Actor and Interaction diagram
+[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)
 
 ### 3. Refactor code (Monday)
 
@@ -54,8 +54,8 @@ Now that you have gained a better understanding, using the diagrams, it may be t
 
 #### Resources
 
-JavaScript Design Patterns
-Advanced JavaScript concepts
+[JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+[Advanced JavaScript concepts](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
 ### 4. Handle routes to the detail pages (Monday)
 
