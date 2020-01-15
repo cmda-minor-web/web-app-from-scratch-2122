@@ -6,7 +6,7 @@ Minor Web Development - Web App From Scratch
 
 The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-[Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTpyIKXbnVu9FRbrTvmfEClbZcV4anL7Yy-MYTRrocYTIHXUbf8vbT_t91wsNGWVsyv6KCNshBuFmuq/pub?start=false&loop=false&delayms=3000)
 
 ## Method
 
