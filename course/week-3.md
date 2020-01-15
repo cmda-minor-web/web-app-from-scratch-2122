@@ -6,7 +6,7 @@ Minor Web Development - Web App From Scratch
 
 The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-[Slides](https://docs.google.com/presentation/d/1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y/edit#slide=id.g4eaef43d64_0_0)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQuBIT_Q-Kc2dKJ4BWTXXSX0Jrhld7iSCR_dHVnxB12AYso-AcWQk0HcXbnmZIEv3cZWYoG5WPIrnWJ/pub?start=false&loop=false&delayms=3000)
 
 ## Method
 
@@ -28,7 +28,7 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 #### Resources
 
-Advanced data manipulation
+[Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
 
 ### 2. Reflect on work (Monday)
 
@@ -36,8 +36,8 @@ What are the consequences of building a web app that runs entirely in the browse
 
 #### Resources
 
-The coast of JavaScript  
-One-page-applications are not accessible
+[The coast of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)  
+[One-page-applications are not accessible](http://www.craigabbott.co.uk/one-page-applications-are-not-accessible)
 
 ### 3. Code splitsen in modules (vrijdag)
 
@@ -45,6 +45,6 @@ If all goes well, your app is now almost ready. Refactor your code to individual
 
 #### Resources
 
-From IIFE to Common.js to ES Modules MUST SEE!!!
-JavaScript Design Patterns
-Asynchronous Javascript (promises)
+[From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!!  
+[JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+[Asynchronous Javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript) (promises)
