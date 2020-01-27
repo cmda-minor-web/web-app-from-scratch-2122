@@ -59,7 +59,9 @@ section#lecturers img {
   margin-right: 1em;
   width:15vw;
 }
-
+section#lecturers a {
+  white-space:nowrap;
+}
 .button {
   background: var(--light);
   color: var(--dark);
