@@ -42,6 +42,8 @@ Manipulate data. Split code into modules. Reflect on end result
 
 <!-- ☝️ replace this description with a description of your own work -->
 
+<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
+
 <!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
 
 <!-- Maybe a table of contents here? 📚 -->
