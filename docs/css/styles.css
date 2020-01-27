@@ -67,7 +67,7 @@ section#lecturers li:nth-child(3) {
 section#lecturers img {
   border-radius: 100%;
   margin-right: 1em;
-  width:25vw;
+  width:20vw;
 }
 section#lecturers a {
   white-space:nowrap;
