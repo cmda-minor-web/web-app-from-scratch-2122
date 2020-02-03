@@ -66,7 +66,16 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
 
+#### Pick an API
 Select a JSON API of your choice from for example Programmable Web (the api must support https!) (Http://www.programmableweb.com/apis/directory)
+
+Examples of easily accessable APIs:
+- [Darksky](https://darksky.net/dev)
+- [Rijksmuseum](https://www.rijksmuseum.nl/en/api/-rijksmuseum-oai-api-instructions-for-use)
+- [Github](https://developer.github.com/v3/)
+- [Trivia](https://opentdb.com/api_config.php)
+
+#### Fetch data from your API
 Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.
 Parse de JSON and save the data items in a temporary object (and / or in LocalStorage).
 
