@@ -60,7 +60,7 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 #### Resources
 
-[A list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
+[A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)
 
 ### 3. Loading data asynchronously from an API (Tuesday)
 
