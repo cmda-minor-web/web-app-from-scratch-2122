@@ -44,7 +44,7 @@ Publish your web app with Github pages and add the link to the web app in the re
 [Git command explorer](https://gitexplorer.com/)  
 [Github Pages](https://pages.github.com/)  
 
-### 2. Write a good README.md (Tuesday)
+### 2. Write a good README.md (Monday)
 
 A good app comes with a good README.md in which you describe the application. Add the chapters below and document your app.
 
@@ -62,7 +62,7 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 [A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)
 
-### 3. Loading data asynchronously from an API (Tuesday)
+### 3. Loading data asynchronously from an API (Monday / Tuesday)
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
 
