@@ -84,7 +84,7 @@ Generate a list of items in the overview page (index.html) based on the data you
 [element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)  
 [Template engines](http://microjs.com/#template)
 
-### 5. Conduct Code Review on GitHub (vrijdag)
+### 5. Add issues on GitHub (vrijdag)
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
