@@ -9,7 +9,7 @@ In this course you will learn to build a web application without frameworks or u
 * _You understand how you can work with an external API using asynchronous code_
 * _You understand how you can manage state in your application and you inform the user of state where necessary_
 
-[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
+[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTC69BUOGNQj_bLQE9LiprKGYChzb4LOoROoUiLUP8DReOcFLqS5k90Wu1LK9L5r1IVq7BDA1qISp5u/pubhtml)
 
 ## Program
 
