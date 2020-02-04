@@ -26,7 +26,7 @@ Breakdown the web app in features. Add routes and states. Rendering detail pages
 2. Write a good README.md (Monday)
 3. Loading asynchronous data from an API (Tuesday)
 4. Rendering data in the overview page (Tuesday)
-5. Conduct Code Review via GitHub (Tuesday)  
+5. Conduct Code Review via GitHub (Friday)  
    Extra challenge
 
 ### 1. Fork GitHub repository for this course (Monday)
@@ -93,7 +93,7 @@ Generate a list of items in the overview page (index.html) based on the data you
 [element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)  
 [Template engines](http://microjs.com/#template)
 
-### 5. Add issues on GitHub (vrijdag)
+### 5. Conduct coode review: add issues on GitHub (vrijdag)
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
