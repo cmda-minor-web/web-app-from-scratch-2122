@@ -11,3 +11,7 @@
 - You're allowed to commit to either strategy.
 - [Here's a nice example of an OOP web app](https://github.com/TimTerwijn/web-app-from-scratch-1920). Notice how object are responsible and self contained. Also notice how you need to jump through the code a lot in order to follow the flow of control.
 - [Tomas](https://github.com/TomasS666/web-app-from-scratch-1920/tree/master/docs) went for a more functional approach. Here it's easier to chain functionalities together and the code reads more like human language.
+
+## Using InnerHTML
+- InnerHTML is not safe when you're overwriting the entire html content of a node [citation needed]
+- Don't pick an alternative because you saw it being used somewhere, read up on the differences and make an [informed decision](https://stackoverflow.com/a/7476723/5440366).
