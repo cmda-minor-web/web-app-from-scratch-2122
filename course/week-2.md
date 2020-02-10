@@ -50,7 +50,7 @@ Perform the step-by-step of the documentation below
 
 ### 3. Refactor code (Monday)
 
-Now that you have gained a better understanding, using the diagrams, it may be time to refact the structure of your app. In other words, how are you going to code the various actors and the dependencies between them in your app? Which design patterns do you use? Look carefully at the criteria in the [rubric] and make sure that your code meets these.
+Now that you have gained a better understanding, using the diagrams, it may be time to refactor the structure of your app. In other words, how are you going to code the various actors and the dependencies between them in your app? Which design patterns do you use? Look carefully at the criteria in the [rubric] and make sure that your code meets these.
 
 #### Resources
 
