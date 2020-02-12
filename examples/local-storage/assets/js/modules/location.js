@@ -17,8 +17,4 @@ const location = {
     }
 }
 
-
-function getLocation(){
-  return new Promise()
-}
 export {location}
