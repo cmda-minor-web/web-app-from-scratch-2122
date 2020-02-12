@@ -38,6 +38,9 @@ Manipulate data. Split code into modules. Reflect on end result
 
 [Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
 
+## Best Practices
+All work during this course will be tested against our [Best Practces for JavaScript](https://docs.google.com/spreadsheets/d/e/2PACX-1vTC69BUOGNQj_bLQE9LiprKGYChzb4LOoROoUiLUP8DReOcFLqS5k90Wu1LK9L5r1IVq7BDA1qISp5u/pubhtml).
+
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
 <!-- ☝️ replace this description with a description of your own work -->
