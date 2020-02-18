@@ -1,7 +1,7 @@
 # Examples of patterns used with SPA's
 
 ## Local Storage
-[Livelink]
+[Livelink](https://codepen.io/Senpaizuri/pen/LYVZjQB)
 
 ## Routing, fetching and templating in functions
 [Livelink]
