@@ -30,16 +30,7 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
 
-### 2. Reflect on work (Monday)
-
-What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
-
-#### Resources
-
-[The coast of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)  
-[One-page-applications are not accessible](http://www.craigabbott.co.uk/one-page-applications-are-not-accessible)
-
-### 3. Code splitsen in modules (vrijdag)
+### 2. Code splitsen in modules (Monday)
 
 If all goes well, your app is now almost ready. Refactor your code to individual modules (these should more or less correspond to the actors from your actor diagram), so that your code is more manageable. Put the modules in separate files.
 
@@ -48,3 +39,14 @@ If all goes well, your app is now almost ready. Refactor your code to individual
 [From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!!  
 [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 [Asynchronous Javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript) (promises)
+
+### 3. Reflect on work (Tuesday)
+
+What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
+
+#### Resources
+
+[The coast of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)  
+[One-page-applications are not accessible](http://www.craigabbott.co.uk/one-page-applications-are-not-accessible)
+
+
