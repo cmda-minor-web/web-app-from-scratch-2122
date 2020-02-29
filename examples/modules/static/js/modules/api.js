@@ -1,5 +1,3 @@
-import { render } from './render.js';
-
 export function getData(id) {
   const endpoint = 'https://api.giphy.com/v1/gifs/';
   const query = 'search?q=';
@@ -18,7 +16,6 @@ export function getData(id) {
     .then(response => response.json())
     .then(data => clean(data.data))
     .then(data => store(data))
-    .then(data => render(data, id))
     .catch(err => {
       console.log(err);
     });
