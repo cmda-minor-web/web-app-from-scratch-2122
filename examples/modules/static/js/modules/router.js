@@ -1,17 +1,25 @@
 import { getData } from './api.js';
 import { loader } from './loader.js';
+import { render } from './render.js';
+
+let id;
 
 export function handleRoutes() {
   routie({
     gifs: () => {
       loader('active');
-      console.log(getData());
-      getData().then(() => updateUI('gifs'));
+      getData().then(data => {
+        render(data);
+        updateUI('gifs');
+      });
     },
     //#giphy/425367
     'gifs/:id': id => {
       loader('active');
-      getData(id).then(() => updateUI('giphy'));
+      getData(id).then(data => {
+        render(data, id);
+        updateUI('giphy');
+      });
     }
   });
 }
