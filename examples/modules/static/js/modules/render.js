@@ -4,7 +4,7 @@ export function render(data, id) {
   if (!id) {
     collection(data);
   } else {
-    item(data, id);
+    item(data);
   }
 }
 
@@ -24,7 +24,7 @@ function collection(data) {
   });
 }
 
-function item(data, id) {
+function item(data) {
   const section = document.querySelector('section[data-route=giphy]');
 
   loader('in-active');
