@@ -2,8 +2,6 @@ import { getData } from './api.js';
 import { loader } from './loader.js';
 import { render } from './render.js';
 
-let id;
-
 export function handleRoutes() {
   routie({
     gifs: () => {
