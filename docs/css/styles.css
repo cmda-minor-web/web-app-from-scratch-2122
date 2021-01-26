@@ -98,6 +98,25 @@ a:visited {
   color: var(--course);
 }
 
-footer {
+body > footer {
   font-style: italic;
+}
+footer h4 {
+  margin-bottom: .25rem;
+}
+footer a {
+  position: relative;
+  padding-left: 2.5rem
+}
+footer a svg {
+  position: absolute;
+  left:0;
+  top: 0;
+  transform:scale(.6) translateY(-.65rem);
+  margin-bottom: .25rem;
+  stroke:rgba(255,255,255,.6)
+}
+article footer {
+  display:flex;
+  flex-direction: column;
 }
