@@ -32,19 +32,21 @@ h2 {
   font-size: 2em;
   margin-top: 1.5em;
 }
-ul {
+section > ul {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
   padding: 0;
   margin: 0 -1rem;
 }
-ul li {
+
+section > ul li {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 1rem;
 }
+
 ul img {
   border: 2px solid var(--light);
   margin-top: 2em;
@@ -71,6 +73,11 @@ section#lecturers img {
 }
 section#lecturers a {
   white-space:nowrap;
+}
+article {
+  margin: 2em -2rem;
+  background-color:rgba(255,255,255,.1);
+  padding:2rem
 }
 .button {
   background: var(--light);
