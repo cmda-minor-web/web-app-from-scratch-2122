@@ -28,6 +28,10 @@ header {
 h1 {
   font-size: 7vw;
 }
+h1 em {
+  font-size:2rem;
+  display:block
+}
 h2 {
   font-size: 2em;
   margin-top: 1.5em;
