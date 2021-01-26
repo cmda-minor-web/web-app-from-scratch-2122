@@ -27,6 +27,7 @@ header {
 }
 h1 {
   font-size: 7vw;
+  text-align:center;
 }
 h1 em {
   font-size:2rem;
