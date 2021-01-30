@@ -68,9 +68,7 @@ section#lecturers li {
   width:45%;
   text-align:center;
 }
-section#lecturers li:nth-child(3) {
-  width:100%
-}
+
 section#lecturers img {
   border-radius: 100%;
   margin-right: 1em;
