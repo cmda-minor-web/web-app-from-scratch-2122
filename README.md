@@ -9,7 +9,7 @@ In this course you will learn to build a web application without frameworks or u
 * _You understand how you can work with an external API using asynchronous code_
 * _You understand how you can manage state in your application and you inform the user of state where necessary_
 
-[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTC69BUOGNQj_bLQE9LiprKGYChzb4LOoROoUiLUP8DReOcFLqS5k90Wu1LK9L5r1IVq7BDA1qISp5u/pubhtml)
+[Rubric](https://docs.google.com/spreadsheets/d/1vJJ4EhIqkefWj1nWFp0Pnvy1Kld-S2V3qwZgC6XQO0c/edit?usp=sharing)
 
 ## Program
 
@@ -17,29 +17,29 @@ In this course you will learn to build a web application without frameworks or u
 
 Goal: Retrieve data from an API and render it in an overview page.
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-1.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-1.md)
 
-[Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
+[Slides](https://docs.google.com/presentation/d/1hXfgIhBzJ2QXDmpKpMcx7G-a9R_fVrcPdeOyM3G0I00/edit?usp=sharing)
 
 ### Week 2 - Design and Refactor 🛠
 
 Goal: Design the web app. Add routes and states. Rendering detail page.
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-2.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-2.md)
 
-[Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
+[Slides](https://docs.google.com/presentation/d/1ycANqFk9LtrZCBJF2TyQ1c_bejjEctSlb-52xbK_P1g/edit?usp=sharing)
 
 ### Week 3 - Wrapping up 🎁
 
 Goal:
 Manipulate data. Split code into modules. Reflect on end result
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-3.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
 
-[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
+[Slides](https://docs.google.com/presentation/d/1yZi-ODpENKHMr0-kpKmnCI6dGSgXS9oeLxMXCJnieic/edit?usp=sharing)
 
 ## Best Practices
-All work during this course will be tested against our [Best Practces for JavaScript](https://docs.google.com/spreadsheets/d/e/2PACX-1vTC69BUOGNQj_bLQE9LiprKGYChzb4LOoROoUiLUP8DReOcFLqS5k90Wu1LK9L5r1IVq7BDA1qISp5u/pubhtml).
+All work during this course will be tested against our [Best Practces for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
