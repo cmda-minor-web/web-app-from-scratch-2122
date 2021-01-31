@@ -4,9 +4,9 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
+The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid to use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTlOfu6EkB05R1a0a9mVihvU4aHDPa-ABDzTZTIQcfpHJaqKlUxAP9QMMg-i5lO9wHnHgK233C9niFF/pub?start=false&loop=false&delayms=3000)
+[Slides](https://docs.google.com/presentation/d/1ycANqFk9LtrZCBJF2TyQ1c_bejjEctSlb-52xbK_P1g/edit?usp=sharing)
 
 ## Method
 
@@ -61,7 +61,7 @@ Now that you have gained a better understanding, using the diagrams, it may be t
 
 ### 4. Handle routes to the detail pages (Monday)
 
-n a single page web app you will have to create the URLs (or routes) to the different "pages" in JavaScript. For example if you want to be able to navigate to a detail page. You can do this by using the hash (#) in the url, in combination with the hashchange event. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
+On a single page web app you will have to create the URLs (or routes) to the different "pages" in JavaScript. For example if you want to be able to navigate to a detail page. You can do this by using the hash (#) in the url, in combination with the hashchange event. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
 Link the items on the overview pages to unique URLs and handle these routes.
 Make sure that you can also navigate back to the overview page.
