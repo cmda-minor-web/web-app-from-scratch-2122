@@ -4,9 +4,9 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid the use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
+The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid to use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
 
-[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTpyIKXbnVu9FRbrTvmfEClbZcV4anL7Yy-MYTRrocYTIHXUbf8vbT_t91wsNGWVsyv6KCNshBuFmuq/pub?start=false&loop=false&delayms=3000)
+[Slides](https://docs.google.com/presentation/d/1hXfgIhBzJ2QXDmpKpMcx7G-a9R_fVrcPdeOyM3G0I00/edit?usp=sharing)
 
 ## Method
 
@@ -33,7 +33,7 @@ Breakdown the web app in features. Add routes and states. Rendering detail pages
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
-Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-1920
+Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-2021
 
 Open issues on your repo so that you can get feedback!
 Publish your web app with Github pages and add the link to the web app in the repo description.
@@ -82,7 +82,7 @@ Parse de JSON and save the data items in a temporary object (and / or in LocalSt
 #### Resources
 
 [The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
-[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 
 ### 4. Rendering data in the overview page (Tuesday)
 
@@ -93,7 +93,7 @@ Generate a list of items in the overview page (index.html) based on the data you
 [element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)  
 [Template engines](http://microjs.com/#template)
 
-### 5. Conduct coode review: add issues on GitHub (vrijdag)
+### 5. Conduct code review: add issues on GitHub (vrijdag)
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
