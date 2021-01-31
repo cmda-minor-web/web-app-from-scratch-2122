@@ -1,6 +1,6 @@
 # Web App From Scratch @cmda-minor-web 2020 - 2021
 
-In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and develope your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of the how API's, frameworks and libraries work.
+In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and develop your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of how API's, frameworks and libraries work.
 
 ## Learning goals
 
@@ -23,7 +23,7 @@ Goal: Retrieve data from an API and render it in an overview page.
 
 ### Week 2 - Design and Refactor 🛠
 
-Goal: Design the web app. Add routes and states. Rendering detail page.
+Goal: Design the web app. Add routes and states. Split code into modules. Rendering detail page.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-2.md)
 
@@ -32,14 +32,14 @@ Goal: Design the web app. Add routes and states. Rendering detail page.
 ### Week 3 - Wrapping up 🎁
 
 Goal:
-Manipulate data. Split code into modules. Reflect on end result
+Manipulate data. Reflect on end result
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
 
 [Slides](https://docs.google.com/presentation/d/1yZi-ODpENKHMr0-kpKmnCI6dGSgXS9oeLxMXCJnieic/edit?usp=sharing)
 
 ## Best Practices
-All work during this course will be tested against our [Best Practces for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
+All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
