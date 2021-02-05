@@ -102,6 +102,8 @@ Create at least 2 issues for different peer students. You can look at improvemen
 
 If you can use some extra challenge, the topics below might be interesting for you. It may be wise to first create the above exercises as such, and then process one or more of the advanced topics below. If you want to tackle a different topic, we advice you to consult a teacher.
 
+[Instructions on how to conduct peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/peer-review-1.md)
+
 #### Resources
 
 [Write your own template engine](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)  
