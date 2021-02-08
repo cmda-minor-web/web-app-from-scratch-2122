@@ -28,18 +28,18 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 4. Handle routes to the detail pages (Monday)
 5. Implement a template engine (Tuesday)
 
-### 1. Create actor diagram (Monday)
+### 1. Create actor diagram - WHO (Monday)
 
-Visualize where your code lives in a comprehensible way. Ensure that all objects, properties, methods and any variables and functions are included. Look back to the lecture and your notes to see how you do this. Put the actor diagram in your README.md of the forked repo.
+Visualize where your code lives in a comprehensible way. Ensure that all objects, properties, methods and any variables and functions are included. Look at the included documentation see how you do this. Put the actor diagram in your README.md of the forked repo.
 
 Perform the step-by-step of the documentation below.
 
 #### Resources
 
-[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)  
+[Documentation Actor and Interaction diagram](https://docs.google.com/document/d/1445IOuXNTlCki89WkGSZxwJoxbHkdzuFgp53KCC9WOc/edit?usp=sharing)  
 [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
 
-### 2. Create interaction diagram (Monday)
+### 2. Create interaction diagram - WHAT (Monday)
 
 How does the interaction between user and app work? For example, when will data be loaded? Which use cases are possible? We will do the assessment based on this diagram and your actor diagram. Put the interaction diagram in your README.md of the forked repo.
 
@@ -47,12 +47,12 @@ Perform the step-by-step of the documentation below
 
 #### Resources
 
-[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)  
+[Documentation Actor and Interaction diagram](https://docs.google.com/document/d/1445IOuXNTlCki89WkGSZxwJoxbHkdzuFgp53KCC9WOc/edit?usp=sharing)  
 [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
 
 ### 3. Refactor code (Monday)
 
-Now that you have gained a better understanding, using the diagrams, it may be time to refactor the structure of your app. In other words, how are you going to code the various actors and the dependencies between them in your app? Which design patterns do you use? Look carefully at the criteria in the [rubric] and make sure that your code meets these.
+Now that you have gained a better understanding, using the diagrams, it may be time to refactor the structure of your app. In other words, how are you going to code or refactor the various actors and the dependencies between them in your app? Which design patterns do you use? Look carefully at the criteria in the [rubric] and make sure that your code meets these.
 
 #### Resources
 
@@ -68,9 +68,11 @@ Make sure that you can also navigate back to the overview page.
 
 #### Resources
 
-http://microjs.com/#router
+http://microjs.com/#router  
+[Routie - hash router](http://projects.jga.me/routie/)  
 
-### 5. Implement a template engine (Tuesday)
+
+### 5. Implement a template engine (extra)
 
 Use a template engine to render the data to HTML.
 Add the Transparency.js template engine (https://github.com/leonidas/transparency) to your application. Or use a different template engine of your own choice.
