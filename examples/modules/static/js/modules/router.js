@@ -1,5 +1,6 @@
 import { getData } from './api.js';
 import { loader } from './loader.js';
+import { updateUI } from './ui.js'
 import { render } from './render.js';
 
 export function handleRoutes() {
@@ -22,13 +23,4 @@ export function handleRoutes() {
   });
 }
 
-function updateUI(route) {
-  const sections = document.querySelectorAll('section');
-  const activeSection = document.querySelector(`[data-route=${route}]`);
 
-  sections.forEach(section => {
-    section.classList.remove('active');
-  });
-
-  activeSection.classList.add('active');
-}

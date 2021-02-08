@@ -12,6 +12,7 @@ body {
   margin: 0;
   color: pink;
   background-color: #000;
+  scroll-behavior: smooth;
 }
 ul {
   list-style: none;

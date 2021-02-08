@@ -20,6 +20,7 @@ function collection(data) {
         </a>
       </article>
     `;
+
     section.insertAdjacentHTML('beforeend', html);
   });
 }
