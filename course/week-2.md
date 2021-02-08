@@ -36,7 +36,7 @@ Perform the step-by-step of the documentation below.
 
 #### Resources
 
-[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)
+[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)  
 [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
 
 ### 2. Create interaction diagram (Monday)
@@ -47,7 +47,7 @@ Perform the step-by-step of the documentation below
 
 #### Resources
 
-[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)
+[Documentation Actor and Interaction diagram](https://drive.google.com/open?id=17zwy1Kj4vqM5jqYWz7U6Spi_7i9ucucyBeAMDAfn0mY)  
 [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
 
 ### 3. Refactor code (Monday)
@@ -56,7 +56,7 @@ Now that you have gained a better understanding, using the diagrams, it may be t
 
 #### Resources
 
-[JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+[JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)    
 [Advanced JavaScript concepts](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
 ### 4. Handle routes to the detail pages (Monday)
