@@ -50,5 +50,5 @@ Then, assess🍑 the work according to the rubric. Write one issue where you say
 
 ## Closure
 - Review the issues that were created for your own repo. Ask your reviewer about them if you don't understand.
-- Respond to the issues with a message describing whih action you take. For instance: valid point, will fix. Or: I won't fix this because of ...
+- Respond to the issues with a message describing which action you take. For instance: valid point, will fix. Or: I won't fix this because of ...
 - Close issues when they are solved.
