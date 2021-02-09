@@ -40,7 +40,8 @@ Positive feedback is also welcome and can be put into an issue
     + Has it already been structured according to the diagrams?
     + Think of structural improvements
     + Check the code against our [best practices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md)
-    + ... or better still, pick a more extensive JavaScript style guide from here: [https://javascript.info/coding-style#style-guides](https://javascript.info/coding-style#style-guides)
+    + ... or better still, pick a more extensive JavaScript style guide from here:   
+     [https://javascript.info/coding-style#style-guides](https://javascript.info/coding-style#style-guides)
     + Check the code for consistency, is code being written the same way in different places?
     + Does the code follow naming conventions? Do variable and function names make sense to you?
 
