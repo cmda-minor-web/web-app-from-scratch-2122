@@ -37,7 +37,7 @@ When dealing with asynchronous data fetching, it's very important to provide fee
 
 #### Resources
 
-[Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally) 
+[Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)  
 [5 Principles of Interaction Design To Supercharge Your UI](https://givegoodux.com/feedback-5-principles-interaction-design-supercharge-ui-5-5/)
 
 ### 3. Code splitsen in modules (Monday)
