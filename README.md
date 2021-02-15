@@ -33,7 +33,7 @@ Goal: Design the web app. Add routes and states. Split code into modules. Render
 ### Week 3 - Wrapping up 🎁
 
 Goal:
-Manipulate data. Reflect on end result
+Manipulate data. Feedback to the user, Reflect on end result
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
 
