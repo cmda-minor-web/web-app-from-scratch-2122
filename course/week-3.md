@@ -19,7 +19,7 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 ## Exercises
 
 1. Manipulate, filter and sort data (Monday)
-2. Reflect on work (Monday)
+2. Reflect on work (Tuesday)
 3. Split code into modules (Tuesday)
 
 ### 1. Manipulate, filter and sort data (Monday)
