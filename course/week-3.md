@@ -19,8 +19,9 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 ## Exercises
 
 1. Manipulate, filter and sort data (Monday)
-2. Reflect on work (Tuesday)
-3. Split code into modules (Tuesday)
+2. Give feedback to the user
+3. Reflect on work (Tuesday)
+4. Split code into modules (Tuesday)
 
 ### 1. Manipulate, filter and sort data (Monday)
 
@@ -30,7 +31,16 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
 
-### 2. Code splitsen in modules (Monday)
+### 2. Give feedback to user (Monday)
+When dealing with asynchronous data fetching, it's very important to provide feedback to the user. Add a loading state to your application. And give feedback in case of succes and failure!
+
+
+#### Resources
+
+[Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally) 
+[5 Principles of Interaction Design To Supercharge Your UI](https://givegoodux.com/feedback-5-principles-interaction-design-supercharge-ui-5-5/)
+
+### 3. Code splitsen in modules (Monday)
 
 If all goes well, your app is now almost ready. Refactor your code to individual modules (these should more or less correspond to the actors from your actor diagram), so that your code is more manageable. Put the modules in separate files.
 
