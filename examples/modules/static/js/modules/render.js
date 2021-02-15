@@ -1,4 +1,5 @@
 import { loader } from './loader.js';
+import {$, $$} from './ui.js'
 
 export function render(data, id) {
   if (!id) {
@@ -9,7 +10,7 @@ export function render(data, id) {
 }
 
 function collection(data) {
-  const section = document.querySelector('section[data-route=gifs]');
+  const section = $('section[data-route=gifs]');
   loader('in-active');
 
   data.forEach((item, i) => {
@@ -26,7 +27,7 @@ function collection(data) {
 }
 
 function item(data) {
-  const section = document.querySelector('section[data-route=giphy]');
+  const section = $('section[data-route=giphy]');
 
   loader('in-active');
 

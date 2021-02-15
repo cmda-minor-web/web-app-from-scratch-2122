@@ -8,3 +8,11 @@ export function updateUI(route) {
 
     activeSection.classList.add('active');
 }
+
+export function $(element){
+    return document.querySelector(element);
+}
+
+export function $$(elements){
+    return document.querySelectorAll(elements);
+}

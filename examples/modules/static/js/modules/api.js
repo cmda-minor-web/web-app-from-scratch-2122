@@ -1,3 +1,4 @@
+
 export function getData(id) {
   const endpoint = 'https://api.giphy.com/v1/gifs/';
   const query = 'search?q=';
