@@ -9,7 +9,7 @@ In this course you will learn to build a web application without frameworks or u
 * _You understand how you can work with an external API using asynchronous code_
 * _You understand how you can manage state in your application and you inform the user of state where necessary_
 
-## Rubbric
+## Rubric
 Your efforts will be graded using a single point rubric (see below). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
 
 | Deficiency | Criterion | Improvement |
@@ -19,7 +19,7 @@ Your efforts will be graded using a single point rubric (see below). You will ha
 |  | *Data management* ... | ... |
 |  | *Project* Your app is working and published on GitHub Pages. Your project is thoroughly documented in the `README.md` file in your repository.  |  |
 
-02d09ceb59a7&fileType=xlsx&objectUrl=https%3A%2F%2Ficthva.sharepoint.com%2Fsites%2FFDMCI_EDU__CMD20_21_Minor_Web_5i7j73jt%2FShared%20Documents%2F02%20-%20Web%20App%20From%20Scratch%2FWAFS%202021%20Planning.xlsx&baseUrl=https%3A%2F%2Ficthva.sharepoint.com%2Fsites%2FFDMCI_EDU__CMD20_21_Minor_Web_5i7j73jt&serviceName=teams&threadId=19:9bd8abc7b32c4e0196ddbaae12cf8e79@thread.tacv2&groupId=5d001f9a-0a4b-4768-92b1-0f1768328ba3)
+
 
 ## Program
 
