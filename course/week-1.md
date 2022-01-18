@@ -21,7 +21,7 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 ## Sub tasks
 
 1. Pick a user story and design the interface
-2. Loading asynchronous data from the API and render structured content in the interface
+2. Load data from the API and build the interface
 3. Fork GitHub repository for this course and setup the README.md 
 4. Conduct Code Review via GitHub  
 
@@ -30,7 +30,7 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 Pick User Story.. 
 Sketch user flow in wireflow..
 
-### 2. Loading asynchronous data from the API and build interface
+### 2. Loading data from the API and build the interface
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for.   
 That is why you are going to make an asynchronous request to the API.
