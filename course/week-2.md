@@ -8,13 +8,10 @@ The coming three weeks you will create a client side web app during this course.
 
 [Slides](https://docs.google.com/presentation/d/1ycANqFk9LtrZCBJF2TyQ1c_bejjEctSlb-52xbK_P1g/edit?usp=sharing)
 
-## Method
-
-16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
 ### This week: ‘Design & refactor’ 🛠
 
-Breakdown the web app in features. Add routes and states. Rendering detail pages
+Iterate on the user story. Add routes and states. Refactor code into modules.
 
 ### Next week: ‘Wrapping up’ 🎁
 
