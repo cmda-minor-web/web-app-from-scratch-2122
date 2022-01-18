@@ -7,7 +7,7 @@
 
 ## Rijksdata (API)
 
-Het Rijksmuseum verbindt mensen, kunst en geschiedenis. Onze databronnen vormen daarbij belangrijke bouwstenen. Daarom bieden we ze op verschillende manieren aan. Geleid door het vooruitstrevende Open Databeleid en geïnspireerd door de FAIR data principes.
+Het Rijksmuseum verbindt mensen, kunst en geschiedenis. Onze databronnen vormen daarbij belangrijke bouwstenen. 
 
 Van schilderij tot scheepsmodel, je vindt het in de collectiedata van het Rijksmuseum. De gegevens van meer dan een half miljoen objecten hebben we inmiddels beschikbaar gemaakt voor hergebruik, de meeste met hoge resolutie objectfoto. 
 
