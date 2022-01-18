@@ -24,7 +24,7 @@ Goal: Pick a user story, design the interface, retrieve data from an API and ren
 
 ### Week 2 - Design and Refactor 🛠
 
-Goal: Test UI principles. Add routes and states. refactor code into modules.
+Goal: Iterate and improve UI. Add routes and states. refactor code into modules.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md)
 
