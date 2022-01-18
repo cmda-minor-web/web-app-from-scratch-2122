@@ -5,13 +5,13 @@ In this course you will learn to build a web application without frameworks or u
 ## Assignment
 
 ### User stories
-[Visitekaartje en Tribe]()
-[Rijksmuseum]()
-[Healthy Food Checker]()
-[Home Doctor]()
-[Frisbee Tournament]()
-[T-Shirt Maker]()
-[Storytelling with Mozilla Web Speech API]()
+[Visitekaartje en Tribe]()  
+[Rijksmuseum]()  
+[Healthy Food Checker]()  
+[Home Doctor]()  
+[Frisbee Tournament]()  
+[T-Shirt Maker]()  
+[Storytelling with Mozilla Web Speech API]()  
 
 ## Program
 
