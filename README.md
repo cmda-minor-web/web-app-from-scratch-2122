@@ -22,15 +22,11 @@ Goal: Retrieve data from an API and render it in an overview page.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-1.md)
 
-[Slides](https://docs.google.com/presentation/d/1hXfgIhBzJ2QXDmpKpMcx7G-a9R_fVrcPdeOyM3G0I00/edit?usp=sharing)
-
 ### Week 2 - Design and Refactor 🛠
 
 Goal: Design the web app. Add routes and states. Split code into modules. Rendering detail page.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-2.md)
-
-[Slides](https://docs.google.com/presentation/d/1ycANqFk9LtrZCBJF2TyQ1c_bejjEctSlb-52xbK_P1g/edit?usp=sharing)
 
 ### Week 3 - Wrapping up 🎁
 
@@ -38,8 +34,6 @@ Goal:
 Manipulate data. Feedback to the user, Reflect on end result
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
-
-[Slides](https://docs.google.com/presentation/d/1yZi-ODpENKHMr0-kpKmnCI6dGSgXS9oeLxMXCJnieic/edit?usp=sharing)
 
 ## Best Practices
 All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
