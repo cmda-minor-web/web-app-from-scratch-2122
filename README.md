@@ -8,7 +8,8 @@ Design and build a single page web app based on a user story.
 
 ### User stories
 
-- [Als gebruiker wil ik kunst uit het Rijksmuseum kunnen zoeken zodat ik daar meer informatie over te weten kan komen. <br>Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)  
+- Als gebruiker wil ik kunst uit het Rijksmuseum kunnen zoeken zodat ik daar meer informatie over te weten kan komen.
+<br>[Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)  
 - [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)  
 - [Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)    
 - [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)  
