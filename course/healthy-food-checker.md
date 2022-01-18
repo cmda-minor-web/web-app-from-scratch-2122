@@ -2,9 +2,9 @@
 
 ## User story:
 
-Als foodie, 
+**Als foodie, 
 wil ik tijdens het boodschappen doen makkelijk informatie over product kunnen bekijken,
-zodat ik goede keuze kan maken of het bij mijn dieet past.
+zodat ik goede keuze kan maken of het bij mijn dieet past.**
 
 
 
