@@ -12,7 +12,7 @@ The coming three weeks you will create a client side web app during this course.
 
 ### This week: ‘Hello API’ 🐒
 
-Pick an user story. Design the interface. Retrieve data from the chosen API and render structured content in the interface.
+Pick an user story. Design the interface. Retrieve data from the chosen API and build the interface.
 
 ### Next week: ‘Design & refactor’ 🛠
 
