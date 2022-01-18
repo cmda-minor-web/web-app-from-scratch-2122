@@ -20,19 +20,19 @@ Your efforts will be graded using a single point rubric (see below). You will ha
 
 Goal: Pick a user story, design the interface, retrieve data from an API and render the structured content.
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-1.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md)
 
 ### Week 2 - Design and Refactor 🛠
 
 Goal: Test UI principles. Add routes and states. refactor code into modules.
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-2.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md)
 
 ### Week 3 - Wrapping up 🎁
 
 Goal: Iterate abnd improve UI. Manipulate data. Feedback to the user.
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
+[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)
 
 ## Best Practices
 All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
