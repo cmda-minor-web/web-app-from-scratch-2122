@@ -61,7 +61,8 @@ Sketch user flow in wireflow..
 
 ### 3. Loading asynchronous data from the API and build interface
 
-Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
+Requesting data from an API can take a relatively long time that your program would not have to wait for.   
+That is why you are going to make an asynchronous request to the API.
 
 #### Fetch data from your API
 
