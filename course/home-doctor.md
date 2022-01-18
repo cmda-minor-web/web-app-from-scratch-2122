@@ -1,11 +1,15 @@
-#Home Doctor
+# Home Doctor
 
-User story:
+## User Story
 
-Is deze opdracht moeillijk??
+Als patient, 
+wil ik zelf thuis een bertouwbare diagnose kunnen stellen, 
+zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken.
 
 
-Home Doctor data (API):
+
+
+## Home Doctor data (API):
 
 Home Doctor wordt een website waarmee mensen zelf een diagnose kunnen laten stellen als ze ziek zijn of ergens last van hebben. Nooit meer Googelen naar een kachten en dan vreselijke foto's zien van vreselijke ziektes die je uiteindelijk niet blijkt te hebben, of helemaal niet bestaan ...
 
