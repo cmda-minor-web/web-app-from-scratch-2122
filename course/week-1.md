@@ -25,10 +25,12 @@ Pick a user story, sketch the interface, retrieve data from an API and build the
 3. Fork GitHub repository for this course and setup the README.md 
 4. Conduct Code Review via GitHub  
 
-### 2. Pick a user story and design the interface
+### 1. Pick a user story and design the interface
 
 Pick User Story.. 
 Sketch user flow in wireflow..
+
+---
 
 ### 2. Loading data from the API and build the interface
 
@@ -51,6 +53,8 @@ Render the data object into structured HTML and style the interface with CSS.
 [The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)   
 [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
+
+---  
 
 ### 3. Fork GitHub repository for this course and setup the README.md 
 
@@ -80,6 +84,7 @@ A good app comes with a good README.md in which you describe the application. Ad
 [Github Pages](https://pages.github.com/)  
 [A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)  
 
+---  
 
 ### 4. Conduct code review: add issues on GitHub
 
