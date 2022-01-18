@@ -14,6 +14,8 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-2.md)
 
+---  
+
 ## Goal this week
 
 Pick a user story, sketch the interface, retrieve data from an API and build the interface.
@@ -24,6 +26,8 @@ Pick a user story, sketch the interface, retrieve data from an API and build the
 2. Load data from the API and build the interface
 3. Fork GitHub repository for this course and setup the README.md 
 4. Conduct Code Review via GitHub  
+
+---  
 
 ### 1. Pick a user story and design the interface
 
