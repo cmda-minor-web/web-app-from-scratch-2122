@@ -2,8 +2,7 @@
 
 ## User Story
 
-**Als gebruiker wil ik kunst uit het rijksmuseum kunnen zoeken zodat ik daar meer informatie over te weten kan komen.**
-
+**Als gebruiker wil ik kunst uit het Rijksmuseum kunnen zoeken zodat ik daar meer informatie over te weten kan komen.**
 
 ## Rijksdata (API)
 
