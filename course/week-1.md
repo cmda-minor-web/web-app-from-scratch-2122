@@ -81,7 +81,7 @@ Render the data object into structured HTML and style the interface with CSS.
 [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
 
-### 4. Conduct code review: add issues on GitHub (vrijdag)
+### 4. Conduct code review: add issues on GitHub
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code. 
