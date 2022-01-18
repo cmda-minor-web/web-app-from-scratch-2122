@@ -4,14 +4,16 @@ In this course you will learn to build a web application without frameworks or u
 
 ## Assignment
 
+Design and build a single page web app based on a user story.
+
 ### User stories
-[Visitekaartje en Tribe]()  
-[Rijksmuseum]()  
-[Healthy Food Checker]()  
-[Home Doctor]()  
-[Frisbee Tournament]()  
-[T-Shirt Maker]()  
-[Storytelling with Mozilla Web Speech API]()  
+
+[Rijksmuseum](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)  
+[Healthy Food Checker](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)  
+[Home Doctor](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)    
+[Frisbee Tournament](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)  
+[T-Shirt Maker](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)
+[Storytelling with Mozilla Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 
 ## Program
 
