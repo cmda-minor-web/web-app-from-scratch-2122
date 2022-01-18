@@ -10,10 +10,6 @@ Pick a user story, sketch the interface, retrieve data from an API and build the
 
 The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write as much vanilla code as possible, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
 
-## Method
-
-16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
-
 ### This week: ‘Hello API’ 🐒
 
 Pick an user story. Design the interface. Retrieve data from the chosen API and render structured content in the interface.
