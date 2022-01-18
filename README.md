@@ -2,20 +2,13 @@
 
 In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and develop your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of how API's, frameworks and libraries work.
 
-## Learning goals
-
-* _You can add structure to your code by applying patterns. You can defend the choice for the chosen patterns_
-* _You can retrieve data, manipulate it and dynamically convert it to html elements using templating_
-* _You understand how you can work with an external API using asynchronous code_
-* _You understand how you can manage state in your application and you inform the user of state where necessary_
-
 ## Rubric
 Your efforts will be graded using a single point rubric (see below). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
 
 | Deficiency | Criterion | Improvement |
 |:--|:--|:--|
 |  | *Design Patterns* You build and test the user interface by applying interface principles and design patterns |  |
-|  | *Code structure* You write modular, consistent and efficient HTML, CSS and JavaScript code by applying patterns and best practices.  |  |
+|  | *Code structure* You write modular, consistent and efficient HTML, CSS and JavaScript code by applying patterns and best practices. You van manage state for th e application and the UI |  |
 |  | *Data management* You understand how you can work with an external API using asynchronous code. You can retrieve data, manipulate it and dynamically convert it to structured html |  |
 |  | *Project* Your app is working and published on GitHub Pages. Your project is thoroughly documented in the `README.md` file in your repository.  |  |
 
