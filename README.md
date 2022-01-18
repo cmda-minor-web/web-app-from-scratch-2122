@@ -8,10 +8,10 @@ Design and build a single page web app based on a user story.
 
 ### User stories
 
-- Als kunstliefhebber, wil ik tijdens een lockdown thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken, zodat ik daar meer over te weten kan komen. ([Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md))
-- Als foodie, wil ik tijdens het boodschappen doen makkelijk informatie over product kunnen bekijken, zodat ik goede keuze kan maken of het bij mijn dieet past. ([Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)) 
-- Als patient, wil ik zelf thuis een bertouwbare diagnose kunnen stellen, zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken.([Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md))
-- [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)  
+- Als kunstliefhebber, wil ik tijdens een lockdown thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken, zodat ik daar meer over te weten kan komen. [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
+- Als foodie, wil ik tijdens het boodschappen doen makkelijk informatie over product kunnen bekijken, zodat ik goede keuze kan maken of het bij mijn dieet past. [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
+- Als patient, wil ik zelf thuis een bertouwbare diagnose kunnen stellen, zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken. [Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)
+- Als frisbee speler, wil ik tijdens een wedstrijd de scores kunnen bijhouden, zodat ik weet waar en wanneer we de volgende wedstrijd moeten spelen. [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
 - [T-Shirt Maker - Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
 - [Storytelling - Mozilla Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 
