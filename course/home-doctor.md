@@ -2,9 +2,9 @@
 
 ## User Story
 
-Als patient, 
+**Als patient, 
 wil ik zelf thuis een bertouwbare diagnose kunnen stellen, 
-zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken.
+zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken.**
 
 
 
