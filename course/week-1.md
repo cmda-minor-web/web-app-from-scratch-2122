@@ -16,7 +16,7 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 ### Next week: ‘Design & refactor’ 🛠
 
-Iterate on the user story. Add routes and states. Refactor code into modules.
+Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-2.md)
 
 ## Exercises
 
