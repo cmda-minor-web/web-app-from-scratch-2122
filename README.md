@@ -30,7 +30,7 @@ Goal: Test UI principles. Add routes and states. refactor code into modules.
 
 ### Week 3 - Wrapping up 🎁
 
-Goal: Iterate abnd improve UI. Manipulate data. Feedback to the user.
+Goal: Iterate and improve UI. Manipulate data. Feedback to the user.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)
 
