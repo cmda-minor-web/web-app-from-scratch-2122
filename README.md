@@ -19,7 +19,7 @@ Design and build a single page web app based on a user story.
 
 ### Week 1 - Hello API 🐒
 
-Goal: Pick a user story, design the interface, retrieve data from an API and render the structured content.
+Goal: Pick a user story, design the interface, retrieve data from an API and build the interface.
 
 [Instructions](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md)
 
