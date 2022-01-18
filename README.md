@@ -8,12 +8,12 @@ Design and build a single page web app based on a user story.
 
 ### User stories
 
-[Rijksmuseum with the RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)  
-[Healthy Food Checker with the Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)  
-[Home Doctor with the EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)    
-[Frisbee Tournament with the Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)  
-[T-Shirt Maker with the Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
-[Storytelling with the Mozilla Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
+[Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)  
+[Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)  
+[Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)    
+[Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)  
+[T-Shirt Maker - Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
+[Storytelling - Mozilla Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 
 ## Program
 
