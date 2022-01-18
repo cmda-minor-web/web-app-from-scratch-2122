@@ -56,24 +56,29 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 ### 2. Pick a user story and design the interface
 
-...
+Pick User Story.. 
+Sketch user flow in wireflow..
 
-### 3. Loading asynchronous data from the API and build the interface
+### 3. Loading asynchronous data from the API and build interface
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for. That is why you are going to make an asynchronous request to the API.
 
 #### Fetch data from your API
-Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.
-Parse de JSON and save the data items in a temporary object (and / or in LocalStorage).
+
+Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.  
+Parse the JSON into a JavaScript object.
 
 #### Build the interface
-...
+
+Breakdown sketch: break the wireflow down in HTML, CSS.   
+Render the data object into structured HTML and style the interface with CSS.  
 
 #### Resources
-
-[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
+[Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)  
+[How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)  
+[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)   
 [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-
+[Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
 
 ### 4. Conduct code review: add issues on GitHub (vrijdag)
 
