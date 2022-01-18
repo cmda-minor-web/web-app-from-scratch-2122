@@ -8,9 +8,7 @@ Pick a user story, design the interface, retrieve data from an API and render th
 
 ## Intention
 
-The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid to use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
-
-[Slides](https://docs.google.com/presentation/d/1hXfgIhBzJ2QXDmpKpMcx7G-a9R_fVrcPdeOyM3G0I00/edit?usp=sharing)
+The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write as much vanilla code as possible, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
 
 ## Method
 
@@ -18,20 +16,19 @@ The coming three weeks you will create a client side web app during this course.
 
 ### This week: ‘Hello API’ 🐒
 
-Retrieve data from an API and render in an overview page
+Pick an user story. Design the interface. Retrieve data from the chosen API and render structured content in the interface.
 
 ### Next week: ‘Design & refactor’ 🛠
 
-Breakdown the web app in features. Add routes and states. Rendering detail pages
+Iterate on the user story. Add routes and states. Refactor code into modules.
 
 ## Exercises
 
-1. Fork GitHub repository for this course (Monday)
-2. Write a good README.md (Monday)
-3. Loading asynchronous data from an API (Tuesday)
-4. Rendering data in the overview page (Tuesday)
-5. Conduct Code Review via GitHub (Friday)  
-   Extra challenge
+1. Fork GitHub repository for this course and setup the README.md 
+2. Pick a user story and design the interface
+3. Loading asynchronous data from the API and render structured content in the interface
+4. Conduct Code Review via GitHub  
+
 
 ### 1. Fork GitHub repository for this course (Monday)
 
