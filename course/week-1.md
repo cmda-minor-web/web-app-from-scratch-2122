@@ -8,7 +8,7 @@ Pick a user story, sketch the interface, retrieve data from an API and build the
 
 ## Intention
 
-The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write as much vanilla code as possible, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
+The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
 
 ### This week: ‘Hello API’ 🐒
 
