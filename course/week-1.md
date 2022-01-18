@@ -4,7 +4,7 @@ Minor Web Development - Web App From Scratch
 
 ## Goal 
 
-Pick a user story, design the interface, retrieve data from an API and render the structured content.
+Pick a user story, sketch the interface, retrieve data from an API and build the interface.
 
 ## Intention
 
