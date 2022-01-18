@@ -20,13 +20,39 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 
 ## Sub tasks
 
-1. Fork GitHub repository for this course and setup the README.md 
-2. Pick a user story and design the interface
-3. Loading asynchronous data from the API and render structured content in the interface
+1. Pick a user story and design the interface
+2. Loading asynchronous data from the API and render structured content in the interface
+3. Fork GitHub repository for this course and setup the README.md 
 4. Conduct Code Review via GitHub  
 
+### 2. Pick a user story and design the interface
 
-### 1. Fork GitHub repository for this course and setup the README.md 
+Pick User Story.. 
+Sketch user flow in wireflow..
+
+### 2. Loading asynchronous data from the API and build interface
+
+Requesting data from an API can take a relatively long time that your program would not have to wait for.   
+That is why you are going to make an asynchronous request to the API.
+
+#### Fetch data from your API
+
+Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.  
+Parse the JSON into a JavaScript object.
+
+#### Build the interface
+
+Breakdown sketch: break the wireflow down in HTML, CSS.   
+Render the data object into structured HTML and style the interface with CSS.  
+
+#### Resources
+[Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)  
+[How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)  
+[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)   
+[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+[Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
+
+### 3. Fork GitHub repository for this course and setup the README.md 
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
@@ -54,32 +80,6 @@ A good app comes with a good README.md in which you describe the application. Ad
 [Github Pages](https://pages.github.com/)  
 [A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)  
 
-### 2. Pick a user story and design the interface
-
-Pick User Story.. 
-Sketch user flow in wireflow..
-
-### 3. Loading asynchronous data from the API and build interface
-
-Requesting data from an API can take a relatively long time that your program would not have to wait for.   
-That is why you are going to make an asynchronous request to the API.
-
-#### Fetch data from your API
-
-Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.  
-Parse the JSON into a JavaScript object.
-
-#### Build the interface
-
-Breakdown sketch: break the wireflow down in HTML, CSS.   
-Render the data object into structured HTML and style the interface with CSS.  
-
-#### Resources
-[Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)  
-[How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)  
-[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)   
-[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-[Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
 
 ### 4. Conduct code review: add issues on GitHub
 
