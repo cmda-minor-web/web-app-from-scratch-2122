@@ -1,4 +1,4 @@
-# Exercises Week 1: ‘Hello API’ 🐒
+# Week 1: ‘Hello API’ 🐒
 
 Minor Web Development - Web App From Scratch
 
