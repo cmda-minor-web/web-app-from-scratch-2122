@@ -2,10 +2,6 @@
 
 Minor Web Development - Web App From Scratch
 
-## Goal 
-
-Pick a user story, sketch the interface, retrieve data from an API and build the interface.
-
 ## Intention
 
 The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
@@ -17,6 +13,10 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 ### Next week: ‘Design & refactor’ 🛠
 
 Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-2.md)
+
+## Goal this week
+
+Pick a user story, sketch the interface, retrieve data from an API and build the interface.
 
 ## Sub tasks
 
