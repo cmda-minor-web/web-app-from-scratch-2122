@@ -18,20 +18,19 @@ Your efforts will be graded using a single point rubric (see below). You will ha
 
 ### Week 1 - Hello API 🐒
 
-Goal: Retrieve data from an API and render it in an overview page.
+Goal: Pick a user story, design the interface, retrieve data from an API and render the structured content.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-1.md)
 
 ### Week 2 - Design and Refactor 🛠
 
-Goal: Design the web app. Add routes and states. Split code into modules. Rendering detail page.
+Goal: Test UI principles. Add routes and states. refactor code into modules.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-2.md)
 
 ### Week 3 - Wrapping up 🎁
 
-Goal:
-Manipulate data. Feedback to the user, Reflect on end result
+Goal: Iterate abnd improve UI. Manipulate data. Feedback to the user.
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-2021/blob/master/course/week-3.md)
 
