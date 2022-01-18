@@ -2,21 +2,16 @@
 
 In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API, manipulated and finally shown in the UI of the App. You will learn to apply interface principles when building and testing the interface. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of how API's, frameworks and libraries work.
 
-## Assignments
-### Visitekaartje en Tribe
-### Rijksmuseum
-### Plastic Soup
-### Healthy Food Checker
-Met de Healthy Food Checker  kun je betere voedselkeuzes maken. Even snel als je boodschappen doet of als je in een restaurant zit, of als je thuis een uitgebreid en gedetailleerd dieet plan wil opstellen. Ontwerp een website waarmee je dit kan doen.  
-De Healthy Food Checker is gebaseerd op Open Food Facts een productendatabase over voedsel door iedereen en voor iedereen. Je kan er heel veel informatie vinden, maar ook aan bijdragen producten toe te voegen en/of teksten te verbeteren etc ..
+## Assignment
 
-[Lees hier meer over Open Food Facts](https://nl.openfoodfacts.org/discover)  
-[Hier staat informatie over de Open Food Facts API](https://nl.openfoodfacts.org/data)
-
-
-### Home Doctor
-### Frisbee Tournament
-### T-Shirt Maker
+### User stories
+[Visitekaartje en Tribe]()
+[Rijksmuseum]()
+[Healthy Food Checker]()
+[Home Doctor]()
+[Frisbee Tournament]()
+[T-Shirt Maker]()
+[Storytelling with Mozilla Web Speech API]()
 
 ## Program
 
