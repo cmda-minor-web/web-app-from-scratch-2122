@@ -3,7 +3,7 @@
 ## User Story
 
 **Als kunstliefhebber, 
-wil ik kunst uit het Rijksmuseum kunnen zoeken en bekijken, 
+wil ik thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken, 
 zodat ik tijdens een lockdown toch van kunst kan genieten.**
 
 
