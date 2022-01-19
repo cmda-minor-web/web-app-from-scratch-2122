@@ -9,7 +9,7 @@ Design and build a single page web app based on a user story.
 ### User stories
 
 - Als kunstliefhebber, 
-wil ik kunst uit het Rijksmuseum kunnen zoeken en bekijken, 
+wil ik thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken, 
 zodat ik tijdens een lockdown toch van kunst kan genieten
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
 - Als foodie, 
