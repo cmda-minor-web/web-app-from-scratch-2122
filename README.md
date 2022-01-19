@@ -17,7 +17,7 @@ wil ik tijdens het boodschappen doen makkelijk informatie over een product kunne
 zodat ik goede keuze kan maken of het bij mijn dieet past.
 [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
 - Als patient, 
-wil ik thuis een betrouwbare diagnose kunnen stellen, 
+wil ik zelf thuis een bertouwbare diagnose kunnen stellen,  
 zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken. 
 [Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)
 - Als frisbee speler, 
