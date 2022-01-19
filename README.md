@@ -13,8 +13,8 @@ wil ik thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken,
 zodat ik tijdens een lockdown toch van kunst kan genieten
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
 - Als foodie, 
-wil ik tijdens het boodschappen doen makkelijk informatie over een product kunnen bekijken, 
-zodat ik goede keuze kan maken of het bij mijn dieet past. 
+wil ik tijdens het boodschappen doen makkelijk informatie over een product kunnen zoeken en bekijken,
+zodat ik goede keuze kan maken of het bij mijn dieet past.
 [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
 - Als patient, 
 wil ik thuis een betrouwbare diagnose kunnen stellen, 
