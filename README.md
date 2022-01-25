@@ -8,21 +8,16 @@ Design and build a single page web app based on a user story.
 
 ### User stories
 
-- Als kunstliefhebber, 
-wil ik thuis kunst uit het Rijksmuseum kunnen zoeken en bekijken, 
-zodat ik tijdens een lockdown toch van kunst kan genieten
+- As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
-- Als foodie, 
-wil ik tijdens het boodschappen doen makkelijk informatie over een product kunnen zoeken en bekijken,
-zodat ik goede keuze kan maken of het bij mijn dieet past.
+- As a foodie, I want to be able to easily search and view information about a product while shopping,
+so that I can make a good choice whether it fits my diet.
 [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
-- Als patient, 
-wil ik zelf thuis een bertouwbare diagnose kunnen stellen,  
-zodat ik beter kan inschatten of ik een afspraak bij de huisarts moet maken. 
+- As a patient,
+I want to be able to make a reliable diagnosis at home,
+so that I can better estimate whether I should make an appointment with the doctor.
 [Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)
-- Als frisbee speler, 
-wil ik na een wedstrijd de scores kunnen opslaan en doorgeven, 
-zodat ik weet waar en wanneer we de volgende wedstrijd moeten spelen. 
+- As a frisbee player, I want to be able to save and pass on the scores after a match, so I know where and when we have to play the next game. 
 [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
 - Als, 
 wil ik, 
