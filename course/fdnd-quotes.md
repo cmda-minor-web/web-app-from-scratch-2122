@@ -1,4 +1,4 @@
-# FDND Webdesign Quotes
+# FDND Web Design Quotes
 
 ## User Story
 
