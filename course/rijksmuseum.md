@@ -16,6 +16,6 @@ Van schilderij tot scheepsmodel, je vindt het in de collectiedata van het Rijksm
 Hier kun je meer lezen over Rijksdata https://www.rijksmuseum.nl/nl/onderzoek/onderzoek-doen/data
 
 Onze conservatoren, registratoren, restauratoren, bibliotheek- en informatiespecialisten en databeheerders stellen samen een breed palet aan gegevens beschikbaar over de Rijksmuseumcollectie en haar context. Iedereen kan deze data gebruiken en het aanbod groeit dagelijks.
-Het Rijksmuseum biedt uiteenlopende ingangen op deze dataset, via twee API’s en datadownloads. De set is beschreven in Dublin Core, het Europeana Data Model en de LIDO-standaard. Op [data.rijksmuseum.nl](https://data.rijksmuseum.nl/object-metadata?_ga=2.94765148.1960692757.1643486194-1487869045.1643486194) lichten we de verschillende ingangen op onze objectdata toe. Voor het gebruik van de API’s is een API-key nodig, verkrijgbaar via je Rijksstudio-account. 
+Het Rijksmuseum biedt uiteenlopende ingangen op deze dataset, via twee API’s en datadownloads. De set is beschreven in Dublin Core, het Europeana Data Model en de LIDO-standaard. Op [data.rijksmuseum.nl](https://data.rijksmuseum.nl/object-metadata) lichten we de verschillende ingangen op onze objectdata toe. Voor het gebruik van de API’s is een API-key nodig, verkrijgbaar via je Rijksstudio-account. 
 
 Object Meta Data: https://data.rijksmuseum.nl/object-metadata/
