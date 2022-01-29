@@ -16,4 +16,6 @@ Vaak wijzen we een student nog eens op een quote om iets duidelijk te maken.
 
 De quotes zijn ook door andere mensen te bekijken. Hiervoor is een rest-api gemaakt waarmee je alle quotes die zijn gebruikt in de presentaties worden verzameld. 
 
+Je kan alle quotes opvragen, gesorteerd op datum of alfabet, of filteren op tages. 
+
 https://quote.api.fdnd.nl/v1/quote
