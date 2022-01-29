@@ -4,7 +4,7 @@
 
 **Als student digital design,
 wil ik inspirerende web design quotes kunnen bekijken, 
-zodat ik weer een beetje energie krijg als ik het even niet meer zie zitten net ak die hard-core deadlines.**
+zodat ik weer een beetje energie krijg als ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.**
 
 
 ## Quotes API
