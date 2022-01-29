@@ -9,12 +9,13 @@ zodat ik tijdens een lockdown toch van kunst kan genieten.**
 
 ## Rijksdata (API)
 
-Het Rijksmuseum verbindt mensen, kunst en geschiedenis. Onze databronnen vormen daarbij belangrijke bouwstenen. 
+Het Rijksmuseum verbindt mensen, kunst en geschiedenis. De databronnen van het RIjksmuseum vormen daarbij belangrijke bouwstenen. 
 
 Van schilderij tot scheepsmodel, je vindt het in de collectiedata van het Rijksmuseum. De gegevens van meer dan een half miljoen objecten hebben we inmiddels beschikbaar gemaakt voor hergebruik, de meeste met hoge resolutie objectfoto. 
 
-https://www.rijksmuseum.nl/nl/onderzoek/onderzoek-doen/data
+Hier kun je meer lezen over Rijksdata https://www.rijksmuseum.nl/nl/onderzoek/onderzoek-doen/data
 
-Om het voor iedereen die dat wil mogelijk te maken om onze databronnen te gebruiken hanteert het Rijksmuseum een Open Databeleid. De basis daarvoor werd al gelegd in 2002 toen de Rijksmuseum Research Library haar catalogus via het web beschikbaar stelde als open dataservice. In samenwerking met Open Cultuur Data werd in 2011 een groot aantal collectiefoto’s en de bijbehorende objectgegevens onder een open licentie (CC-BY) vrijgegeven. Twee jaar later plaatste het Rijksmuseum het merendeel van de gedigitaliseerde collectieobjecten in het Publieke Domein. Ook lanceerden we in 2013 de eerste API voor collectiedata.
+Onze conservatoren, registratoren, restauratoren, bibliotheek- en informatiespecialisten en databeheerders stellen samen een breed palet aan gegevens beschikbaar over de Rijksmuseumcollectie en haar context. Iedereen kan deze data gebruiken en het aanbod groeit dagelijks.
+Het Rijksmuseum biedt uiteenlopende ingangen op deze dataset, via twee API’s en datadownloads. De set is beschreven in Dublin Core, het Europeana Data Model en de LIDO-standaard. Op [data.rijksmuseum.nl](https://data.rijksmuseum.nl/object-metadata?_ga=2.94765148.1960692757.1643486194-1487869045.1643486194) lichten we de verschillende ingangen op onze objectdata toe. Voor het gebruik van de API’s is een API-key nodig, verkrijgbaar via je Rijksstudio-account. 
 
 Object Meta Data: https://data.rijksmuseum.nl/object-metadata/
