@@ -10,7 +10,9 @@ zodat ik weer een beetje energie krijg als ik het even niet meer zie zitten net 
 ## Quotes API
 
 In de colleges en presentaties van de opleiding [Frontend Design & Development (FDND)](https://fdnd.nl) aan de Hogeschool van Amsterdam wordt vaak gebruik gemaakt van inspirerende quotes.
-Soms gebruiken we de quotes op Instagram om bekendheid van deoplleiding te vergroten. Of we printen kaartjes en posters voor open dagen. 
+Soms gebruiken we de quotes op Instagram om bekendheid van de opleiding te vergroten. 
+Of we printen kaartjes en posters voor open dagen.
+Vaak wijzen we een student nog eens op een quote om iets duidelijk te maken.
 
 De quotes zijn ook door andere mensen te bekijken. Hiervoor is een rest-api gemaakt waarmee je alle quotes die zijn gebruikt in de presentaties worden verzameld. 
 
