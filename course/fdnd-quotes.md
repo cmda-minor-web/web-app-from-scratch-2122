@@ -3,7 +3,7 @@
 ## User Story
 
 **Als student digital design,
-wil ik inpisrerende web design quotes kunnen bekijken, 
+wil ik inspirerende web design quotes kunnen bekijken, 
 zodat ik weer een beetje energie krijg als ik het even niet meer zie zitten net ak die hard-core deadlines.**
 
 
