@@ -9,8 +9,8 @@ zodat ik weer een beetje energie krijg als ik het even niet meer zie zitten net 
 
 ## Quotes API
 
-In de colleges en presentaties van de opleiding [Frontend Design & Development (FDND)](https://fdnd.nl) aan de Hogeschool van Amsterdam wordt vaak gebruik gemaakt van inspirerende quotes.
-Soms gebruiken we de quotes op Instagram om bekendheid van de opleiding te vergroten. 
+In de colleges en presentaties van de opleiding [Frontend Design & Development (FDND)](https://fdnd.nl) aan de Hogeschool van Amsterdam wordt vaak gebruik gemaakt van inspirerende quotes. Quotes van Tim Berners-Lee, Massimo Vignelli, Michelle Barker, maar ook van Charles Darwin.
+Soms gebruiken we de quotes ook op Instagram om bekendheid van de opleiding te vergroten. 
 Of we printen kaartjes en posters voor open dagen.
 Vaak wijzen we een student nog eens op een quote om iets duidelijk te maken.
 
