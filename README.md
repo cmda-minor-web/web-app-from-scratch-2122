@@ -4,31 +4,11 @@ In this course you will learn to build a web application without frameworks or u
 
 ## Assignment
 
-Design and build a single page web app based on a user story.
+- Visitekaartje en teampaging
 
-### User stories
+- SPA: Design and build a single page web app based on a user story.
 
-- Als student digital design, wil ik inspirerende web design quotes kunnen bekijken, zodat ik weer een beetje energie krijg wanneer ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.
-[FDND Web Design Quotes - API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
-- As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown
-[Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
-- As a foodie, I want to be able to easily search and view information about a product while shopping,
-so that I can make a good choice whether it fits my diet.
-[Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
-- As a patient,
-I want to be able to make a reliable diagnosis at home,
-so that I can better estimate whether I should make an appointment with the doctor.
-[Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)
-- As a frisbee player, I want to be able to save and pass on the scores after a match, so I know where and when we have to play the next game. 
-[Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
-- Als, 
-wil ik, 
-zodat .
-[T-Shirt Maker - Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
-- Als, 
-wil ik, 
-zodat .
-[Storytelling - Mozilla Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
+
 
 ## Program
 
