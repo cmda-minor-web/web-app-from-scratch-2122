@@ -35,7 +35,7 @@ zodat .
 
 | Planning | Maandag | Dinsdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1 - Hello World ](🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Intro, kennismaken + visitekaartje | Teampagina | Teambespreking |
+| [Week 1 - Hello World](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Intro, kennismaken + visitekaartje | Teampagina | Teambespreking |
 | [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | Presentaties opdracht 1, college | Feedbackgesprekken |
 | Voorjaarsvakantie |  |  |  |
 | [Week 3 - Design and Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
