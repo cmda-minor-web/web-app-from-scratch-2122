@@ -1,4 +1,4 @@
-# Week 1: ‘Hello World’ 🤸
+# Week 1: ‘Hellooo ’ 🤸
 
 Minor Web Development - Web App From Scratch
 
