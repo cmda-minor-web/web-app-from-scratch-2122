@@ -1,4 +1,4 @@
-# Exercises Week 3: ‘Wrapping up’ 🎁
+# Exercises Week 4: ‘Wrapping up’ 🎁
 
 Minor Web Development - Web App From Scratch
 
@@ -10,7 +10,7 @@ The coming three weeks you will create a client side web app during this course.
 
 ## Goal this week: ‘Wrapping up’ 🎁
 
-Iterate and improve UI. Manipulate data. Feedback to the user.
+Iterate and improve UI. Manipulate data. Finish documentation and presentation
 
 ### Method
 
