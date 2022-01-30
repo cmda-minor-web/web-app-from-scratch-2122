@@ -6,13 +6,13 @@ Minor Web Development - Web App From Scratch
 
 The coming three weeks you will create a client side web app during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
 
-### This week: ‘Hello API’ 🐒
+### Goals this week: ‘Hello API’ 🐒
 
 Pick an user story. Design the interface. Retrieve data from the chosen API and build the interface.
 
 ### Next week: ‘Design & refactor’ 🛠
 
-Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-2.md)
+Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-3.md)
 
 ---  
 
