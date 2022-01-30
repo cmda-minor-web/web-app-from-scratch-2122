@@ -8,7 +8,7 @@ The coming three weeks you will create a client side web app during this course.
 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQuBIT_Q-Kc2dKJ4BWTXXSX0Jrhld7iSCR_dHVnxB12AYso-AcWQk0HcXbnmZIEv3cZWYoG5WPIrnWJ/pub?start=false&loop=false&delayms=3000)
 
-## Goal this week: ‘Wrapping up’ 🎁
+### Goal this week: ‘Wrapping up’ 🎁
 
 Iterate and improve UI. Manipulate data. Finish documentation and presentation
 
