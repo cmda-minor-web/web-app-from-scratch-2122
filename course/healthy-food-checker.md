@@ -16,7 +16,7 @@ De Healthy Food Checker is gebaseerd op Open Food Facts een productendatabas
 Lees hier meer over Open Food Facts: https://nl.openfoodfacts.org/discover
 
 
-Er is een JSON-API beschikbaar om de productgegevens te kunnen lezen op basis van de barcode. Als je deze app wil maken moet je ook een bar-code scan functionaliteit gebruiken. Je kan zelf iets proberen te maken met behulp van de [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API), of een library gebruiken, bijvoorbeeld https://blog.minhazav.dev/QR-and-barcode-scanner-using-html-and-javascript/. 
+Er is een JSON-API beschikbaar om de productgegevens te kunnen lezen op basis van de barcode. Als je deze app wil maken moet je ook een bar-code scan functionaliteit gebruiken. Je kan zelf iets proberen te maken met behulp van de [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API), of een bestaamde library gebruiken.
 
 De Healty Food Checker is gebaat bij mensen die ontbrekende data wil toevoegen aan het systeem. Informatie toevoegen kan ook met de Open Food Facts API.
 
