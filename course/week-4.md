@@ -8,13 +8,15 @@ The coming three weeks you will create a client side web app during this course.
 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQuBIT_Q-Kc2dKJ4BWTXXSX0Jrhld7iSCR_dHVnxB12AYso-AcWQk0HcXbnmZIEv3cZWYoG5WPIrnWJ/pub?start=false&loop=false&delayms=3000)
 
-## Method
+## Goal this week: ‘Wrapping up’ 🎁
+
+Iterate and improve UI. Manipulate data. Feedback to the user.
+
+### Method
 
 16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
-### Goal this week: ‘Wrapping up’ 🎁
 
-Iterate and improve UI. Manipulate data. Feedback to the user.
 
 ## Exercises
 
