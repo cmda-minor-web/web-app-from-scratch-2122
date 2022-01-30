@@ -1,4 +1,4 @@
-# Week 1: ‘Hello API’ 🐒
+# Week 2: ‘Hello API’ 🐒
 
 Minor Web Development - Web App From Scratch
 
