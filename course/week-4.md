@@ -12,9 +12,9 @@ The coming three weeks you will create a client side web app during this course.
 
 16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
-### This week: ‘Wrapping up’ 🎁
+### Goal this week: ‘Wrapping up’ 🎁
 
-Manipulate data and templating. Split code into modules. Reflect on what you made.
+Iterate and improve UI. Manipulate data. Feedback to the user.
 
 ## Exercises
 
