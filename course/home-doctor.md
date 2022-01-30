@@ -17,4 +17,6 @@ Kun jij de wachttijden bij de huisarts verkorten met een website waarmee een pat
 
 Gebruik hiervoor de endlessMedical API, een AI systeem om medische diagnoses te stellen. 
 
-https://endlessmedical.com/apidemoapp/
+https://endlessmedical.com
+
+Endless medical API https://endlessmedical.com/apidemoapp/
