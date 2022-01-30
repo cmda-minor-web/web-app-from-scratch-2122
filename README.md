@@ -32,23 +32,14 @@ zodat .
 
 ## Program
 
-### Week 1 - Hello API 🐒
 
-Goal: Pick a user story, design the interface, retrieve data from an API and build the interface.
-
-[Instructions](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md)
-
-### Week 2 - Design and Refactor 🛠
-
-Goal: Iterate and improve UI. Add routes and states. refactor code into modules.
-
-[Instructions](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md)
-
-### Week 3 - Wrapping up 🎁
-
-Goal: Iterate and improve UI. Manipulate data. Feedback to the user.
-
-[Instructions](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)
+| Planning | Maandag | Dinsdag | Vrijdag  |
+|---|---|---|---|
+| [Week 1 - Hello World ](🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Intro, kennismaken + visitekaartje | Teampagina | Teambespreking |
+| [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | Presentaties opdracht 1, college | Feedbackgesprekken |
+| Voorjaarsvakantie |  |  |  |
+| [Week 3 - Design and Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
+| [Week 4 - Wrapping up 🎁](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-4.md)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Beoordelingsgesprekken  |
 
 ## Best Practices
 All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
