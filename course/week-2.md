@@ -34,7 +34,7 @@ _Opdracht uitleggen ... _
 #### User stories
 
 - Als student digital design, wil ik inspirerende web design quotes kunnen bekijken, zodat ik weer een beetje energie krijg wanneer ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.
-[FDND Web Design Quotes - API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
+[FDND Web Design Quotes API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
 - As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
 - As a foodie, I want to be able to easily search and view information about a product while shopping,
@@ -49,7 +49,7 @@ so that I can better estimate whether I should make an appointment with the doct
 - Als, 
 wil ik, 
 zodat .
-[T-Shirt Maker - Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
+[Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
 - Als, 
 wil ik, 
 zodat .
