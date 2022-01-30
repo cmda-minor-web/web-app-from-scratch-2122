@@ -43,7 +43,7 @@ so that I can make a good choice whether it fits my diet.
 - As a patient,
 I want to be able to make a reliable diagnosis at home,
 so that I can better estimate whether I should make an appointment with the doctor.
-[Home Doctor - EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/home-doctor.md)
+[EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/endless-medical.md)
 - As a frisbee player, I want to be able to save and pass on the scores after a match, so I know where and when we have to play the next game. 
 [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
 - Als, 
