@@ -15,11 +15,11 @@ In this course you will learn to build a web application without frameworks or u
 
 | Planning | Maandag | Dinsdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1 - Hello World](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Intro, kennismaken + visitekaartje | Teampagina | Teambespreking |
-| [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | Presentaties opdracht 1, college | Feedbackgesprekken |
+| [Week 1 - Hello World](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | College + Teampagina | Teambespreking |
+| [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | College + Work | Feedbackgesprekken |
 | Voorjaarsvakantie |  |  |  |
-| [Week 3 - Design and Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
-| [Week 4 - Wrapping up 🎁](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-4.md)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Beoordelingsgesprekken  |
+| [Week 3 - Design and Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + work  | College + work | Feedbackgesprekken  |
+| [Week 4 - Wrapping up 🎁](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-4.md)  | College + work  | work | Beoordelingsgesprekken  |
 
 ## Best Practices
 All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
