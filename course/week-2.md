@@ -16,9 +16,9 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 
 ---  
 
-## Goal this week
+## Assignment
 
-Pick a user story, sketch the interface, retrieve data from an API and build the interface.
+_Opdracht uitleggen ... _
 
 ## Sub tasks
 
