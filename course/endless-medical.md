@@ -15,9 +15,9 @@ Met de Endless MEdical API kun je een website maken waarmee mensen zelf een diag
 
 Kun jij de wachttijden bij de huisarts verkorten met een website waarmee een patiënt zelf een reeks vragen beantwoord en een intake doet? 
 
-Gebruik hiervoor de endlessMedical API, een AI systeem om medische diagnoses te stellen. 
+Gebruik hiervoor de [endlessMedical API](https://endlessmedical.com), een AI systeem om medische diagnoses te stellen. 
 
-https://endlessmedical.com
+
 
 
 Endless medical AP demo app: https://endlessmedical.com/apidemoapp/
