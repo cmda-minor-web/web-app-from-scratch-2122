@@ -20,6 +20,6 @@ Gebruik hiervoor de endlessMedical API, een AI systeem om medische diagnoses te 
 https://endlessmedical.com
 
 
-Endless medical API https://endlessmedical.com/apidemoapp/
+Endless medical AP demo app: https://endlessmedical.com/apidemoapp/
 
 API user guide: https://endlessmedical.com/wp-content/uploads/EndlessMedical%20API%20v%201.0%20User%20Guide.pdf
