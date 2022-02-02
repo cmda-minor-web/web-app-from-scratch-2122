@@ -30,10 +30,6 @@
       section > h3{
         margin: 0;
       }
-      section > img{
-        width: 100%
-      }
-
       button{
         height: 2rem;
         margin: 1em;
@@ -59,7 +55,7 @@
         //console.dir(display)
         let url;
 
-        // //title
+        // get access-token
         const but = document.createElement("button");
         but.textContent = "get access-token";
         display.before(but); //append element before child in container
@@ -77,22 +73,27 @@
       
         });
 
+
+        //Get data 
+        const token = "0b875eb140";
+        //Tournament
         //url = "https://api.leaguevine.com/v1/games/234/?access_token=0b875eb140";
-        url = "https://api.leaguevine.com/v1/tournaments/21233/?access_token=0b875eb140";
+        url = "https://api.leaguevine.com/v1/tournaments/21233/?access_token="+token;
         fetch(url).then(function(response) { 
           return response.json()
         }).then(function(json) { 
-          let data = json;
-          console.log("Tournament",data)
+          console.log("Tournament",json)
 
           // //title
           const title = document.createElement("h2");
-          title.textContent = data.name;
+          title.textContent = json.name;
           display.appendChild(title);
 
         });
 
-        url = "https://api.leaguevine.com/v1/tournament_teams/?tournament_ids=[21233]&access_token=0b875eb140";
+        //Get data 
+        //Teams
+        url = "https://api.leaguevine.com/v1/tournament_teams/?tournament_ids=[21233]&access_token="+token;
         fetch(url).then(function(response) { 
           return response.json()
         }).then(function(json) { 
@@ -107,16 +108,6 @@
           });
           display.appendChild(lijst);
 
-          // //teams
-          // const naam = document.createElement("h3");
-          // naam.textContent = data.principalOrFirstMaker;
-          // display.appendChild(naam);
-
-          // //img
-          // // display.textContent += "\n"+data.webImage.url;
-          // const plaat = document.createElement("img");
-          // plaat.src = data.webImage.url;
-          // display.appendChild(plaat);
         });
 
         
