@@ -4,9 +4,9 @@ In this course you will learn to build a web application without frameworks or u
 
 ## Assignment
 
-- Visitekaartje en teampagina
-
-- SPA: Design and build a single page web app based on a user story.
+- Visitekaartje 
+- Teampagina
+- Single Page App: Design and build a single page web app based on a user story.
 
 ---
 
