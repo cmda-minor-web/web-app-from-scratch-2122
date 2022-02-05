@@ -83,11 +83,12 @@ Breakdown sketch: break the wireflow down in HTML, CSS.
 Render the data object into structured HTML and style the interface with CSS.  
 
 #### Resources
-[Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)  
-[How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)  
-[The Event Loop, the inner workings of asynchronous code in JavaScript < MUST SEE!!!](https://www.youtube.com/watch?v=8aGhZQkoFbQ)   
-[You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-[Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
+
+- [How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
+- [Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)
+- [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
+- [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+- [The Event Loop, the inner workings of asynchronous code in JavaScript](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ---  
 
@@ -114,10 +115,10 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 #### Resources
 
-[GitHub Hello World (getting started)](https://guides.github.com/activities/hello-world/)  
-[Git command explorer](https://gitexplorer.com/)  
-[Github Pages](https://pages.github.com/)  
-[A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)  
+- [GitHub Hello World (getting started)](https://guides.github.com/activities/hello-world/)
+- [Git command explorer](https://gitexplorer.com/)
+- [Github Pages](https://pages.github.com/)
+- [A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)
 
 ---  
 
