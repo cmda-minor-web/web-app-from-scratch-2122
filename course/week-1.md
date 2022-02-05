@@ -4,9 +4,7 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-The coming weeks you will create a client side web app during this course. 
-Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. 
-You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
+In de eerste week van de minor ga je een visitekaartje ontwerpen en maken, en met je team een teamwebsite maken. 
 
 ### Goals this week: ‘Hello World’ 
 
