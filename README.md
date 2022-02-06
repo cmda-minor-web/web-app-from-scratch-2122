@@ -14,7 +14,7 @@ In this course you will learn to build a web application without frameworks or u
 
 | Planning | Maandag | Dinsdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1 - Hellooo 🤸](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | College + Teampagina | Teambespreking |
+| [Week 1 - Hellooo 🤸](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | Teampagina | Teambespreking |
 | [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | College + Work | Feedbackgesprekken |
 | Voorjaarsvakantie |  |  |  |
 | [Week 3 - Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + work  | College + work | Feedbackgesprekken  |
