@@ -18,7 +18,7 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 
 ## Assignment
 
-Design and build an interface based on an User Story and API.
+Design and build a single page web app based on a User Story.
 
 ## Sub tasks
 
