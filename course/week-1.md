@@ -10,10 +10,6 @@ In de eerste week van de minor ga je een visitekaartje ontwerpen en maken, en me
 
 Kennismaken met de minor en met elkaar.
 
-### Next week: ‘Design & refactor’ 🛠
-
-Pick an user story. Design the interface. Retrieve data from the chosen API and build the interface. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-2.md)
-
 ---  
 
 ## Assignment
