@@ -13,7 +13,7 @@ Kennismaken met de minor en met elkaar.
 In week 1 ga je twee opdrachten maken. Een [visitekaartje](#visitekaartje) en een [teampagina](#teampagina) met je team. 
 
 
-### Visitekaartje
+### 1. Visitekaartje
 
 Ontwerp en maak met HTML, CSS en JS een visitekaartje.
 
@@ -43,7 +43,7 @@ zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een solli
 - [Haal data op uit een API (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
 
-### Teampagina
+### 2. Teampagina
 
 Ontwerp en maak met je team een teampagina waarin je de verschillende visitekaartjes toont. Of doorlinkt. Of iets anders ...
 
