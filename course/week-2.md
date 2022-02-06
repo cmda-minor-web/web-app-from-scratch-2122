@@ -18,7 +18,7 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 
 ## Assignment
 
-_Opdracht uitleggen ... _
+Design and build an interface based on an User Story and API.
 
 ## Sub tasks
 
@@ -56,12 +56,9 @@ zodat .
 
 #### Design the interface
 
-Investigate API
-
-Sketch Userflow
-
-Breakdown-graph
-
+1. Investigate API
+2. Sketch Userflow
+3. Breakdown-graph
 
 ---
 
