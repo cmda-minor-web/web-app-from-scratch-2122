@@ -51,6 +51,32 @@
         // Client ID ea52dfa1b062b4dd688206d2fd0a6c
         // Client Secret Key 57623563394553bad3db0138cfc242
 
+        /*
+        https://www.leaguevine.com/docs/api/oauth2/
+
+          ## Obtain an Access Token
+
+          Simply make a request to the access_token endpoint using the client_id and client_secret we gave you when you registered your app.
+
+          https://www.leaguevine.com/oauth2/token/?client_id=YOUR_CLIENT_ID
+              &client_secret=YOUR_CLIENT_SECRET
+              &grant_type=client_credentials
+              &scope=universal
+
+          We will supply the access token to you in the body of the response as so:
+          {
+              "access_token": "0b875eb140", 
+              "token_type": "bearer", 
+              "expire_in": 157680000, 
+          }
+          This access_token is good for 5 years.
+          
+          ## Make Requests
+
+          https://api.leaguevine.com/v1/games/234/?access_token=ACCESS_TOKEN
+
+        */
+
         const display = document.querySelector('section');
         //console.dir(display)
         let url;
