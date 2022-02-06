@@ -4,15 +4,13 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-The coming three weeks you will create a client side web app during this course. Based upon data from an API of your choice, you create an overview and detail page of the items retrieved from the API. On the overview page you add a filter / sort functionality, so that you can filter the items. You write as much vanilla code as possible, and avoid to use frameworks or libraries (with the exception of a micro library here and there) as much as possible. You will increasingly give structure to the code as the course progresses.
-
 ### Goal this week: ‘Design & refactor’ 🛠
 
 Iterate on the user story. Add routes and states. refactor code into modules.
 
 ### Next week: ‘Wrapping up’ 🎁
 
-Manipulate data and templating. Split code into modules. Reflect on what you made.
+Manipulate data and templating. Split code into modules. Reflect on what you made. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-4.md)
 
 ## Sub tasks
 
