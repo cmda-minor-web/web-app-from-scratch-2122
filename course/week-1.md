@@ -19,7 +19,7 @@ In week 1 ga je twee opdrachten maken. Een visitekaartje en een teampagina met j
 
 ### Visitekaartje
 
-Ontwerp en maak met HTML, CSS en/of JavaScript een visitekaartje.
+Ontwerp en maak met HTML, CSS en JS een visitekaartje.
 
 #### User Story
 
@@ -32,9 +32,8 @@ zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een solli
 #### Werkwijze
 
 - Werk een van je ideeën uit op papier
-- Maak een HTML/CSS Breakdown 
+- Maak een HTML/CSS/JS Breakdown 
 - Fork deze opdracht van Github en maak het visitekaartje
-
 
 ---
 
