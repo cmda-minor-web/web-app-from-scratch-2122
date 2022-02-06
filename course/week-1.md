@@ -66,8 +66,7 @@ zodat ik een goed beeld krijg van de teams en de studenten die de minor dit jaar
 3. Schets samen ideeën voor de teampagina
 4. Fork de opdracht van Github (staat bij week 1) 
 5. Maak één repo aan voor het team en werk samen aan de code van deze repo.
-6. Haal data van alle members van het team op uit de Tribe API
-7. 
+6. Haal data van alle members van het team op uit de Tribe API. Gebruik dit voor de teampagina.
 
 #### Bronnen
 
