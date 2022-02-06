@@ -18,25 +18,31 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 ## Assignment
 
-_Opdracht visitekaartje en teampagina ... _
+In week 1 ga je twee opdrachten maken. Een visitekaartje en een teampagina met je team. 
+
+
+### Visitekaartje
+
+Ontwerp en maak met HTML, CSS en/of JavaScript een visitekaartje.
+
+#### User Story
+
+**Als potentieel stagebedrijf,
+wil ik online een leuke eerste indruk van een student krijgen,
+zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een sollicitatiegesprek.**
 
 
 
----  
+#### Werkwijze
 
-### 1. Visitekaartje
-
-User Story.. 
-
-
-Sketch user flow in wireflow..
-
-HTML/CSS/JS JSON
+- Werk een van je ideeën uit op papier
+- Maak een HTML/CSS Breakdown 
+- Fork deze opdracht van Github en maak het visitekaartje
 
 
 ---
 
-### 2. Teampagina
+### Teampagina
 
 User Story ...
 
