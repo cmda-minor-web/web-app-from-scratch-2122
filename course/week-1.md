@@ -10,7 +10,7 @@ Kennismaken met de minor en met elkaar.
 
 ## Assignment
 
-In week 1 ga je twee opdrachten maken. Een [visitekaartje](#visitekaartje) en een [teampagina](#teampagina) met je team. 
+In week 1 ga je twee opdrachten maken. Een [visitekaartje](#1-visitekaartje) en een [teampagina](#2-teampagina) met je team. 
 
 
 ### 1. Visitekaartje
