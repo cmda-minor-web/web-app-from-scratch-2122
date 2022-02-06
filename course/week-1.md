@@ -4,10 +4,6 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-In de eerste week van de minor ga je een visitekaartje ontwerpen en maken, en samen met je team een teampagina maken. 
-
-### Goals this week: ‘Hellooo ’ 🤸
-
 Kennismaken met de minor en met elkaar.
 
 ---  
