@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+
+html, body {
+    background: #000;
+}
+
+header {
+    height: 100vh;
+    background-image: url("../img/JornVeltrop_mobile.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    transition: all 1s ease;
+}
+
+.headerTest {
+    height: 40vh;
+    background-position: 50% 20%;
+    transition: all 1s ease;
+}
