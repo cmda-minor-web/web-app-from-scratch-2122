@@ -30,7 +30,7 @@ zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een solli
 1. Schets minimaal 10 ideeen uit. Gebruik een timer, je hebt 20 seconden per schets...
 2. Werk een van je ideeën netjes uit op papier
 3. Maak een HTML/CSS/JS Breakdown 
-4. Fork deze opdracht van Github en open het project in je favoriete code editor.
+4. Fork deze opdracht van Github en open het project in je favoriete code editor. Werk de opdracht uit in de map "visitekaartje"
 5. Werk je breakdownschets uit in HTML, CSS en JS.
 6. Haal met JS jouw naam op uit de Tribe API (dit is een GET request). Render de data in HTML.
 7. Update de lege velden van jezelf in de API (dit is een PUT request). Deze data kun je daarna ook gebruiken voor je visitekaartje.
