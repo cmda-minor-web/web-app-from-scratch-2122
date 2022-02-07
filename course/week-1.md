@@ -57,12 +57,13 @@ zodat ik een goed beeld krijg van de teams en de studenten die de minor dit jaar
 
 #### Werkwijze
 
-1. Maak met elkaar kennis door je visitekaartje te presenteren
+1. Maak met elkaar kennis door je visitekaartje te presenteren.
 2. Bedenk samen met je team een teamnaam & ontwerp een teamlogo, of niet …
-3. Schets samen ideeën voor de teampagina
-4. Fork de opdracht van Github (staat bij week 1) 
-5. Maak één repo aan voor het team en werk samen aan de code van deze repo.
-6. Haal data van alle members van het team op uit de Tribe API. Gebruik dit voor de teampagina.
+3. Schets samen ideeën voor de teampagina. Bedenk creatieve, originele, of (technisch) uitdagende manieren om alle de teamleden te tonen.
+4. Maak gezamenlijk een break-down schets van jullie ontwerp/
+5. Fork de opdracht van Github (staat bij week 1).
+6. Maak één repo aan voor het team en werk samen aan de code van deze repo.
+7. Haal data van alle members van het team op uit de Tribe API. Gebruik dit voor de teampagina.
 
 #### Bronnen
 
