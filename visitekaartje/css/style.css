@@ -102,6 +102,9 @@ article a {
 article section {
     display: flex;
     flex-direction: column;
+}
+
+article div {
     max-width: 550px;
 }
 
@@ -179,6 +182,9 @@ nav h4 {
     article section {
         display: flex;
         flex-direction: column;
+    }
+
+    article section div {
         max-width: 550px;
     }
 }
