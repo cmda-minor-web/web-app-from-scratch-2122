@@ -38,15 +38,23 @@ header section {
 
 header a {
     margin-top: 1em;
-    background: #fff;
-    color: #000;
+    background: transparent;
+    border: solid 2px white;
+    color: #fff;
     padding: .8em 1.5em;
     border-radius: 3em;
     cursor: pointer;
+    filter: drop-shadow(0 0 .3em #000);
+    transition: transform .4s;
+}
+
+header a:hover {
+    transform: scale(1.07);
 }
 
 h1 {
     font-size: 2em;
+    transition: transform 1s ease, opacity 1s ease;;
 }
 
 article {
@@ -64,12 +72,81 @@ article h3 {
 
 nav {
     width: 100%;
-    background: red;
+    background: #000;
     position: fixed;
     bottom: 0;
     display: flex;
     justify-content: space-around;
     padding: 1em 0;
+    border-top: solid 1px #fff;
 
-    display: none;
+    visibility: visible;
+    transition: transform 1s ease;
+}
+
+nav a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+nav img {
+    height: 30px;
+    transition: transform .2s;
+}
+
+nav img:hover {
+    transform: scale(1.1);
+}
+
+nav h4 {
+    text-transform: uppercase;
+    font-size: .8em;
+    font-weight: 300;
+    margin-top: 3px;
+}
+
+.hiddenTransform {
+    visibility: hidden;
+    transition: visibility 0s 1s, transform 1s ease;
+    transform: translateY(5.5em);
+}
+
+.hiddenTransformFade {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s .8s, transform .8s ease, opacity .8s ease;
+    transform: translateY(2em);
+}
+
+
+@media only screen and (min-width: 500px) {
+    header {
+        background-image: url("../img/JornVeltrop_desktop.png");
+        background-position: 50% 40%;
+    }
+
+    .headerKlein {
+        background-position: 50% 40%;
+    }
+
+    nav {
+        justify-content: center;
+    }
+
+    nav a {
+        margin: 0 3em;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    header {
+        background-image: url("../img/JornVeltrop_desktopBreed.jpg");
+        background-position: 50% 40%;
+    }
+
+    .headerKlein {
+        background-position: 50% 40%;
+    }
 }
