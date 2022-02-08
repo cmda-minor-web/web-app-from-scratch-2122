@@ -1,3 +1,5 @@
+/* Algemene styling */
+
 * {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
@@ -14,9 +16,15 @@ main {
     height: 100%;
 }
 
+
+/* Progressive enhancement */
+
 .overflowHidden {
     overflow-y: hidden;
 }
+
+
+/* Header styling */
 
 header {
     height: 100%;
@@ -41,7 +49,6 @@ header section {
     display: flex;
     align-items: center;
     flex-direction: column;
-
     margin: 4em 0;
 }
 
@@ -69,12 +76,13 @@ header a:hover {
 }
 
 
+/* Article styling */
 
 article {
     padding: 2em;
-    padding-bottom: 4em;
+    padding-bottom: 5em;
     overflow-y: scroll;
-    height: 45%;
+    height: 43%;
 }
 
 article h2 {
@@ -107,6 +115,9 @@ article section {
 article div {
     max-width: 550px;
 }
+
+
+/* Navigatie styling */
 
 nav {
     width: 100%;
@@ -145,6 +156,9 @@ nav h4 {
     margin-top: 3px;
 }
 
+
+/* Animaties */
+
 .hiddenTransform {
     visibility: hidden;
     transition: visibility 0s 1s, transform 1s ease;
@@ -157,6 +171,9 @@ nav h4 {
     transition: visibility 0s .8s, transform .8s ease, opacity .8s ease;
     transform: translateY(2em);
 }
+
+
+/* Responsive */
 
 
 @media only screen and (min-width: 500px) {
