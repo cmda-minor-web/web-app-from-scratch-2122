@@ -10,12 +10,11 @@ html, body {
     width: 100%;
 }
 
-body {
-    
-}
-
 main {
     height: 100%;
+}
+
+.overflowHidden {
     overflow-y: hidden;
 }
 
@@ -46,8 +45,15 @@ header section {
     margin: 4em 0;
 }
 
+h1 {
+    font-size: 1.6em;
+    transition: transform 1s ease, opacity 1s ease;
+    background-color: #d83e42;
+    padding: .5em 1em;
+}
+
 header a {
-    margin-top: 1em;
+    margin-top: 1.5em;
     background: transparent;
     border: solid 2px white;
     color: #fff;
@@ -62,24 +68,40 @@ header a:hover {
     transform: scale(1.07);
 }
 
-h1 {
-    font-size: 2em;
-    transition: transform 1s ease, opacity 1s ease;;
-}
+
 
 article {
     padding: 2em;
-    margin-bottom: 3em;
+    padding-bottom: 4em;
     overflow-y: scroll;
     height: 45%;
 }
 
 article h2 {
     font-size: 2em;
+    margin-bottom: .3em;
 }
 
 article h3 {
     margin-top: 2em;
+    margin-bottom: .2em;
+    color: #d83e42;
+}
+
+article > p:first-of-type {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 1em;
+}
+
+article a {
+    white-space: nowrap;
+    text-decoration: underline;
+}
+
+article section {
+    display: flex;
+    flex-direction: column;
 }
 
 nav {
@@ -159,6 +181,19 @@ nav h4 {
     }
 
     .headerKlein {
+        height: 50%;
         background-position: 50% 40%;
+    }
+
+    article section {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    article section div {
+        width: 50%;
+        padding-right: 4em;
     }
 }
