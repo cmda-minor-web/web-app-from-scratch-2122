@@ -16,7 +16,7 @@ function overgangInfo() {
     if (meerButton.innerHTML.length == 1) {
         meerButton.innerHTML = "Meer info";
     } else {
-        meerButton.innerHTML = "X";
+        meerButton.innerHTML = "^";
     }
 }
 

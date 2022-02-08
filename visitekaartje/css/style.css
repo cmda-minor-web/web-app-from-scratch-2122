@@ -102,6 +102,7 @@ article a {
 article section {
     display: flex;
     flex-direction: column;
+    max-width: 550px;
 }
 
 nav {
@@ -171,6 +172,14 @@ nav h4 {
 
     nav a {
         margin: 0 3em;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    article section {
+        display: flex;
+        flex-direction: column;
+        max-width: 550px;
     }
 }
 
