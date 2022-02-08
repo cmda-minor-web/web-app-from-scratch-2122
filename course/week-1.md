@@ -11,7 +11,7 @@ Kennismaken met de minor en met elkaar.
 
 ## Slides
 
-- [Kickoff - Week 1 Maandag 7 feb](https://cmda-minor-web.github.io/web-apps-rom-scratch-2021/course/wafs-w1-01-kickoff.pdf)
+- [Kickoff - Week 1 Maandag 7 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS%20W1-01%20Kickoff.pdf)
 
 
 
