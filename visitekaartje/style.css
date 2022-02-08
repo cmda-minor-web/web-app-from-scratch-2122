@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: ;
+}
+
+/* Card itself */
+.card {
+  width: 265px;
+  height: 453px;
+  border-radius: 10px;
+  background-image: url("img/background.jpg");
+  box-shadow: 8px 8px 4px #00000047;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#profile {
+  width: 116px;
+  /* margin-top: 52px; */
+  border-radius: 5px;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 4px #00000047;
+  /* align-self: center; */
+}
+
+h1 {
+  font-size: 18px;
+  font-family: "Poppins";
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+.icons {
+  display: flex;
+  list-style-type: none;
+  gap: 60px;
+  margin: 32px 0;
+}
+
+button {
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  margin-bottom: 1px;
+}
+
+li {
+  opacity: 80%;
+}
+
+/* Text blocks */
+.textblock {
+  width: 212px;
+  height: 161px;
+  background-color: white;
+  height: 150px;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+  box-shadow: inset 0 0 10px #00000047;
+  overflow: scroll;
+  /* -webkit-transition: 1s; */
+}
+
+.information {
+  font-family: "Poppins";
+  font-size: 12px;
+}
+
+.hobbys,
+.achievements {
+  font-size: 14px;
+  font-family: "Poppins";
+  margin-bottom: 5px;
+}
+.hobby-list,
+.achievement-list {
+  font-family: "Poppins";
+  font-size: 12px;
+  list-style-type: disc;
+}
+.textblock::-webkit-scrollbar {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
