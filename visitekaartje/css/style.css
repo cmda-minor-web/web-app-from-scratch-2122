@@ -6,11 +6,21 @@
 
 html, body {
     background: #0a0a0a;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    
+}
+
+main {
+    height: 100%;
     overflow-y: hidden;
 }
 
 header {
-    height: 100vh;
+    height: 100%;
     background-image: url("../img/JornVeltrop_mobile.jpg");
     background-repeat: no-repeat;
     background-position: center center;
@@ -23,7 +33,7 @@ header {
 }
 
 .headerKlein {
-    height: 40vh;
+    height: 40%;
     background-position: 50% 20%;
     transition: all 1s ease;
 }
@@ -60,6 +70,8 @@ h1 {
 article {
     padding: 2em;
     margin-bottom: 3em;
+    overflow-y: scroll;
+    height: 45%;
 }
 
 article h2 {
