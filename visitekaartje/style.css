@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: ;
+  background-color: #ffffffba;
 }
 
 /* Card itself */
@@ -17,7 +17,8 @@ body {
   height: 453px;
   border-radius: 10px;
   background-image: url("img/background.jpg");
-  box-shadow: 8px 8px 4px #00000047;
+  box-shadow: 10px 10px 10px #00000047;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,6 +38,7 @@ h1 {
   font-family: "Poppins";
   color: white;
   margin-bottom: 10px;
+  opacity: 80%;
 }
 
 /* Buttons */
@@ -47,14 +49,24 @@ h1 {
   margin: 32px 0;
 }
 
+.info-button:hover {
+  filter: drop-shadow(2px 2px 5px #000);
+  transform: scale(1.15);
+}
+.hobby-button:hover {
+  filter: drop-shadow(2px 2px 5px #000);
+  transform: scale(1.15);
+}
+.achievement-button:hover {
+  filter: drop-shadow(2px 2px 5px #000);
+  transform: scale(1.15);
+}
+
 button {
   text-decoration: none;
   background: none;
   border: none;
   cursor: pointer;
-}
-button:hover {
-  margin-bottom: 1px;
 }
 
 li {
@@ -89,7 +101,7 @@ li {
 .achievement-list {
   font-family: "Poppins";
   font-size: 12px;
-  list-style-type: disc;
+  list-style-type: none;
 }
 .textblock::-webkit-scrollbar {
   display: none;
