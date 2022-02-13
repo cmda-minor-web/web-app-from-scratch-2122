@@ -14,11 +14,11 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 
 ## Sub tasks
 
-1. Handle routes to manage state  
-2. Design the code logic of your application  
-3. Refactor code into modules 
+1. [Handle routes to manage state]()
+2. [Design the code logic of your application]()
+3. [Refactor code into modules]()
 
--- 
+--- 
 
 ## 1. Handle routes to manage state 
 
@@ -30,7 +30,7 @@ On a single page web app you will have to create the URLs (or routes) to the dif
 - [Routie - hash router](http://projects.jga.me/routie/)  
 
 
---
+---
 
 ## 2. Design the code logic of your application 
 
