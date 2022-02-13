@@ -56,8 +56,8 @@ so that I can make a good choice whether it fits my diet.
 ### Design the interface
 
 1. Investigate API
-2. Sketch Userflow
-3. Sketch Breakdown-graph
+2. Sketch Userflow in a Wireflow
+3. Sketch Breakdown-graph: break the wireflow down in HTML, CSS and JS.   
 
 ### Resources
 
@@ -80,7 +80,6 @@ Parse the JSON into a JavaScript object.
 
 ### Build the interface
 
-Breakdown sketch: break the wireflow down in HTML, CSS.   
 Render the data object into structured HTML and style the interface with CSS.  
 
 ### Resources
