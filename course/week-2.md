@@ -37,7 +37,7 @@ Design and build a Single Page web App based on a User Story.
 [FDND Web Design Quotes API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
 2. As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
-3. As a frisbee player, I want to be able to save and pass on the scores after a match, so I know where and when we have to play the next game. 
+3. As a frisbee player, I want to be able to save and pass on the scores of a match, so I know where and when we have to play the next game. 
 [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
 4. As a foodie, I want to be able to easily search and view information about a product while shopping,
 so that I can make a good choice whether it fits my diet.
