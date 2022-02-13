@@ -27,9 +27,6 @@ Design and build a Single Page web App based on a User Story.
 3. Fork GitHub repository for this course and setup the README.md 
 4. Conduct Code Review via GitHub
 
-#### Resources
-
-- [What is a Single Page Application](https://www.monocubed.com/what-is-single-page-application/)
 
 ---  
 
@@ -67,8 +64,10 @@ zodat .
 
 ### Resources
 
+- [What is a Single Page Application](https://www.monocubed.com/what-is-single-page-application/)
 - [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
 - [https://balsamiq.com/learn/articles/wireflows/](https://balsamiq.com/learn/articles/wireflows/)
+
 
 ---
 
