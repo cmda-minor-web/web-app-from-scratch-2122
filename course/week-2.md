@@ -14,16 +14,12 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 Iterate on the User Story. Add Routes and States. Refactor code into Modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-3.md)
 
-## Slides
-
-1. Opdracht - Week 2 Maandag 14 feb
-2. UI-Stack - Week 2 Dinsdag 15 feb
 
 ---  
 
 ## Assignment
 
-Design and build a Single Page web App based on a User Story.
+Design and build a Single Page Web App based on a User Story.
 
 ### Sub tasks
 
@@ -31,6 +27,12 @@ Design and build a Single Page web App based on a User Story.
 2. [Load data from the API and build the User Interface](#2-loading-data-from-the-api-and-build-the-user-interface)
 3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test)
 4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github)
+
+### Slides
+
+1. Opdracht - Week 2 Maandag 14 feb
+2. UI-Stack - Week 2 Dinsdag 15 feb
+
 
 ---  
 
