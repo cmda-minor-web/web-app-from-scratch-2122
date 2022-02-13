@@ -4,7 +4,7 @@ Minor Web Development - Web App From Scratch
 
 ## Intention
 
-The coming three weeks you will create a client side Single Page App (SPA) during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
+The coming three weeks you will create a client side Single Page web App (SPA) during this course. Based upon data from the API of your chosen user story, you design, build and test a prototype in three iterations. You write vanilla HTML, CSS and JavaSCript, and avoid to use frameworks or libraries as much as possible - with the exception of a micro library if neccessary. 
 
 ### Goals this week: ‘Hello API’ 🐒
 
@@ -18,9 +18,9 @@ Iterate on the user story. Add routes and states. Refactor code into modules. [C
 
 ## Assignment
 
-Design and build a single page web app based on a User Story.
+Design and build a Single Page web App based on a User Story.
 
-## Sub tasks
+### Sub tasks
 
 1. Pick a user story and design the interface
 2. Load data from the API and build the interface
@@ -29,9 +29,9 @@ Design and build a single page web app based on a User Story.
 
 ---  
 
-### 1. Pick a user story and design the interface
+## 1. Pick a user story and design the interface
 
-#### User stories
+### User stories
 
 - Als student digital design, wil ik inspirerende web design quotes kunnen bekijken, zodat ik weer een beetje energie krijg wanneer ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.
 [FDND Web Design Quotes API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
@@ -52,17 +52,18 @@ zodat .
 [Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
 - As a children's book author, I want to experiment with innovative Dutch-language voice interaction patterns, so I can tell my stories in an entirely new way.
 [Storytelling - Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
+- Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning. 
 
 
-#### Design the interface
+### Design the interface
 
 1. Investigate API
 2. Sketch Userflow
-3. Breakdown-graph
+3. Sketch Breakdown-graph
 
 ---
 
-### 2. Loading data from the API and build the interface
+## 2. Loading data from the API and build the interface
 
 Requesting data from an API can take a relatively long time that your program would not have to wait for.   
 That is why you are going to make an asynchronous request to the API.
@@ -79,6 +80,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 #### Resources
 
+- [What is a Single Page Application](https://www.monocubed.com/what-is-single-page-application/)
 - [How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
 - [Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)
 - [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
@@ -87,7 +89,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ---  
 
-### 3. Fork GitHub repository for this course and setup the README.md 
+## 3. Fork GitHub repository for this course and setup the README.md 
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
@@ -117,7 +119,7 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 ---  
 
-### 4. Conduct code review: add issues on GitHub
+## 4. Conduct code review: add issues on GitHub
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code. 
