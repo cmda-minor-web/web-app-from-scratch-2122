@@ -2,16 +2,14 @@
 
 ## User Story
 
-***Als ,
-wil ik  ,
-zodat .
+*** Als ontwerper,
+wil ik online een t-shirt kunnen schetsen en maken,
+zodat ik t-shirts kan verkopen met mijn tekeningen en kunst.
 ***
 
 ## Printify API
 
 Online bestaan er verschillende services om t-shirts te laten drukken. Printify is zo'n service.
-
-Met Printify...
 
 Ontwerp met behulp van de Printify API een Single-Page-App waarmee mensen zelf t-shirts kunnen ontwerpen en (zouden) kunnen laten drukken en bezorgen. Het ontwerpen van de t-shirts moet zo prettig zijn dat een bezoeker op een leuke en makkelijke manier t-shirts designs kan bedenken en maken. Misschien kunnen ontwerpers wel in de t-shirt app tekenen, of laat kleine kinderen eenvoudig een t-shirt als verjaardagkadootjes maken ...
 
