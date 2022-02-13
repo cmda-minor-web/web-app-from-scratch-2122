@@ -6,15 +6,15 @@ Minor Web Development - Web App From Scratch
 
 Kennismaken met de minor en met elkaar.
 
-## Slides
-
-1. [Kickoff - Week 1 Maandag 7 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W1-01-Kickoff.pdf)
-
 ---  
 
 ## Assignment
 
 In week 1 ga je twee opdrachten maken. Een [visitekaartje](#1-visitekaartje) en een [teampagina](#2-teampagina) met je team.
+
+### Slides
+
+1. [Kickoff - Week 1 Maandag 7 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W1-01-Kickoff.pdf)
 
 ---
 
