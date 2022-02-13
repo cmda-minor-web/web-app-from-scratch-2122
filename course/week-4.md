@@ -36,9 +36,6 @@ To be able to view the data that you have loaded from an API in a more targeted 
 ### Resources
 
 - [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
-- [Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)  
-
-
 
 ---
 
