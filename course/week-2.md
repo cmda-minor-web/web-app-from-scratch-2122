@@ -22,10 +22,10 @@ Design and build a Single Page web App based on a User Story.
 
 ### Sub tasks
 
-1. Pick a user story and design the interface
-2. Load data from the API and build the interface
-3. Fork GitHub repository for this course and setup the README.md 
-4. Conduct Code Review via GitHub
+1. [Pick a user story and design the interface](#1-pick-a-user-story-and-design-the-interface)
+2. [Load data from the API and build the interface]()
+3. [Fork GitHub repository for this course and setup the README.md]()
+4. [Conduct Code Review via GitHub]()
 
 
 ---  
