@@ -54,6 +54,7 @@
         let q = "&involvedMaker=Rembrandt+van+Rijn";
         let url = "https://www.rijksmuseum.nl/api/nl/collection?key="+apikey+q;
 
+
         fetch(url).then(function(response) { 
           return response.json()
         }).then(function(json) { 

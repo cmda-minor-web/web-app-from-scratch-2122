@@ -50,7 +50,7 @@ so that I can better estimate whether I should make an appointment with the doct
 wil ik, 
 zodat .
 [Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
-- As a children's book author, I want to use voice interaction patterns, so I can tell my stories in an entirely new way.
+- As a children's book author, I want to experiment with innovative Dutch-language voice interaction patterns, so I can tell my stories in an entirely new way.
 [Storytelling - Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 
 
