@@ -13,7 +13,7 @@ In de colleges en presentaties van de opleiding [Frontend Design & Development (
 Soms gebruiken we de quotes ook op Instagram om bekendheid van de opleiding te vergroten. 
 Of we printen kaartjes en posters voor open dagen.
 Vaak wijzen we een student nog eens op een quote om iets duidelijk te maken.
-Voor de opendag hebben we een website gemaakt met verschillende quotes om op de tv's te laten zien. https://quotes.fdnd.nl
+Voor de opendag hebben we een [website](https://quotes.fdnd.nl) gemaakt met verschillende quotes om op de tv's te laten zien.
 
 De quotes zijn ook door andere mensen te bekijken of te gebruiken in een (web) app. Hiervoor is een rest-api gemaakt waarmee je alle quotes die zijn gebruikt in de presentaties worden verzameld. 
 Je kan alle quotes opvragen, gesorteerd op datum of alfabet, of quotes filteren op bijvoorbeeld tags, auteur of jaar.
