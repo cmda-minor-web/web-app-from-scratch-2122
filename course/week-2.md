@@ -33,7 +33,7 @@ Design and build a Single Page web App based on a User Story.
 
 ### User stories
 
-1. Als student digital design, wil ik inspirerende web design quotes kunnen bekijken, zodat ik weer een beetje energie krijg wanneer ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.
+1. As a student Digital Design, I want to look at inspiring web design quotes, to get a bit of energy when I'm down while working on hard-core deadlines.
 [FDND Web Design Quotes API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/fdnd-quotes.md)
 2. As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown
 [Rijksmuseum - RijksData API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/rijksmuseum.md)
