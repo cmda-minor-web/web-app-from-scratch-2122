@@ -52,7 +52,7 @@ zodat .
 [Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
 - As a children's book author, I want to experiment with innovative Dutch-language voice interaction patterns, so I can tell my stories in an entirely new way.
 [Storytelling - Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
-- Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning. 
+- Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning to do. 
 
 
 ### Design the interface
