@@ -116,6 +116,7 @@ Every screen you’ll design for your SPA can have up to five states: Ideal Stat
 - Read about the UI-Stack in the article [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/#example)
 - [Error handling while using native fetch API in JavaScript](https://learnwithparam.com/blog/how-to-handle-fetch-errors/)
 - [Promises chaining](https://javascript.info/promise-chaining)
+- [Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)  
  
  
  <!-- ## 3. Fork GitHub repository for this course and setup the README.md
