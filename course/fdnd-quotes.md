@@ -15,7 +15,7 @@ Of we printen kaartjes en posters voor open dagen.
 Vaak wijzen we een student nog eens op een quote om iets duidelijk te maken.
 Voor de opendag hebben we een website gemaakt met verschillende quotes om op de tv's te laten zien. https://quotes.fdnd.nl
 
-De quotes zijn ook door andere mensen te bekijken. Hiervoor is een rest-api gemaakt waarmee je alle quotes die zijn gebruikt in de presentaties worden verzameld. 
+De quotes zijn ook door andere mensen te bekijken of te gebruiken in een (web) app. Hiervoor is een rest-api gemaakt waarmee je alle quotes die zijn gebruikt in de presentaties worden verzameld. 
 Je kan alle quotes opvragen, gesorteerd op datum of alfabet, of quotes filteren op bijvoorbeeld tags, auteur of jaar.
 
 https://quote.api.fdnd.nl/v1/quote
