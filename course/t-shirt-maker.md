@@ -2,7 +2,7 @@
 
 ## User Story
 
-*** Als ontwerper,
+***Als ontwerper,
 wil ik online een t-shirt kunnen schetsen en maken,
 zodat ik t-shirts kan verkopen met mijn tekeningen en kunst.
 ***
