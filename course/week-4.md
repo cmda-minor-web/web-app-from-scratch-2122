@@ -8,17 +8,24 @@ Minor Web Development - Web App From Scratch
 
 Iterate and improve UI. Manipulate data. Finish documentation and presentation
 
+---
+
+## Assignment
+
 ### Method
 
 16 hours have been scheduled to work on this course this week (Monday and Tuesday). Try to plan your work well! In the meantime, progress is monitored in standup meetings and classroom meetings. Your code will be reviewed at Friday. Any issues will be placed in your GitHub repository.
 
-
-## Exercises
+### Exercises
 
 1. Manipulate, filter and sort data (Monday)
-2. Give feedback to the user
+2. Code splitsen in modules (Monday)
 3. Reflect on work (Tuesday)
-4. Split code into modules (Tuesday)
+
+### Slides
+
+1. 
+
 
 ---
 
@@ -29,21 +36,13 @@ To be able to view the data that you have loaded from an API in a more targeted 
 ### Resources
 
 - [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
-
----
-
-## 2. Give feedback to user (Monday)
-When dealing with asynchronous data fetching, it's very important to provide feedback to the user. Add a loading state to your application. And give feedback in case of succes and failure!
-
-
-### Resources
-
 - [Use promise.finally() to remove loading state](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)  
-- [5 Principles of Interaction Design To Supercharge Your UI](https://givegoodux.com/feedback-5-principles-interaction-design-supercharge-ui-5-5/)
+
+
 
 ---
 
-## 3. Code splitsen in modules (Monday)
+## 2. Code splitsen in modules (Monday)
 
 If all goes well, your app is now almost ready. Refactor your code to individual modules (these should more or less correspond to the actors from your actor diagram), so that your code is more manageable. Put the modules in separate files.
 
