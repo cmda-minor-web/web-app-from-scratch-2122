@@ -15,7 +15,7 @@ Manipulate data and templating. Split code into modules. Reflect on what you mad
 ## Sub tasks
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
-2. [Design the code logic of your application]()
+2. [Design the code logic of your application](#2-design-the-code-logic-of-your-application)
 3. [Refactor code into modules]()
 
 --- 
