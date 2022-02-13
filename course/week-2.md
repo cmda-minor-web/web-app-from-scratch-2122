@@ -41,16 +41,12 @@ Design and build a Single Page web App based on a User Story.
 - As a foodie, I want to be able to easily search and view information about a product while shopping,
 so that I can make a good choice whether it fits my diet.
 [Healthy Food Checker - Open Food Facts API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/healthy-food-checker.md)
-- As a patient,
-I want to be able to make a reliable diagnosis at home,
-so that I can better estimate whether I should make an appointment with the doctor.
+- As a patient, I want to be able to make a reliable diagnosis at home, so that I can better estimate whether I should make an appointment with the doctor.
 [EndlessMedical API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/endless-medical.md)
 - As a frisbee player, I want to be able to save and pass on the scores after a match, so I know where and when we have to play the next game. 
 [Frisbee Tournament - Leaguevine API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/frisbee-tournament.md)
-- Als, 
-wil ik, 
-zodat .
-[Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)  
+- ~~As a artist, I want to sketch and design a t-shirt online, so I can sell my t-shirt-artwork.
+[Printify API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/t-shirt-maker.md)~~
 - As a children's book author, I want to experiment with innovative Dutch-language voice interaction patterns, so I can tell my stories in an entirely new way.
 [Storytelling - Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 - Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning to do. 
