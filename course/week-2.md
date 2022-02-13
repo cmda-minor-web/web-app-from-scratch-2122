@@ -24,13 +24,13 @@ Design and build a Single Page web App based on a User Story.
 
 1. [Pick a user story and design the interface](#1-pick-a-user-story-and-design-the-interface)
 2. [Load data from the API and build the interface](#2-loading-data-from-the-api-and-build-the-interface)
-3. [Fork GitHub repository for this course and setup the README.md](#3-fork-github-repository-for-this-course-and-setup-the-readmemd)
+<!-- 3. [Fork GitHub repository for this course and setup the README.md](#3-fork-github-repository-for-this-course-and-setup-the-readmemd) -->
+3. [Add UI-Stack to the interface and test](#3-add-ui-stack-to-the-interface-and-test)
 4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github)
-
 
 ---  
 
-## 1. Pick a user story and design the interface
+## 1. Pick a User Story and design the interface
 
 ### User stories
 
@@ -50,21 +50,19 @@ so that I can make a good choice whether it fits my diet.
 7. As a children's book author, I want to experiment with innovative Dutch-language voice interaction patterns, so I can tell my stories in an entirely new way.
 [Storytelling - Web Speech API](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/storytelling.md)
 
-- Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning to do. 
-
+- Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning to do.
 
 ### Design the interface
 
 1. Investigate API
 2. Sketch Userflow in a Wireflow
-3. Sketch Breakdown-graph: break the wireflow down in HTML, CSS and JS.   
+3. Sketch Breakdown-graph: break the wireflow down in HTML, CSS and JS.
 
 ### Resources
 
 - [What is a Single Page Application](https://www.monocubed.com/what-is-single-page-application/)
 - [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
-
 
 ---
 
@@ -86,14 +84,28 @@ Render the data object into structured HTML and style the interface with CSS.
 
 - [How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
 - [Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)
-- [Promises chaining](https://javascript.info/promise-chaining)
 - [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
 - [You don’t know JS; Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [The Event Loop, the inner workings of asynchronous code in JavaScript](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ---  
 
-## 3. Fork GitHub repository for this course and setup the README.md 
+## 3. Add UI-Stack to the interface and test
+
+About the UI-Stack.
+
+Expand Wireflow with empty, loading and/or error states.
+
+Build and test.
+
+### Resources
+
+- Read about the UI-Stack in the article [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/#example)
+- [Error handling while using native fetch API in JavaScript](https://learnwithparam.com/blog/how-to-handle-fetch-errors/)
+- [Promises chaining](https://javascript.info/promise-chaining)
+ 
+ 
+ <!-- ## 3. Fork GitHub repository for this course and setup the README.md
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
@@ -104,15 +116,15 @@ Publish your web app with Github pages and add the link to the web app in the re
 
 A good app comes with a good README.md in which you describe the application. Add the chapters below and document your app.
 
-* linkToLiveDemo? review (assignment): assignGrade (1);  
-* What does your app do, what is the goal? (passing butter)  
-* Which actors are there in your application? (actor diagram)  
-* Which API is used and what are the limitations? (rate limit)  
-* How does flowed interaction through the application? (interaction diagram)  
-* Which design patterns and best practices  
-* What would you like to add (feature wishlist / backlog)  
+- linkToLiveDemo? review (assignment): assignGrade (1);  
+- What does your app do, what is the goal? Add the USer Story and explain your app design (passing butter)  
+- Which API is used and what are the possibilities and limitations? (rate limit)
+- Which actors are there in your application? (actor diagram)  
+- How does flowed interaction through the application? (interaction diagram)
+- Which design patterns and best practices
+- What would you like to add (feature wishlist / backlog)  
 
-*(Also see the commented hints in the README.md)*
+*(Also see the commented hints in the README.md)* 
 
 ### Resources
 
@@ -120,10 +132,11 @@ A good app comes with a good README.md in which you describe the application. Ad
 - [Git command explorer](https://gitexplorer.com/)
 - [Github Pages](https://pages.github.com/)
 - [A list of awesome READMEs](https://github.com/cmda-minor-web/web-app-from-scratch-1819/network/members)
+-->
 
 ---  
 
 ## 4. Conduct code review: add issues on GitHub
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
-Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code. 
+Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.

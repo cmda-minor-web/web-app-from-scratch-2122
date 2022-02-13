@@ -1,5 +1,8 @@
 # T-Shirt Maker
 
+DEZE USER STORY EN API IS UIT DE LIJST GEHAALD. 
+JE MAG HET WEL DOEN MAAR HET LUKTE ONS NIET ZO 1,2,3 OM DE BOEL AAN DE PRAA TE KRIJGEN OMDAT HET GEEN OPENM_SOURCE API IS.
+
 ## User Story
 
 **Als ontwerper,
@@ -15,4 +18,5 @@ Ontwerp met behulp van de Printify API een Single-Page-App waarmee mensen zelf t
 https://printify.com/
 
 https://printify.com/printify-api/
+
 https://printify.com/blog/20-listings-1-click-how-the-printify-api-makes-toms-life-easier/
