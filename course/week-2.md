@@ -97,7 +97,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 All code and documentation that you write (for all courses and projects in this minor) will be in a GitHub repository. Make a neat layout of files and folders. Make sure that the code can also be viewed via GitHub Pages as rendered HTML, CSS & JavaScript. A Github repo is only complete if it contains a description and readme (with a poster image of the project). We have already prepared a repository that you can fork.
 
-Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-2021
+Fork this repository: https://github.com/cmda-minor-web/web-app-from-scratch-2122
 
 Open issues on your repo so that you can get feedback!
 Publish your web app with Github pages and add the link to the web app in the repo description.
