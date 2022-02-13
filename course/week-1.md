@@ -14,7 +14,7 @@ In week 1 ga je twee opdrachten maken. Een [visitekaartje](#1-visitekaartje) en 
 
 ### Slides
 
-1. [Kickoff - Week 1 Maandag 7 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W1-01-Kickoff.pdf)
+1. [Kickoff en opdracht - Week 1 Maandag 7 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W1-01-Kickoff.pdf)
 
 ---
 
