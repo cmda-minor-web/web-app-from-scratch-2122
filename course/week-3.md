@@ -12,6 +12,18 @@ Iterate on the user story. Add routes and states. refactor code into modules.
 
 Manipulate data and templating. Split code into modules. Reflect on what you made. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-4.md)
 
+## Slides
+
+1. Routes en Modules - Week 3 Maandag 28 feb
+2. UI Principles - Week 3 Dinsdag 1 mrt
+
+---
+
+## Assignment
+
+Refactor your SPA.
+
+
 ## Sub tasks
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
