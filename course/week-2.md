@@ -91,13 +91,18 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ## 3. Add feedback to the User Interface and test
 
-About UI principles
+Requesting data from an API can take some time before the data is loaded. Also something can go wrong on the server, client or in between. 
 
-About the UI-Stack.
 
-Expand Wireflow with empty, loading and/or error states.
+### Design and implement the UI-Stack
 
-Build and test.
+You have to show feedback to the user when waiting for a request or when something goes wrong.
+Every screen you’l design for your SPA can have up to five states: Ideal State, Empty State, Error State, Partial State, Loading State. 
+
+1. Design an Empty state, Loading state and/or Error state and add them to your Wireflow.
+2. Sketch a Breakdown-graph: break the Wireflow down in HTML, CSS and JS.
+3. Implement the new code and test with a peer students. 
+
 
 ### Resources
 
