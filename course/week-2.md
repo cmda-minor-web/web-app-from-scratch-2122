@@ -1,6 +1,6 @@
 # Week 2: ‘Hello API’ 🐒
 
-[Minor Web Development - Web App From Scratch](https://github.com/cmda-minor-web/web-app-from-scratch-2122)
+[Minor Web Development]((https://github.com/cmda-minor-web/) - [Web App From Scratch](https://github.com/cmda-minor-web/web-app-from-scratch-2122)
 
 ## Intention
 
