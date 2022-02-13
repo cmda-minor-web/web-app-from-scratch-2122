@@ -54,7 +54,7 @@ so that I can make a good choice whether it fits my diet.
 ### Sketch the interface
 
 1. Investigate API
-2. Sketch Userflow in a Wireflow
+2. Sketch User Flow in a Wireflow
 3. Sketch Breakdown-graph: break the Wireflow down in HTML, CSS and JS.
 
 ### Resources
