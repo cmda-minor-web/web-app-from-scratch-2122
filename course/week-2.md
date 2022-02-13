@@ -25,7 +25,7 @@ Design and build a Single Page web App based on a User Story.
 1. [Pick a user story and design the interface](#1-pick-a-user-story-and-design-the-interface)
 2. [Load data from the API and build the interface](#2-loading-data-from-the-api-and-build-the-interface)
 3. [Fork GitHub repository for this course and setup the README.md](#3-fork-github-repository-for-this-course-and-setup-the-readmemd)
-4. [Conduct Code Review via GitHub]()
+4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github)
 
 
 ---  
