@@ -15,6 +15,7 @@ Laila de Miranda schrijft kinderboeken. Yuri Westplat is ontwerper en onderzoeke
 ### Planning
 
 | Maandag | Dinsdag | Vrijdag  |
+|---|---|---|
 |14 feb - Briefing opdrachtgever (online)| |18 feb - feedback opdrachtgever|
 | | |4 mrt - feedback opdrachtgever|
 | | |11 mrt - opleveren opdrachtgever|
