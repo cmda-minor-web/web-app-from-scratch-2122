@@ -14,6 +14,11 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 Iterate on the User Story. Add Routes and States. Refactor code into Modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-3.md)
 
+## Slides
+
+1. Opdracht - Week 2 Maandag 14 feb
+2. UI-Stack - Week 2 Dinsdag 15 feb
+
 ---  
 
 ## Assignment
