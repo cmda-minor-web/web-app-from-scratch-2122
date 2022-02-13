@@ -97,7 +97,7 @@ Requesting data from an API can take some time before the data is loaded. Also s
 ### Design and implement the UI-Stack
 
 You have to show feedback to the user when waiting for a request or when something goes wrong.
-Every screen you’l design for your SPA can have up to five states: Ideal State, Empty State, Error State, Partial State, Loading State. 
+Every screen you’ll design for your SPA can have up to five states: Ideal State, Empty State, Error State, Partial State, Loading State. 
 
 1. Design an Empty state, Loading state and/or Error state and add them to your Wireflow.
 2. Sketch a Breakdown-graph: break the Wireflow down in HTML, CSS and JS.
