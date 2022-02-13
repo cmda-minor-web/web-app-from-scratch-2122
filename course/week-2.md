@@ -12,7 +12,7 @@ Pick an user story. Design the interface. Retrieve data from the chosen API and 
 
 ### Next week: ‘Design & refactor’ 🛠
 
-Iterate on the user story. Add routes and states. Refactor code into modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-3.md)
+Iterate on the User Story. Add Routes and States. Refactor code into Modules. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-3.md)
 
 ---  
 
@@ -22,15 +22,15 @@ Design and build a Single Page web App based on a User Story.
 
 ### Sub tasks
 
-1. [Pick a user story and design the interface](#1-pick-a-user-story-and-design-the-interface)
-2. [Load data from the API and build the interface](#2-loading-data-from-the-api-and-build-the-interface)
+1. [Pick a user story and sketch the User Interface](#1-pick-a-user-story-and-sketch-the-interface)
+2. [Load data from the API and build the User Interface](#2-loading-data-from-the-api-and-build-the-user-interface)
 <!-- 3. [Fork GitHub repository for this course and setup the README.md](#3-fork-github-repository-for-this-course-and-setup-the-readmemd) -->
-3. [Add UI-Stack to the interface and test](#3-add-ui-stack-to-the-interface-and-test)
+3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test)
 4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github)
 
 ---  
 
-## 1. Pick a User Story and design the interface
+## 1. Pick a User Story and sketch the User Interface
 
 ### User stories
 
@@ -52,11 +52,11 @@ so that I can make a good choice whether it fits my diet.
 
 - Do you have an idea you want to design and develop? Yes you can ... Write a User Story and present what you are planning to do.
 
-### Design the interface
+### Sketch the interface
 
 1. Investigate API
 2. Sketch Userflow in a Wireflow
-3. Sketch Breakdown-graph: break the wireflow down in HTML, CSS and JS.
+3. Sketch Breakdown-graph: break the Wireflow down in HTML, CSS and JS.
 
 ### Resources
 
@@ -66,9 +66,9 @@ so that I can make a good choice whether it fits my diet.
 
 ---
 
-## 2. Loading data from the API and build the interface
+## 2. Loading data from the API and build the User Interface
 
-Requesting data from an API can take a relatively long time that your program would not have to wait for.   
+Requesting data from an API can take a relatively long time that your program would not have to wait for.
 That is why you are going to make an asynchronous request to the API.
 
 ### Fetch data from your API
@@ -76,7 +76,7 @@ That is why you are going to make an asynchronous request to the API.
 Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.  
 Parse the JSON into a JavaScript object.
 
-### Build the interface
+### Build the User Interface
 
 Render the data object into structured HTML and style the interface with CSS.  
 
@@ -90,7 +90,9 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ---  
 
-## 3. Add UI-Stack to the interface and test
+## 3. Add feedback to the User Interface and test
+
+About UI principles
 
 About the UI-Stack.
 
