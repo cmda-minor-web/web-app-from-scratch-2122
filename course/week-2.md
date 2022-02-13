@@ -67,7 +67,8 @@ zodat .
 
 ### Resources
 
-- [What is a Single Page Application](https://www.monocubed.com/what-is-single-page-application/)
+- [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
+- [https://balsamiq.com/learn/articles/wireflows/](https://balsamiq.com/learn/articles/wireflows/)
 
 ---
 
