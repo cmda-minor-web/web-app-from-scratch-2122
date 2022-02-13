@@ -12,6 +12,14 @@ om kinderen die weinig lezen op een interactieve manier te laten kennismaken met
 
 Laila de Miranda schrijft kinderboeken. Yuri Westplat is ontwerper en onderzoeker naar spraakgestuurde interactie. Laila heeft speciaal voor deze opdracht een kort interactief verhaal voor kinderen geschreven. De komende weken werk je dat verhaal in kleine verhaaltjes, per functionaliteit uit. We zien je wekelijks voor een review. Als het allemaal werkt, gaan we de web-app demonstreren op [MozFest Amsterdam](https://www.mozillafestival.org/nl/).
 
+### Planning
+
+| Maandag | Dinsdag | Vrijdag  |
+|14 feb - Briefing opdrachtgever (online)| |18 feb - feedback opdrachtgever|
+| | |4 mrt - feedback opdrachtgever|
+| | |11 mrt - opleveren opdrachtgever|
+
+
 ### Spraaktechnologie is de toekomst
 
 Spraak is een vrij nieuwe manier om te communiceren met computers. Stemassistenten zoals Siri, Alexa en Google Assistant hebben een revolutie veroorzaakt in de manier waarop mensen communiceren met technologie. Spraaktechnologie wordt steeds vaker ingebouwd in alledaagse gebruiksvoorwerpen, van navigatie-apps en slimme luidsprekers tot smartphones en beveiligingssystemen.
