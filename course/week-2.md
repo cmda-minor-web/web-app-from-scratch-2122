@@ -24,7 +24,7 @@ Design and build a Single Page web App based on a User Story.
 
 1. [Pick a user story and design the interface](#1-pick-a-user-story-and-design-the-interface)
 2. [Load data from the API and build the interface](#2-loading-data-from-the-api-and-build-the-interface)
-3. [Fork GitHub repository for this course and setup the README.md]()
+3. [Fork GitHub repository for this course and setup the README.md](#3-fork-github-repository-for-this-course-and-setup-the-readmemd)
 4. [Conduct Code Review via GitHub]()
 
 
@@ -72,12 +72,12 @@ so that I can make a good choice whether it fits my diet.
 Requesting data from an API can take a relatively long time that your program would not have to wait for.   
 That is why you are going to make an asynchronous request to the API.
 
-#### Fetch data from your API
+### Fetch data from your API
 
 Create a request object in your code with which you load data (a list of items) with an asynchronous call from the chosen API.  
 Parse the JSON into a JavaScript object.
 
-#### Build the interface
+### Build the interface
 
 Breakdown sketch: break the wireflow down in HTML, CSS.   
 Render the data object into structured HTML and style the interface with CSS.  
