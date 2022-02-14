@@ -24,7 +24,7 @@ function setData () {
             sectionData.insertAdjacentHTML('beforeend',`
                 
                 <article>
-                    <h1>${number.title}</h1>
+                    <h2>${number.title}</h2>
                     <img src="${number.webImage.url}">
                 </article
             `)
@@ -59,6 +59,7 @@ function getAndRenderData () {
             sectionData.insertAdjacentHTML('beforeend',`
                 
                 <article>
+                    <h2>${number.title}</h2>
                     <img src="${number.webImage.url}">
                 </article
             `)
