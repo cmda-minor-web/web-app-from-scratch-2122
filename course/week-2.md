@@ -1,6 +1,6 @@
 # Week 2: ‘Hello API’ 🐒
 
-Minor Web Development - Web App From Scratch
+[Minor Web Development](https://github.com/cmda-minor-web/) - [Web App From Scratch](https://github.com/cmda-minor-web/web-app-from-scratch-2122)
 
 ## Intention
 
@@ -30,7 +30,7 @@ Design and build a Single Page Web App based on a User Story.
 
 ### Slides
 
-1. Opdracht - Week 2 Maandag 14 feb
+1. [Opdracht - Week 2 Maandag 14 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W2-01-Hello-API)
 2. UI-Stack - Week 2 Dinsdag 15 feb
 
 
@@ -88,6 +88,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ### Resources
 
+- Try this tutorial [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) to learn about JSON, Fetch and creating HTML
 - [How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
 - [Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)
 - [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
