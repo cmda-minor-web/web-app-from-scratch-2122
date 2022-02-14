@@ -1,0 +1,263 @@
+/* CSS Document */
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+/**************************************************/
+/*-------------GENERAL style ELEMENTS-------------*/
+/* HIDE ELEMENTS*/
+.hide-elements {
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul>li>a {
+    text-decoration: none;
+}
+
+/* text styling*/
+.frontCard h2,
+p {
+    color: #ffffff;
+}
+
+/* content styling*/
+body {
+    background-color: #e3e3e3;
+}
+
+main>article:first-of-type {
+    perspective: 800px;
+
+    /*center*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /*background-color: #C6E2FF;*/
+
+}
+
+main>article:first-of-type>div#card {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #ddd;
+    border-radius: 2em;
+    background: rgb(116, 218, 201);
+    background: linear-gradient(198deg, rgba(116, 218, 201, 1) 0%, rgba(124, 213, 201, 1) 50%, rgba(28, 120, 111, 1) 100%);
+
+    /* card flipping effects */
+    transform-style: preserve-3d;
+    transition: 0.6s;
+}
+
+main>article:first-of-type>div#card section.cardSide {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+
+    /* Fix Chrome rendering bug */
+    transform: rotate(0deg) translateZ(1px);
+}
+
+main>article:first-of-type:hover div#card,
+main>article:first-of-type>div#card>section.backCard {
+    transform: rotateY(-180deg) translateZ(1px);
+}
+
+section.backCard {
+    padding: 1em;
+}
+
+/*profile image*/
+img {
+    width: 15em;
+    margin: 2em;
+    /* top, right, bottom, left */
+    border-radius: 2em;
+}
+
+section#button {
+    display: flex;
+    justify-content: right;
+}
+
+/* button styling*/
+section#buttons>button {
+    border: none;
+    padding: 1em;
+    border-radius: 0.5em;
+    color: #327b74;
+}
+
+/*************button trigger */
+button:hover {
+    cursor: pointer;
+}
+
+.active {
+    background-color: #327b74 !important;
+    color: #ffffff !important;
+}
+
+/* hides every element except the first */
+ul.content:not(:first-child) {
+    display: none;
+}
+
+.containerContent {
+    display: block;
+}
+
+/***********************/
+/* skills */
+.skill-bars {
+    padding: 25px 30px;
+    width: 450px;
+    background: #fff;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.skill-bars .bar {
+    margin: 20px 0;
+}
+
+.skill-bars .bar:first-child {
+    margin-top: 0px;
+}
+
+.skill-bars .bar .info {
+    margin-bottom: 5px;
+}
+
+.skill-bars .bar .info span {
+    font-weight: 500;
+    font-size: 17px;
+    opacity: 0;
+    animation: showText 0.5s 1s linear forwards;
+}
+
+@keyframes showText {
+    100% {
+        opacity: 1;
+    }
+}
+
+.skill-bars .bar .progress-line {
+    height: 10px;
+    width: 100%;
+    background: #f0f0f0;
+    position: relative;
+    transform: scaleX(0);
+    transform-origin: left;
+    border-radius: 10px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05),
+        0 1px rgba(255, 255, 255, 0.8);
+    animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+}
+
+@keyframes animate {
+    100% {
+        transform: scaleX(1);
+    }
+}
+
+.bar .progress-line span {
+    height: 100%;
+    position: absolute;
+    border-radius: 10px;
+    transform: scaleX(0);
+    transform-origin: left;
+    background: #6665ee;
+    animation: animate 1s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+}
+
+.bar .progress-line.html span {
+    width: 65%;
+}
+
+.progress-line span::before {
+    position: absolute;
+    content: "";
+    top: -10px;
+    right: 0;
+    height: 0;
+    width: 0;
+    border: 7px solid transparent;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-color: #000;
+    opacity: 0;
+    animation: showText2 0.5s 1.5s linear forwards;
+}
+
+/* perceentage*/
+.progress-line span::after {
+    position: absolute;
+    top: -28px;
+    right: 0;
+    font-weight: 500;
+    background: #000;
+    color: #fff;
+    padding: 1px 8px;
+    font-size: 12px;
+    border-radius: 3px;
+    opacity: 0;
+    animation: showText2 0.5s 1.5s linear forwards;
+}
+
+@keyframes showText2 {
+    100% {
+        opacity: 1;
+    }
+}
+
+.progress-line.html span::after {
+    content: "65%";
+}
+
+
+footer {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0;
+}
+
+/*************************************************************/
+/*------------------------ MEDIA QUERY ----------------------*/
+/*------------------------ WEBSITE MODES --------------------*/
+@media (min-width:40em) {
+    svg {
+        fill: #000000;
+        width: 2em;
+        margin-right: 0.2em;
+    }
+
+    section.frontCard>figure {
+        margin: 0;
+    }
+
+    section.frontCard {
+        display: flex;
+        align-items: center;
+    }
+
+    ul:first-of-type>li a {
+        display: flex;
+    }
+}
