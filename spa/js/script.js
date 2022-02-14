@@ -1,6 +1,6 @@
 
 const main = document.querySelector('main');
-let inputField = 'rembrand'
+let inputField = 'test'
 
 function setData () {
     const articleElements = document.querySelectorAll("main > article");
