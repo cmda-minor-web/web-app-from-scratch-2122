@@ -16,12 +16,31 @@ main {
     width: 100%;
     display: grid;
     grid-gap: 2em;
-    grid-template-columns: repeat(auto-fill, 200px);
-    padding-bottom: 4em;
+    grid-template-columns: repeat(1, 1fr);
+    padding-bottom: 6em;
     justify-content: center;
 }
 
+@media only screen and (min-width: 360px) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    main {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    main {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
 article {
+
 }
 
 img {
