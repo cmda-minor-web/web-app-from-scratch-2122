@@ -4,6 +4,7 @@ html, body {
     margin: 0;
     background-color: rgb(27, 27, 27);
     color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -13,6 +14,10 @@ body {
 }
 
 main {
+    padding: 1.5em;
+}
+
+section {
     width: 100%;
     display: grid;
     grid-gap: 2em;
@@ -22,21 +27,25 @@ main {
 }
 
 @media only screen and (min-width: 360px) {
-    main {
+    section {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media only screen and (min-width: 700px) {
-    main {
+    section {
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media only screen and (min-width: 1200px) {
-    main {
+    section {
         grid-template-columns: repeat(4, 1fr);
     }
+}
+
+h1 {
+    display: block;
 }
 
 article {

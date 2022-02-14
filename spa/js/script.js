@@ -1,9 +1,9 @@
 
-const main = document.querySelector('main');
-let inputField = 'test'
+const sectionData = document.querySelector('section');
+let inputField = 'bloem'
 
 function setData () {
-    const articleElements = document.querySelectorAll("main > article");
+    const articleElements = document.querySelectorAll("section > article");
     const article = Array.prototype.slice.call(articleElements);
 
     for (var i = 0, l = articleElements.length; i < l; i++) {
@@ -21,9 +21,10 @@ function setData () {
         console.log(obj);
         obj.forEach(number => {
             console.log(number.id);    
-            main.insertAdjacentHTML('afterbegin',`
+            sectionData.insertAdjacentHTML('beforeend',`
                 
                 <article>
+                    <h1>${number.title}</h1>
                     <img src="${number.webImage.url}">
                 </article
             `)
@@ -34,14 +35,16 @@ function setData () {
 setData();
 
 function getAndRenderData () {
-    const articleElements = document.querySelectorAll("main > article");
+    const articleElements = document.querySelectorAll("section > article");
     const article = Array.prototype.slice.call(articleElements);
+    const h1 = document.querySelector("h1");
 
     for (var i = 0, l = articleElements.length; i < l; i++) {
         article[i].remove();
     }
     
     let inputField = document.querySelector('input').value;
+    h1.innerHTML = "Gezocht naar: " + inputField; 
     const getURL = 'https://www.rijksmuseum.nl/api/nl/collection?key=AbH3UnTw&q=' + inputField;
     console.log(getURL)
 
@@ -53,7 +56,7 @@ function getAndRenderData () {
         console.log(obj);
         obj.forEach(number => {
             console.log(number.id);    
-            main.insertAdjacentHTML('afterbegin',`
+            sectionData.insertAdjacentHTML('beforeend',`
                 
                 <article>
                     <img src="${number.webImage.url}">
