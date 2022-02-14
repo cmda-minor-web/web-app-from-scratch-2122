@@ -25,7 +25,7 @@ Design and build a Single Page Web App based on a User Story.
 
 1. [Pick a user story and sketch the User Interface](#1-pick-a-user-story-and-sketch-the-user-interface)
 2. [Load data from the API and build the User Interface](#2-loading-data-from-the-api-and-build-the-user-interface)
-3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test)
+3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test) 
 4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github)
 
 ### Slides
@@ -97,7 +97,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ---  
 
-## 3. Add feedback to the User Interface and test
+## 3. Add feedback to the User Interface and test (Dinsdag)
 
 Requesting data from an API can take some time before the data is loaded. Also something can go wrong on the server, client or in between. 
 
@@ -151,7 +151,7 @@ A good app comes with a good README.md in which you describe the application. Ad
 
 ---  
 
-## 4. Conduct code review: add issues on GitHub
+## 4. Conduct code review: add issues on GitHub (Vrijdag)
 
 On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
 Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
