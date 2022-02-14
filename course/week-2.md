@@ -25,8 +25,8 @@ Design and build a Single Page Web App based on a User Story.
 
 1. [Pick a user story and sketch the User Interface](#1-pick-a-user-story-and-sketch-the-user-interface)
 2. [Load data from the API and build the User Interface](#2-loading-data-from-the-api-and-build-the-user-interface)
-3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test-dinsdag) 
-4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github-vrijdag)
+3. [Add feedback to the User Interface and test](#3-add-feedback-to-the-user-interface-and-test-dinsdag) (Dinsdag)
+4. [Conduct Code Review via GitHub](#4-conduct-code-review-add-issues-on-github-vrijdag) (Vrijdag)
 
 ### Slides
 
