@@ -88,7 +88,7 @@ Render the data object into structured HTML and style the interface with CSS.
 
 ### Resources
 
-- Hier staat een [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) voor het laden van JSON data en het aanmaken van HTMl elementen.
+- Try this tutorial [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) about JSON, Fetch and creating HTML
 - [How to use the Fetch API with vanilla JS](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
 - [Promises in JavaScript](https://gomakethings.com/promises-in-javascript/)
 - [Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html)
