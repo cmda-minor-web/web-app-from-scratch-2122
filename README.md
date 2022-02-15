@@ -1,1 +1,9 @@
-# Web App From Scratch @cmda-minor-web 2021 - 2022
+# De Rijksmuseum artapp
+## User story
+As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown.
+
+## Wireflow
+
+## Breakdownschets
+
+
