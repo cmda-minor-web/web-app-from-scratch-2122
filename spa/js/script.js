@@ -5,7 +5,7 @@
 // 1. variables (aka bindings), on top of global scope
 // const rijks ="https://www.rijksmuseum.nl/api/nl/collection/SK-C-5?key=8Rynz75W";
 const rijksAPI =
-  "https://www.rijksmuseum.nl/api/nl/collection?key=8Rynz75W&p=0-n&ps=100&type=schilderij&imgonly=true";
+  "https://www.rijksmuseum.nl/api/nl/collection?key=8Rynz75W&p=0-n&ps=10&imgonly=true";
 // 2. the Story
 
 getData();
@@ -24,9 +24,8 @@ function getData() {
         list.insertAdjacentHTML(
           "beforebegin",
           `<li>
+          <img class="art" src="${collection.artObjects[i].webImage.url}" alt="${collection.artObjects[i].title}"/>
           <h1>${collection.artObjects[i].title}</h1>
-          <h2>${collection.artObjects[i].principalOrFirstMaker}, ${collection.artObjects[i].dating.presentingDate}</h2>
-          <img src="${collection.artObjects[i].webImage.url}" alt="${collection.artObjects[i].title}"/>
           </li>`
         );
       }

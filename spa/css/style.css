@@ -4,12 +4,193 @@
 }
 
 body {
-  padding: 20px;
+  /* padding: 20px; */
+  background-image: url("img/background2.jpg");
+
+  /* background-color: #000; */
+}
+
+header {
+  background-color: #40474f;
+  padding: 1.1rem;
+  /* margin-bottom: 4vh; */
+}
+
+main {
+  /* background-color: #000; */
+  object-fit: cover;
+  padding-top: 3vh;
+  /* background-image: url("img/background2.jpg"); */
+}
+
+section {
+  background-color: #40474f;
+  padding: 1rem;
+  border-radius: 20px 20px 0 0;
+}
+
+h1 {
+  font-family: "poe-vetica-new-condensed", sans-serif;
+  font-size: 2.8vh;
+  color: #c6cfd0;
+  /* margin-left: 3vw; */
 }
 
 li {
   list-style: none;
+  display: flex;
+  margin: 4vh 0;
 }
+
+/* ul {
+  display: flex;
+  flex-direction: row;
+} */
+
 img {
+  width: 25vw;
+  margin: 0 2vh 2vw;
+}
+
+button {
+  position: relative;
+  border: none;
+}
+
+/* Search bar */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+#search-input {
+  color: #40474f;
+  padding: 0.45rem;
+  border-color: #40474f;
+  /* font-family: "poe-vetica-new-condensed", sans-serif; */
+  font-weight: 400;
+  font-size: 5vw;
+
+  border: none;
+  border-radius: 0.25rem;
+}
+
+.search-icon {
+  position: absolute;
+  right: 0.5rem;
+  top: -1.9rem;
+  width: 7%;
+}
+
+/* De filter buttons */
+
+.filter {
+  font-family: "poe-vetica-new-condensed", sans-serif;
+  /* font-family: "Times New Roman", Times, serif; */
+  color: #c2ccce;
+  font-size: 10vw;
+  width: 217px;
+  height: 55px;
+  background-color: #40474f;
+  box-shadow: 0 4px 8px #00000040;
+  border-radius: 4px;
+  padding: 0 18px;
+  margin-bottom: 4vh;
+}
+
+#jaar {
+  margin-left: 5%;
+  /* margin-top: 3vh; */
+}
+
+#artiest {
+  margin-left: 25%;
+  /* margin-right: 25px; */
+}
+
+#type {
+  margin-left: 5%;
+}
+
+.apply {
+  width: 33%;
+  height: 54px;
+  background-color: #d55140;
+  border-radius: 4px;
+  margin-left: 28%;
+  display: flex;
+}
+
+.arrow-down {
+  width: 8vw;
+  top: 1rem;
+  margin-left: 23%;
+  position: absolute;
+
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+/* Section of artwork */
+
+.art {
+  box-shadow: 0px 5px 5px #00000043;
+  border: 3px solid #000;
+}
+
+/* Styling empty state art */
+
+.line5 {
+  width: 15vw;
+  position: absolute;
+  height: 1vh;
+  background-color: rgb(0, 0, 0);
+  display: block;
+  border-radius: 10px;
+  left: 10rem;
+}
+
+.square {
+  width: 25vw;
+  height: 25vw;
+  background-color: #c2ccce;
+  display: inline-block;
+  margin-right: 26px;
+}
+
+.line1 {
   width: 40vw;
+  height: 1.3vh;
+  background-color: #c2ccce;
+  display: block;
+  border-radius: 10px;
+  margin: 0;
+}
+.line2 {
+  width: 30vw;
+  height: 1.3vh;
+  background-color: #c2ccce;
+  display: block;
+  border-radius: 10px;
+  margin: 2.2vh 0;
+}
+.line3 {
+  width: 50vw;
+  height: 1.3vh;
+  background-color: #c2ccce;
+  display: block;
+  border-radius: 10px;
+  margin: 2.2vh 0;
+}
+.line4 {
+  width: 50vw;
+  height: 1.3vh;
+  background-color: #c2ccce;
+  display: block;
+  border-radius: 10px;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
 }

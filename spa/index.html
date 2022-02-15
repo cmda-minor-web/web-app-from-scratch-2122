@@ -5,11 +5,102 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://www.dafontfree.net/embed/cG9lLXZldGljYS1uZXctY29uZGVuc2VkJmRhdGEvNzQwL3AvMTc5Mzk1L1BPRSBWZXRpY2EgTmV3IENvbmRlbnNlZC50dGY"
+      rel="stylesheet"
+      type="text/css"
+    />
     <title>Rijksmuseum</title>
   </head>
   <body>
-    <h1>Rijksmuseum</h1>
-    <ul></ul>
-    <script src="js/script.js"></script>
+    <header>
+      <!-- <section class="search">
+        <p class="search-input">Zoeken...</p>
+        <img src="img/search.svg" alt="search icon" class="search-icon" />
+      </section> -->
+      <form>
+        <input id="search-input" type="text" placeholder="Zoeken..." required />
+        <button>
+          <img src="img/search.svg" alt="search icon" class="search-icon" />
+        </button>
+      </form>
+    </header>
+    <main>
+      <form>
+        <input
+          class="filter"
+          id="jaar"
+          type="number"
+          placeholder="jaar"
+          required
+        />
+        <input
+          class="filter"
+          id="artiest"
+          type="text"
+          placeholder="artiest"
+          required
+        />
+        <input
+          class="filter"
+          id="type"
+          type="text"
+          placeholder="type"
+          required
+        />
+        <button class="apply filter">
+          <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
+        </button>
+
+        <!-- <article class="jaar">jaar</article>
+        <article class="artiest">artiest</article>
+        <article class="type">type</article>
+        <article class="apply">
+          <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
+        </article> -->
+      </form>
+      <section>
+        <div class="line5"></div>
+        <ul class="empty-list">
+          <li>
+            <div class="square"></div>
+            <ul class="lines">
+              <li class="line1"></li>
+              <li class="line2"></li>
+              <li class="line3"></li>
+              <li class="line4"></li>
+            </ul>
+          </li>
+          <li>
+            <div class="square"></div>
+            <ul class="lines">
+              <li class="line1"></li>
+              <li class="line2"></li>
+              <li class="line3"></li>
+              <li class="line4"></li>
+            </ul>
+          </li>
+          <li>
+            <div class="square"></div>
+            <ul class="lines">
+              <li class="line1"></li>
+              <li class="line2"></li>
+              <li class="line3"></li>
+              <li class="line4"></li>
+            </ul>
+          </li>
+          <li>
+            <div class="square"></div>
+            <ul class="lines">
+              <li class="line1"></li>
+              <li class="line2"></li>
+              <li class="line3"></li>
+              <li class="line4"></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <!-- <script src="js/script.js"></script> -->
   </body>
 </html>
