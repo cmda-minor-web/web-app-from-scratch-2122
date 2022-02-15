@@ -5,7 +5,7 @@
 
 body {
   /* padding: 20px; */
-  background-image: url("img/background2.jpg");
+  /* background-image: url("img/background2.jpg"); */
 
   /* background-color: #000; */
 }
@@ -18,9 +18,8 @@ header {
 
 main {
   /* background-color: #000; */
-  object-fit: cover;
   padding-top: 3vh;
-  /* background-image: url("img/background2.jpg"); */
+  background: url("../img/background.jpg");
 }
 
 section {
@@ -31,7 +30,9 @@ section {
 
 h1 {
   font-family: "poe-vetica-new-condensed", sans-serif;
-  font-size: 2.8vh;
+  font-size: 5vw;
+  max-width: 100%;
+  flex-wrap: wrap;
   color: #c6cfd0;
   /* margin-left: 3vw; */
 }
@@ -87,24 +88,29 @@ form {
 .filter {
   font-family: "poe-vetica-new-condensed", sans-serif;
   /* font-family: "Times New Roman", Times, serif; */
-  color: #c2ccce;
+  color: #fcfcfc;
   font-size: 10vw;
   width: 217px;
   height: 55px;
   background-color: #40474f;
   box-shadow: 0 4px 8px #00000040;
-  border-radius: 4px;
+  border-radius: 10px;
   padding: 0 18px;
   margin-bottom: 4vh;
 }
 
+input:focus {
+  /* border: 10px solid red; */
+  outline: yellow;
+}
+
 #jaar {
-  margin-left: 5%;
+  margin-left: 5vw;
   /* margin-top: 3vh; */
 }
 
 #artiest {
-  margin-left: 25%;
+  margin-left: 25vw;
   /* margin-right: 25px; */
 }
 
@@ -114,21 +120,19 @@ form {
 
 .apply {
   width: 33%;
-  height: 54px;
+  height: 9vh;
+  align-self: center;
+  /* height: 54%; */
   background-color: #d55140;
   border-radius: 4px;
-  margin-left: 28%;
   display: flex;
 }
 
 .arrow-down {
   width: 8vw;
-  top: 1rem;
-  margin-left: 23%;
-  position: absolute;
-
+  align-self: center;
   /* justify-content: center; */
-  /* align-items: center; */
+  margin-left: 30%;
 }
 
 /* Section of artwork */
@@ -151,11 +155,12 @@ form {
 }
 
 .square {
-  width: 25vw;
-  height: 25vw;
+  width: 23vw;
+  height: 23vw;
   background-color: #c2ccce;
   display: inline-block;
-  margin-right: 26px;
+  margin-right: 1.4em;
+  margin-left: 0.7em;
 }
 
 .line1 {
