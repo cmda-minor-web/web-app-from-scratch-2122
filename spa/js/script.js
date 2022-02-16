@@ -38,7 +38,7 @@ function getData() {
           })
           .then(function (detailed) {
             list.insertAdjacentHTML(
-              "afterbegin",
+              "beforebegin",
               `<li>
               <img class="art" src="${
                 detailed.artObject.webImage.url.slice(0, -3) + "=s1000"

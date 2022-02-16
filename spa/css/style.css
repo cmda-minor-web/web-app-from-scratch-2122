@@ -3,13 +3,6 @@
   padding: 0;
 }
 
-body {
-  /* padding: 20px; */
-  /* background-image: url("img/background2.jpg"); */
-
-  /* background-color: #000; */
-}
-
 header {
   background-color: #40474f;
   padding: 1.1rem;
@@ -148,7 +141,7 @@ input:focus {
   width: 15vw;
   position: absolute;
   height: 1vh;
-  background-color: rgb(0, 0, 0);
+  background-color: #c2ccce;
   display: block;
   border-radius: 10px;
   left: 10rem;
