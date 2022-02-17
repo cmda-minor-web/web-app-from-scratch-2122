@@ -1,4 +1,4 @@
-# Peer review exercise - Vertical & horizontal review
+# Peer review exercise - Vertical & horizontal
 
 ## Goal
 - Learn how to give technical feedback
