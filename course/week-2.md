@@ -159,6 +159,6 @@ Create at least 2 issues for different peer students. You can look at improvemen
 
 ### Resources
 
-- [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-1819/course/peer-review1.md)
+- [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md)
 
 
