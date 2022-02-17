@@ -8,7 +8,7 @@
 ## Preparation
 - Find your buddy
 - Push the latest changes to your readme, code, and wiki
-- [Read the rubric](https://icthva.sharepoint.com/:x:/r/sites/FDMCI_EDU__CMD20_21_Minor_Web_5i7j73jt/_layouts/15/doc2.aspx?sourcedoc=%7BE5B6692B-AEAB-4BE3-AD61-71984BDD0C5D%7D&file=WAFS%202021%20Rubric.xlsx&action=edit&mobileredirect=true&wdPreviousSession=3750dff9-2513-4430-982d-1aca764d1bd5&wdOrigin=TEAMS-ELECTRON.teams.undefined). Is everything clear?
+- [Read the rubric](https://github.com/cmda-minor-web/web-app-from-scratch-2122#rubric). Is everything clear?
 
 ## Internal Buddy Review (vertical)
 Review your buddy! If you are less experienced than your buddy, try to see if you can make sense of their work. Make notes of stuff that could be useful to you and try to learn from their work.
