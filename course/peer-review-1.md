@@ -7,25 +7,24 @@
 - Get feedback on your work
 - Help a buddy!
 
--- 
+---
+
 ## Assignment
 
 Conduct a vertical and horizontal code review
 
 ## Sub tasks
 
-1. (Internal Buddy Review (vertical))[https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#1-internal-buddy-review-vertical]
-2. (External Review (horizontal))[https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#2-external-review-horizontal]
-3. (Closure)[https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#3-closure]
+1. [Internal Buddy Review (vertical)](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#1-internal-buddy-review-vertical)
+2. [External Review (horizontal)](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#2-external-review-horizontal)
+3. [Closure](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md#3-closure)
 
 ## Preparation
 
 - Push the latest changes to your readme, code, and wiki
 - [Read the rubric](https://github.com/cmda-minor-web/web-app-from-scratch-2122#rubric). Is everything clear?
 
-
-
--- 
+--- 
 
 ## 1. Internal Buddy Review (vertical)
 
@@ -55,14 +54,14 @@ Positive feedback is also welcome and can be put into an issue
     + Does the code follow naming conventions? Do variable and function names make sense to you?
     + Feel free to give feedback on HTML and CSS aswell!
 
--- 
+--- 
 
 ## 2. External Review (horizontal)
 
 Wait until the whole class has finished the internal review.
 Find a buddy who is close to your experience level. Review the repo and code again.
 
---
+---
 
 ## 3. Closure
 
