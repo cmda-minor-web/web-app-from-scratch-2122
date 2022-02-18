@@ -13,8 +13,14 @@ body {
     align-items: center;
 }
 
+h1 {
+    display: block;
+    width: 100%;
+}
+
 main {
     padding: 1.5em;
+    width: calc(100% - 3em);
 }
 
 section {
@@ -42,14 +48,6 @@ section {
     section {
         grid-template-columns: repeat(4, 1fr);
     }
-}
-
-h1 {
-    display: block;
-}
-
-article {
-
 }
 
 img {
