@@ -1,56 +1,73 @@
-# Web App From Scratch @cmda-minor-web 2021 - 2022
+# <img src="images/banner.png" width="100%" alt="banner">
 
-In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API, manipulated and finally shown in the UI of the App. You will learn to apply interface principles when building and testing the interface. With the gained knowledge you will be able to build interactive prototypes, based on a user story and real data. Also you will gain a better understanding of how API's, frameworks and libraries work.
+## Table of contents
+  - [Table of contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Documentation](#documentation)
+  - [Installing](#installing)
+  - [Author](#author)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-## Assignment
+## About
+> **Hondenmaatje** is een app voor baasjes van een hond die nieuwe mensen willen ontmoeten. Dit door gematcht te worden aan een ander baasje van een hond, zodat ze af en toe samen met de honden een stukje kunnen gaan wandelen.
 
-- [Visitekaartje](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-1.md#1-visitekaartje): Ontwerp en maak met HTML, CSS en JS een visitekaartje.
-- [Teampagina](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-1.md#2-teampagina): Ontwerp en maak met je team een teampagina waarin je de verschillende visitekaartjes toont.
-- [Single Page App](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md): Design and build a single page web app based on a User Story.
+Al sinds jaar en dag zijn mensen dol op honden. Niets is leuker voor een baasje om erop uit te gaan met de hond.
 
----
+Maar sommige baasjes zijn soms wat eenzaam en willen wel eens nieuwe baasjes met hun hond(en) ontmoeten. Kunnen we daar niet eens iets voor regelen?
 
-## Program
+Hondenmaatje is een app voor deze baasjes met een hond die nieuwe mensen willen ontmoeten. Door gematcht te worden aan een ander baasje van een hond, kunnen ze af en toe samen met de honden een stukje gaan wandelen.
 
-| Planning | Maandag | Dinsdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1 - Hellooo 🤸](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | Teampagina | Teambespreking |
-| [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | College + Work | Feedbackgesprekken |
-| Voorjaarsvakantie |  |  |  |
-| [Week 3 - Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + work  | College + work | Feedbackgesprekken  |
-| [Week 4 - Wrapping up 🎁](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-4.md)  | College + work  | work | Beoordelingsgesprekken  |
+Zo kun je met hondenmaatje met andere baasjes chatten, opslaan als favorieten, maar ook een afspraak plannen om erop uit te gaan met de honden. Op basis van je voorkeuren, bijvoorbeeld jouw favoriete hondenras, kun je voorgesteld worden aan baasjes.
 
-## Best Practices
+Een goed profiel is van belang voor andere baasjes om te beslissen of ze met jou willen afspreken. Daarom kun je zelf je profiel instellen met foto's en informatie over jezelf. 
 
-All work during this course will be tested against our [Best Practices for JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
+## Features
+|                                                            |     |
+| ---------------------------------------------------------- | --- |
+| 🙋‍♂️⠀Maak een mooi profiel!                                  | ✔   |
+| 🐶⠀Zoek op basis van jouw favoriete honden                 | ✔   |
+| 💬⠀Chat met andere baasjes                                 | ✔   |
+| 📍⠀Kies een locatie om af te spreken                       | ✔   |
+| 🐾⠀**en nog veel meer!**                                   | ✔   |
 
-## Rubric
+## Documentation
+De documentatie van deze app is te vinden in de [wiki](https://github.com/jornveltrop/blok-tech/wiki) van deze repository.
 
-Your efforts will be graded using a single point rubric (see below). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
+## Installing
+Clone deze repository naar jouw lokale folder
+```
+git clone https://github.com/jornveltrop/blok-tech.git
+```
+<br>
 
-| Deficiency | Criterion | Improvement |
-|:--|:--|:--|
-|  | *User Interface* - you design, build and test the user interface by applying interface design principles |  |
-|  | *Code structure* - you write modular, consistent and efficient HTML, CSS and JavaScript code by applying structure and best practices. You manage state for the application and the UI |  |
-|  | *Data management* - you understand how you can work with an external API using asynchronous code. You can retrieve data, manipulate and dynamically convert it to structured html |  |
-|  | *Project* - your app is working and published on GitHub Pages. Your project is thoroughly documented in the `README.md` file in your repository.  |  |
+Installeer de bijbehorende packages
+```
+npm install
+```
+<br>
 
-<!-- Add a link to your live demo in Github Pages 🌐-->
+Stel jouw database gegevens in de _.env_
+```
+    DBNAME=insertDatabaseName
+    URI=insertUriDatabase
+```
 
-<!-- ☝️ replace this description with a description of your own work -->
+[Meer over het instellen van de database weten?](https://github.com/jornveltrop/blok-tech/wiki/Database_structure)
 
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
+<br>
 
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
+Als je de database hebt ingesteld, start je de server:
+```
+npm start
+```
 
-<!-- Maybe a table of contents here? 📚 -->
+## Author
+De maker van deze app is: [*Jorn Veltrop*](https://github.com/jornveltrop)
 
-<!-- How about a section that describes how to install this project? 🤓 -->
+## Contributing
+Als je wilt bijdragen aan deze app kun je dat doen door middel van een [Issue](https://github.com/jornveltrop/blok-tech/issues).
 
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- What external data source is featured in your project and what are its properties 🌠 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+## License
+Dit project valt onder de MIT [license](https://github.com/jornveltrop/blok-tech/blob/main/LICENSE).
