@@ -1,1 +1,22 @@
+# macOS Files
+.DS_Store
+
+# Node Modules
+node_modules/
+
+# Database gegevens
+*.env
+
+# Log files
+logs/
+
+# Uitzonderingen
+!logs/example.log
+
+# config files
+.eslintrc
+Procfile
+.vscode
+.prettierrc
+
 notes.md
