@@ -40,6 +40,7 @@ Positive feedback is also welcome and can be put into an issue
 
 - Scan your buddy's repository
     + Is there a repo description at the top?
+    + Is there a link to the live web app provided with GitHub Pages?
     + Is the repo open to issues?
     + Does it include a gitignore
     + Is the concept described well in the readme?
