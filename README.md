@@ -8,6 +8,3 @@ As an art lover, I want to be able to search and view art from the Rijksmuseum a
 ![iPhone 13, 12 Pro Max – 2](https://user-images.githubusercontent.com/74137185/154031661-c639ff1a-7fbd-4612-8583-9fb5378e9d09.png)
 ![iPhone 13, 12 Pro Max – 3](https://user-images.githubusercontent.com/74137185/154031652-9e402d62-c849-4b2a-adc3-ccc9c01ef568.png)
 
-## Breakdownschets
-
-
