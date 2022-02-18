@@ -1,6 +1,6 @@
 const sectionData = document.querySelector("section");
 const aantalResults = 100;
-const imgSize = 700;
+const imgSize = 600;
 
 function getAndRenderData () {
     
@@ -32,11 +32,12 @@ function getAndRenderData () {
         const objects = data.artObjects;
         console.log(objects);
 
+        //Check of er 0 resultaten zijn
         if (objects.length == 0) {
-
+            h1.innerHTML = "'" + inputField + "'" + " gaf helaas geen resultaten."; 
         } 
         else {
-            //Genereer HTML blokken voor elk object
+            //Genereer HTML blokken voor elk resultaat
             objects.forEach(number => {
                 let scaledImg = number.webImage.url + imgSize;
                 sectionData.insertAdjacentHTML("beforeend",`
