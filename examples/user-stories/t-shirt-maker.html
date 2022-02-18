@@ -39,42 +39,56 @@
   </head>
 
   <body>
-    <h1>T- Shirt maker</h1>
+    <h1>T-Shirt Maker</h1>
 
     <section>
     </section>
 
     <script>
-        // Printify API
-        // API key 
+        // T-Shirt maker
+        
 
         const display = document.querySelector('section');
         //console.dir(display)
-        let apikey = "LUxV6ObR";
-        let q = "&involvedMaker=Rembrandt+van+Rijn";
-        let url = "https://www.rijksmuseum.nl/api/nl/collection?key="+apikey+q;
+        const printify_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzN2Q0YmQzMDM1ZmUxMWU5YTgwM2FiN2VlYjNjY2M5NyIsImp0aSI6ImM3M2Y3Yjk0M2JjYzkzMTE0NTcxZGZmZWJjMTY5YWRiMzk4Njc2ZDE3YTY0M2IzNmM2ZTk5MTA2ZGI1NmQ3NTY3NDAxZjY3MmIwM2NhZmIxIiwiaWF0IjoxNjQ0NjgxNjc0LCJuYmYiOjE2NDQ2ODE2NzQsImV4cCI6MTY3NjIxNzY3NCwic3ViIjoiOTM0NTE2MyIsInNjb3BlcyI6WyJzaG9wcy5tYW5hZ2UiLCJzaG9wcy5yZWFkIiwiY2F0YWxvZy5yZWFkIiwib3JkZXJzLnJlYWQiLCJvcmRlcnMud3JpdGUiLCJwcm9kdWN0cy5yZWFkIiwicHJvZHVjdHMud3JpdGUiLCJ3ZWJob29rcy5yZWFkIiwid2ViaG9va3Mud3JpdGUiLCJ1cGxvYWRzLnJlYWQiLCJ1cGxvYWRzLndyaXRlIiwicHJpbnRfcHJvdmlkZXJzLnJlYWQiXX0.AV6vzZdPLN0V5P8e0wJdDdwNKBGAxBnr2OQz0a3D2wPl4ea7OxFbeMlfQD_6ajADu37iwNs0UY26C-6kEDs"
+        let base_url = 'https://api.printify.com/v1/';
 
-        fetch(url).then(function(response) { 
+        /*
+          https://api.printify.com/v1/shops.json 
+          --header "Authorization: Bearer $PRINTIFY_API_TOKEN"
+        */
+
+        const myHeaders = new Headers({
+            'Content-Type': 'application/json',
+            'Authorization': printify_token
+        });
+
+
+        fetch(base_url, {
+          method: 'GET',
+          headers: myHeaders,
+        })
+        .then(function(response) { 
           return response.json()
         }).then(function(json) { 
-          let data = json.artObjects[0];
+          let data = json;
           console.log(data)
 
-          //title
-          const title = document.createElement("h2");
-          title.textContent = data.title;
-          display.appendChild(title);
+          // //title
+          // const title = document.createElement("h2");
+          // title.textContent = data.title;
+          // display.appendChild(title);
 
-          //schilder
-          const naam = document.createElement("h3");
-          naam.textContent = data.principalOrFirstMaker;
-          display.appendChild(naam);
+          // //schilder
+          // const naam = document.createElement("h3");
+          // naam.textContent = data.principalOrFirstMaker;
+          // display.appendChild(naam);
 
-          //img
-          // display.textContent += "\n"+data.webImage.url;
-          const plaat = document.createElement("img");
-          plaat.src = data.webImage.url;
-          display.appendChild(plaat);
+          // //img
+          // // display.textContent += "\n"+data.webImage.url;
+          // const plaat = document.createElement("img");
+          // plaat.src = data.webImage.url;
+          // display.appendChild(plaat);
         });
         
     </script>

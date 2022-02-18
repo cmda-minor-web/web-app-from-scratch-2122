@@ -1,10 +1,10 @@
-#Frisbee Tournament
+# Frisbee Tournament
 
 ## User story
 
-Als frisbee speler, 
-wil ik na een wedstrijd de scores kunnen opslaan en doorgeven, 
-zodat ik weet waar en wanneer we de volgende wedstrijd moeten spelen.
+**Als frisbee speler, 
+wil ik van een wedstrijd de scores kunnen opslaan en doorgeven, 
+zodat ik weet waar en wanneer we de volgende wedstrijd moeten spelen.**
 
 
 

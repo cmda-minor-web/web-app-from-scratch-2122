@@ -35,35 +35,95 @@
 
   <body>
     <h1>Als student digital design, wil ik inspirerende web design quotes kunnen bekijken, zodat ik weer een beetje energie krijg wanneer ik het even niet meer zie zitten met al die hard-core deadlines die op me afkomen.</h1>
-
+    
     <section>
+      <p>Er is nog niets geladen ...</p> <!-- empty state -->
     </section>
 
     <script>
         // FDND API
-
         const display = document.querySelector('section');
-        //console.dir(display)
-        let url = "https://quote.api.fdnd.nl/v1/quote";
+        display.textContent = "Loading quotes, even geduld a.u.b"; 
 
-        fetch(url).then(function(response) { 
-          return response.json()
-        }).then(function(json) { 
-          let data = json.data[5];
-          console.log(data)
+        fetch("https://quote.api.fdnd.nl/v1/quote")
+          .then(response => { 
+            return response.json();
+          })
+          .then(json => { 
+            display.textContent=""; 
 
-          //title
-          const title = document.createElement("h2");
-          title.textContent = data.text;
-          display.appendChild(title);
+            //data
+            let data = json.data[5];
+            //title
+            const title = document.createElement("h2");
+            title.textContent = data.text;
+            display.appendChild(title);
+            //auteur
+            const naam = document.createElement("h3");
+            naam.textContent = data.name;
+            display.appendChild(naam);
+          });
 
-          //schilder
-          const naam = document.createElement("h3");
-          naam.textContent = data.name;
-          display.appendChild(naam);
+        //POST
+        const post_but = document.querySelector("button")
+        console.log(post_but)
 
-        });
-        
+        post_but.addEventListener("click",function(){
+          console.log(this)
+            // https://quote.api.fdnd.nl/v1/author
+            const posturl = "https://quote.api.fdnd.nl/v1/author";
+            // hier kan je een post op doen met dezelfde velden als in de get. authorId hoeft niet
+            // als je een author hebt kan je een post doen op https://quote.api.fdnd.nl/v1/quote
+            // name bio en avatar van de author hoeven daar niet, alleen het authorId
+            
+            //const formData = new FormData();
+            //formData.append('quoteId', '');
+            //formData.append('tags', 'sprint 2, Debriefing, project management');
+            //formData.append('text', 'By failing to prepare, you are preparing to fail.');
+            //formData.append('authorId', '');
+            //formData.append('name', 'Benjamin Franklin');
+            //formData.append('bio', '');
+            //formData.append('avatar', '');
+
+            const quote = {
+              tags: 'sprint 2, Debriefing, project management',
+              text: 'By failing to prepare, you are preparing to fail.',
+              name: 'Benjamin Franklin',
+            };
+
+            // create request object
+            const request = new Request(posturl, {
+                method: 'POST',
+                body: JSON.stringify(quote),
+                headers: new Headers({
+                    'Content-Type': 'application/json'
+                })
+            });
+
+            // fetch(posturl, {
+            //   method: 'POST',
+            //   body: formData,
+            // })
+            // .then(response => response.json())
+            // .then(result => {
+            //   console.log('Success:', result);
+            // })
+            // .catch(error => {
+            //   console.error('Error:', error);
+            // });
+            // pass request object to `fetch()`
+
+            fetch(request)
+              .then(res => res.json())
+              .then(res => console.log(res));
+
+
+        })
+         
+
+
     </script>
+
+
   </body>
 </html>
