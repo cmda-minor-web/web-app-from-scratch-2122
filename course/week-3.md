@@ -56,8 +56,6 @@ Perform the step-by-step of the documentation below.
 
 - [Documentation Actor and Interaction diagram](https://docs.google.com/document/d/1445IOuXNTlCki89WkGSZxwJoxbHkdzuFgp53KCC9WOc/edit?usp=sharing)  
 - [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
-- [Documentation Actor and Interaction diagram](https://docs.google.com/document/d/1445IOuXNTlCki89WkGSZxwJoxbHkdzuFgp53KCC9WOc/edit?usp=sharing)  
-- [Overview of the symbols you can use and their meaning](https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3)
 
 ---
 
