@@ -35,7 +35,7 @@ Refactor your Single Page Web App.
 On a single page web app you will have to create the URLs (or routes) to the different "pages" in JavaScript. For example if you want to be able to navigate to a detail page. You can do this by using the hash (#) in the url, in combination with the hashchange event. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
 ### Resources
-- [A Router Without a Web Server in Vanilla JavaScript](https://dev.to/aminnairi/a-router-without-a-web-server-in-vanilla-javascript-3bmg)  
+- [Vanilla JavaScript Hash Router](https://dev.to/aminnairi/a-router-without-a-web-server-in-vanilla-javascript-3bmg)  
 - [Router Microjs libs](http://microjs.com/#router)
 - [Routie - hash router](http://projects.jga.me/routie/)  
 
