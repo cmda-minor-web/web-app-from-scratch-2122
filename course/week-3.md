@@ -43,7 +43,7 @@ On a single page web app you will have to create the URLs (or routes) to the dif
 
 ## 2. Refactor code into modules 
 
-Now that you have gained a better understanding, using the diagrams, it may be time to refactor the structure of your app. In other words, how are you going to code or refactor the various actors and the dependencies between them in your app? Split up your code into modules.
+Up until now, in your JavaScript code, you are fetching data from an api, render the data into the HTML page and you added a router to be able to switch the different states of your application. Your code can become harder and harder to read and maintain. This is a good time to refactor the structure of your app by splitting up your code in different ES modules. 
 
 #### Resources
 
