@@ -1,6 +1,13 @@
 # Art @ Home
 Welcome to my repository. Here you can find my art app called **Art @ Home**. The concept is that the user can view art from the Rijksmuseum on their preferred device.
 
+## Table of Contents
+
+-   [User story](#user-story)
+-   [API](#api)
+-   [Any issues?](#any-issues)
+-   [License](#license)
+
 ## User story
 As an art lover, I want to be able to search and view art from the Rijksmuseum at home, so that I can still enjoy art during a lockdown.
 
