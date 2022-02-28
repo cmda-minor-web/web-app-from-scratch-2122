@@ -23,8 +23,8 @@
       </form>
     </header>
     <form>
-      <button class="jaar-button hidden">jaar</button>
-      <div class="jaar-open">
+      <button class="jaar-button">jaar</button>
+      <div class="jaar-open hidden">
         <input
           class="jaar-open-style"
           id="jaar"
@@ -54,14 +54,8 @@
         placeholder="jaar"
         required
       /> -->
-      <input
-        class="filter"
-        id="artiest"
-        type="text"
-        placeholder="artiest"
-        required
-      />
-      <input class="filter" id="type" type="text" placeholder="type" required />
+      <input class="filter" id="artiest" type="text" placeholder="artiest" />
+      <input class="filter" id="type" type="text" placeholder="type" />
       <button class="apply filter">
         <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
       </button>
@@ -69,7 +63,7 @@
     <main>
       <section id="art-list">
         <!-- Empty state / Skeleton State -->
-        <div class="line5"></div>
+        <!-- <div class="line5"></div> -->
         <ul class="empty-list">
           <p></p>
           <li>

@@ -15,7 +15,12 @@ main {
 }
 
 body {
-  background: url("../img/background.jpg");
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgb(90, 55, 18) 10%,
+    rgb(223, 126, 88) 30%
+  );
 }
 
 section {
@@ -131,13 +136,12 @@ input:focus {
 }
 .jaar-open {
   background-color: #c2ccce;
-
+  position: relative;
   box-shadow: 0 4px 8px #00000040;
   font-size: calc(2.7vw + 2.7vh + 2.7vmin);
   margin-left: 5vw;
   border-radius: 10px;
   margin-bottom: 4vh;
-
   width: calc(18vw + 18vh + 18vmin);
   height: calc(10vw + 10vh + 10vmin);
   display: inline-flex;
@@ -145,7 +149,6 @@ input:focus {
 .jaar-open-style {
   color: #f9f9f9;
   font-family: "poe-vetica-new-condensed", sans-serif;
-
   background-color: #c2ccce;
   width: calc(6.5vw + 6.5vh + 6.5vmin);
   font-size: calc(2.7vw + 2.7vh + 2.7vmin);
@@ -265,4 +268,8 @@ a {
 
 .hidden {
   display: none;
+}
+
+.dissapear {
+  opacity: 0;
 }
