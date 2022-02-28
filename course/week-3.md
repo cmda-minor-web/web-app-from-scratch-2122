@@ -21,7 +21,7 @@ Refactor your Single Page Web App.
 ### Sub tasks
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
-2. [Refactor code into modules](#3-refactor-code-into-modules)
+2. [Refactor code into modules](#2-refactor-code-into-modules)
 
 ### Slides
 
