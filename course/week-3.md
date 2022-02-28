@@ -22,6 +22,7 @@ Refactor your Single Page Web App.
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
 2. [Refactor code into modules](#2-refactor-code-into-modules)
+3. [Design code logics](#3-design-code-logics) Dinsdag
 
 ### Slides
 
@@ -74,5 +75,28 @@ And check the [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-
 
 - [JavaScript modules, background and example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [Introduction to ES Modules](https://flaviocopes.com/es-modules/)    
+
+
+## 3. Design code logics 
+
+Design the code logics of your SPA in an Activity Diagram.
+
+<!-- Activity Diagram - Wireflow - Control flow - Swimlanes -->
+
+
+1. Sketch all states of your SPA and create a Wireflow
+2. Add a swimlane with url/hash for the different states
+3. Add a swimlane for the Programm Flowchart, use pseudo code for all modules and methods 
+
+
+#### Resources
+
+- [Activity diagram](http://agilemodeling.com/style/activityDiagram.htm)
+- [Wireflow]()
+- [Swimlanes](https://circle.visual-paradigm.com/activity-diagram-example-swimlane/)
+- [Programm Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
+
+
+## 4. Code review
 
 
