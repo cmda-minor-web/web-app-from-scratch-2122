@@ -64,6 +64,7 @@ And check the [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-
 
 #### Resources
 
+- [JavaScript modules, background and example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [Introduction to ES Modules](https://flaviocopes.com/es-modules/)    
 
 
