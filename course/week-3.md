@@ -59,6 +59,8 @@ If you use the hash-part of the url to navigate different "pages" of the SPA, th
 
 Up until now, in your JavaScript code, you are fetching data from an api, render the data into the HTML page and you added a router to be able to switch the different states of your application. Your code can become harder and harder to read and maintain. This is a good time to refactor the structure of your app by splitting up your code in different ES modules. 
 
+<img width="738" alt="image" src="https://user-images.githubusercontent.com/1391509/155955513-c87f78a1-3c59-4ddf-bf8b-539fdc4cf2a1.png">
+
 Make sure to check the issues you received from the peer review and fix code issues after you refactored your code.    
 And check the [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md) for clean coding tips and tricks.
 
