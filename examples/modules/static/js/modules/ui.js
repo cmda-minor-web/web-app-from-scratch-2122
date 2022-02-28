@@ -1,18 +1,18 @@
 export function updateUI(route) {
-    const sections = document.querySelectorAll('section');
-    const activeSection = document.querySelector(`[data-route=${route}]`);
+    const sections = $$('section');
+    const activeSection = $(`[data-route=${route}]`);
 
     sections.forEach(section => {
-        section.classList.remove('active');
+        section.classList.remove('active')
     });
 
-    activeSection.classList.add('active');
+    activeSection.classList.add('active')
 }
 
 export function $(element){
-    return document.querySelector(element);
+    return document.querySelector(element)
 }
 
 export function $$(elements){
-    return document.querySelectorAll(elements);
+    return document.querySelectorAll(elements)
 }

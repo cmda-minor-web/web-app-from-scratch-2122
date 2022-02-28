@@ -1,17 +1,15 @@
-import { loader } from './loader.js';
-import {$, $$} from './ui.js'
+import { $ } from './ui.js'
 
 export function render(data, id) {
   if (!id) {
-    collection(data);
+    collection(data)
   } else {
-    item(data);
+    item(data)
   }
 }
 
 function collection(data) {
-  const section = $('section[data-route=gifs]');
-  loader('in-active');
+  const section = $('section[data-route=gifs]')
 
   data.forEach((item, i) => {
     const html = `
@@ -22,14 +20,12 @@ function collection(data) {
       </article>
     `;
 
-    section.insertAdjacentHTML('beforeend', html);
-  });
+    section.insertAdjacentHTML('beforeend', html)
+  })
 }
 
 function item(data) {
-  const section = $('section[data-route=giphy]');
-
-  loader('in-active');
+  const section = $('section[data-route=giphy]')
 
   const html = `
     <article>
@@ -38,12 +34,12 @@ function item(data) {
     </article>
   `;
 
-  clearElement(section);
-  section.insertAdjacentHTML('beforeend', html);
+  clearElement(section)
+  section.insertAdjacentHTML('beforeend', html)
 }
 
 function clearElement(node) {
   while (node.firstChild) {
-    node.removeChild(node.lastChild);
+    node.removeChild(node.lastChild)
   }
 }

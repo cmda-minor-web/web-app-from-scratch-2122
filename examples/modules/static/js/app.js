@@ -1,5 +1,6 @@
-import { handleRoutes } from './modules/router.js';
-handleRoutes();
+import { handleRoutes } from './modules/router.js'
+
+handleRoutes()
 
 /*** good to know ***/
 
