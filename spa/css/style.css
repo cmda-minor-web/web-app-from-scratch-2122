@@ -12,6 +12,9 @@ header {
 main {
   /* background-color: #000; */
   padding-top: 3vh;
+}
+
+body {
   background: url("../img/background.jpg");
 }
 
@@ -49,12 +52,16 @@ img {
 button {
   position: relative;
   border: none;
+  background-color: #40474f;
 }
 
 /* Search bar */
 form {
   display: flex;
   flex-direction: column;
+  /* position: fixed; */
+  /* overflow-y: hidden;
+  overflow-x: hidden; */
 }
 
 #search-input {
@@ -135,6 +142,14 @@ input:focus {
   border: 3px solid #000;
 }
 
+.art-list {
+  padding-top: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
 /* Styling empty state art */
 
 .line5 {
@@ -145,6 +160,7 @@ input:focus {
   display: block;
   border-radius: 10px;
   left: 10rem;
+  top: 27.8rem;
 }
 
 .square {

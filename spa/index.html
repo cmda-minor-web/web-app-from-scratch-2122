@@ -10,6 +10,7 @@
       rel="stylesheet"
       type="text/css"
     />
+    <script type="module" src="js/main.js"></script>
     <title>Rijksmuseum</title>
   </head>
   <body>
@@ -21,34 +22,28 @@
         </button>
       </form>
     </header>
+    <form>
+      <input
+        class="filter"
+        id="jaar"
+        type="number"
+        placeholder="jaar"
+        required
+      />
+      <input
+        class="filter"
+        id="artiest"
+        type="text"
+        placeholder="artiest"
+        required
+      />
+      <input class="filter" id="type" type="text" placeholder="type" required />
+      <button class="apply filter">
+        <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
+      </button>
+    </form>
     <main>
-      <form>
-        <input
-          class="filter"
-          id="jaar"
-          type="number"
-          placeholder="jaar"
-          required
-        />
-        <input
-          class="filter"
-          id="artiest"
-          type="text"
-          placeholder="artiest"
-          required
-        />
-        <input
-          class="filter"
-          id="type"
-          type="text"
-          placeholder="type"
-          required
-        />
-        <button class="apply filter">
-          <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
-        </button>
-      </form>
-      <section>
+      <section id="art-list">
         <!-- Empty state / Skeleton State -->
         <div class="line5"></div>
         <ul class="empty-list">
@@ -91,7 +86,9 @@
           </li>
         </ul>
       </section>
+      <section id="information">
+        <h1>more indepth info</h1>
+      </section>
     </main>
-    <script src="js/script.js"></script>
   </body>
 </html>
