@@ -1,4 +1,4 @@
-const url = 'https://www.rijksmuseum.nl/api/nl/collection?key=S0VK6DCj&involvedMaker=Rembrandt+van+Rijn'
+const url = 'https://www.rijksmuseum.nl/api/nl/collection?key=S0VK6DCj&q='
 
 getPaintings()
 
@@ -21,3 +21,4 @@ function getPaintings() {
 function bodyE(element) {
     return document.querySelector(element)
 }
+ 
