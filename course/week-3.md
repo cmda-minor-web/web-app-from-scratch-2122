@@ -25,7 +25,7 @@ Refactor your Single Page Web App.
 
 ### Slides
 
-1. Routes en Modules - Week 3 Maandag 28 feb
+1. [Routes en Modules - Week 3 Maandag 28 feb](WAFS-W3-01-Refactor.pdf)
 2. UI Principles - Week 3 Dinsdag 1 mrt
 
 --- 
