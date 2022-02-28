@@ -45,6 +45,9 @@ On a single page web app you will have to create the URLs (or routes) to the dif
 
 Up until now, in your JavaScript code, you are fetching data from an api, render the data into the HTML page and you added a router to be able to switch the different states of your application. Your code can become harder and harder to read and maintain. This is a good time to refactor the structure of your app by splitting up your code in different ES modules. 
 
+Make sure to check the issues you received from the peer review and fix code issues after you refactored your code.    
+And check our [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md) for clean coding tips and tricks.
+
 #### Resources
 
 - [Introduction to ES Modules](https://flaviocopes.com/es-modules/)    
