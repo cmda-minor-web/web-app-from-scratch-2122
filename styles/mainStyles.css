@@ -24,7 +24,7 @@ header {
 ul {
     list-style-type: none;
     display: grid;
-    padding-top: 5rem;
+    padding: 5rem 0;
     grid-template-columns: 1fr;
     justify-items: center;
     align-items: center;
