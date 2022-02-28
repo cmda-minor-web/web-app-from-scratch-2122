@@ -88,7 +88,7 @@ Design the code logics of your SPA in an Activity Diagram.
 
 1. Sketch all states of your SPA and create a Wireflow
 2. Add a swimlane with url/hash for the different states
-3. Add a swimlane for the Programm Flowchart, use pseudo code for all modules and methods 
+3. Add a swimlane for the Program Flowchart, use pseudo code for all modules and methods 
 
 
 #### Resources
@@ -96,7 +96,7 @@ Design the code logics of your SPA in an Activity Diagram.
 - [Activity diagram](http://agilemodeling.com/style/activityDiagram.htm)
 - [Wireflow]()
 - [Swimlanes](https://circle.visual-paradigm.com/activity-diagram-example-swimlane/)
-- [Programm Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
+- [Program Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
 
 ## 4. Conduct code review (Vrijdag)
