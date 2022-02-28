@@ -32,9 +32,25 @@ Refactor your Single Page Web App.
 
 ## 1. Handle routes to manage state 
 
-On a single page web app you will have to create the URLs (or routes) to the different "pages" in JavaScript. For example if you want to be able to navigate to a detail page. You can do this by using the hash (#) in the url, in combination with the hashchange event. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
+On a single page web app (SPA) you will have to create the URLs (or routes) to the different "pages" in JavaScript. 
+
+### Hash router
+
+The hash-part of an url points to a specific resource in the web page. An element with a corresponding value for the id attribute.
+
+The hash-part of an url isn’t send to the server. It is interpreted by the browser and accessible through JavaScript... If you want to be able to navigate to a detail page in an SPA, you can do this by using the hash (#) in the url, in combination with the _hashchange event_.
+
+If you use the hash-part of the url to navigate different "pages" of the SPA, the History API exposes useful methods and properties that let you navigate back and forth through the user's history.
+
+Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
+
+1. Define the pages/states of your SPA you want to navigate to.  
+2. Implement the hashchange event in your code to navigate to the different pages/states.
 
 ### Resources
+
+- [Window: hashchange event](https://developer.mozilla.org/en-US/docs/Web/API/Window/hashchange_event)
+- [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 - [Vanilla JavaScript Hash Router](https://dev.to/aminnairi/a-router-without-a-web-server-in-vanilla-javascript-3bmg)  
 - [Router Microjs libs](http://microjs.com/#router)
 - [Routie - hash router](http://projects.jga.me/routie/)  
