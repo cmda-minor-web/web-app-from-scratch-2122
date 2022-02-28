@@ -1,4 +1,7 @@
 # Art @ Home
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+
 Welcome to my repository. Here you can find my art app called **Art @ Home**. The concept is that the user can view art from the Rijksmuseum on their preferred device.
 
 ## Table of Contents
