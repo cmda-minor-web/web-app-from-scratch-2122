@@ -22,7 +22,9 @@ Refactor your Single Page Web App.
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
 2. [Refactor code into modules](#2-refactor-code-into-modules)
-3. [Design code logics](#3-design-code-logics) Dinsdag
+3. [Design code logics](#3-design-code-logics-dinsdag) Dinsdag
+4. [Conduct code review](#4-conduct-code-review-vrijdag) Vrijdag
+
 
 ### Slides
 
@@ -77,7 +79,7 @@ And check the [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-
 - [Introduction to ES Modules](https://flaviocopes.com/es-modules/)    
 
 
-## 3. Design code logics 
+## 3. Design code logics (Dinsdag)
 
 Design the code logics of your SPA in an Activity Diagram.
 
@@ -97,6 +99,14 @@ Design the code logics of your SPA in an Activity Diagram.
 - [Programm Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
 
-## 4. Code review
+## 4. Conduct code review (Vrijdag)
+
+On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
+Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
+
+### Resources
+
+- [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md)
+- [Best practices WAFS](https://github.com/cmda-minor-web/best-practices/blob/master/web-app-from-scratch.md)
 
 
