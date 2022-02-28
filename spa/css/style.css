@@ -6,7 +6,7 @@
 header {
   background-color: #40474f;
   padding: 1.1rem;
-  /* margin-bottom: 4vh; */
+  margin-bottom: 1rem;
 }
 
 main {
@@ -26,7 +26,7 @@ section {
 
 h1 {
   font-family: "poe-vetica-new-condensed", sans-serif;
-  font-size: 5vw;
+  font-size: calc(1.3vw + 1.3vh + 1.3vmin);
   max-width: 100%;
   flex-wrap: wrap;
   color: #c6cfd0;
@@ -59,9 +59,6 @@ button {
 form {
   display: flex;
   flex-direction: column;
-  /* position: fixed; */
-  /* overflow-y: hidden;
-  overflow-x: hidden; */
 }
 
 #search-input {
@@ -70,28 +67,31 @@ form {
   border-color: #40474f;
   /* font-family: "poe-vetica-new-condensed", sans-serif; */
   font-weight: 400;
-  font-size: 5vw;
-
+  font-size: calc(1.3vw + 1.3vh + 1.3vmin);
   border: none;
   border-radius: 0.25rem;
+}
+
+#search-input::placeholder {
+  color: #c6cfd0;
 }
 
 .search-icon {
   position: absolute;
   right: 0.5rem;
   top: -1.9rem;
-  width: 7%;
+  width: calc(1.3vw + 2vh + 1.3vmin);
 }
 
 /* De filter buttons */
 
 .filter {
   font-family: "poe-vetica-new-condensed", sans-serif;
-  /* font-family: "Times New Roman", Times, serif; */
   color: #fcfcfc;
-  font-size: 10vw;
-  width: 217px;
-  height: 55px;
+  font-size: calc(2.7vw + 2.7vh + 2.7vmin);
+  width: calc(15vw + 15vh + 15vmin);
+  height: calc(5vw + 5vh + 5vmin);
+
   background-color: #40474f;
   box-shadow: 0 4px 8px #00000040;
   border-radius: 10px;
@@ -99,11 +99,68 @@ form {
   margin-bottom: 4vh;
 }
 
+.filter::placeholder {
+  color: #fcfcfc;
+  font-style: italic;
+}
+
+input {
+  border: none;
+}
+
 input:focus {
   /* border: 10px solid red; */
   outline: yellow;
+  border: none;
 }
 
+.jaar-button {
+  font-family: "poe-vetica-new-condensed", sans-serif;
+  color: #fcfcfc;
+  font-size: calc(2.7vw + 2.7vh + 2.7vmin);
+  width: calc(15vw + 15vh + 15vmin);
+  height: calc(5vw + 5vh + 5vmin);
+  text-align: left;
+  background-color: #40474f;
+  box-shadow: 0 4px 8px #00000040;
+  border-radius: 10px;
+  padding: 0 18px;
+  margin-bottom: 4vh;
+  margin-left: 5vw;
+  font-style: italic;
+}
+.jaar-open {
+  background-color: #c2ccce;
+
+  box-shadow: 0 4px 8px #00000040;
+  font-size: calc(2.7vw + 2.7vh + 2.7vmin);
+  margin-left: 5vw;
+  border-radius: 10px;
+  margin-bottom: 4vh;
+
+  width: calc(18vw + 18vh + 18vmin);
+  height: calc(10vw + 10vh + 10vmin);
+  display: inline-flex;
+}
+.jaar-open-style {
+  color: #f9f9f9;
+  font-family: "poe-vetica-new-condensed", sans-serif;
+
+  background-color: #c2ccce;
+  width: calc(6.5vw + 6.5vh + 6.5vmin);
+  font-size: calc(2.7vw + 2.7vh + 2.7vmin);
+}
+.jaar-open-style::placeholder {
+  color: #f9f9f9;
+  font-family: "poe-vetica-new-condensed", sans-serif;
+}
+.dash {
+  color: #f9f9f9;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  font-size: calc(2.7vw + 2.7vh + 2.7vmin);
+}
 #jaar {
   margin-left: 5vw;
   /* margin-top: 3vh; */
@@ -119,7 +176,7 @@ input:focus {
 }
 
 .apply {
-  width: 33%;
+  width: calc(5vw + 5vh + 5vmin);
   height: 9vh;
   align-self: center;
   /* height: 54%; */
@@ -129,7 +186,8 @@ input:focus {
 }
 
 .arrow-down {
-  width: 8vw;
+  width: calc(1.3vw + 3vh + 1.3vmin);
+
   align-self: center;
   /* justify-content: center; */
   margin-left: 30%;
@@ -174,7 +232,7 @@ a {
 
 .line1 {
   width: 40vw;
-  height: 1.3vh;
+  height: calc(0.8vw + 0.8vh + 0.8vmin);
   background-color: #c2ccce;
   display: block;
   border-radius: 10px;
@@ -182,7 +240,7 @@ a {
 }
 .line2 {
   width: 30vw;
-  height: 1.3vh;
+  height: calc(0.8vw + 0.8vh + 0.8vmin);
   background-color: #c2ccce;
   display: block;
   border-radius: 10px;
@@ -190,7 +248,7 @@ a {
 }
 .line3 {
   width: 50vw;
-  height: 1.3vh;
+  height: calc(0.8vw + 0.8vh + 0.8vmin);
   background-color: #c2ccce;
   display: block;
   border-radius: 10px;
@@ -198,7 +256,7 @@ a {
 }
 .line4 {
   width: 50vw;
-  height: 1.3vh;
+  height: calc(0.8vw + 0.8vh + 0.8vmin);
   background-color: #c2ccce;
   display: block;
   border-radius: 10px;

@@ -23,13 +23,37 @@
       </form>
     </header>
     <form>
-      <input
+      <button class="jaar-button hidden">jaar</button>
+      <div class="jaar-open">
+        <input
+          class="jaar-open-style"
+          id="jaar"
+          type="number"
+          name="jaarmin"
+          min="1000"
+          max="2021"
+          step="20"
+          placeholder="1000"
+        />
+        <h1 class="dash">-</h1>
+        <input
+          class="jaar-open-style"
+          id="jaar"
+          type="number"
+          name="jaarmax"
+          min="1000"
+          max="2021"
+          step="20"
+          placeholder="2021"
+        />
+      </div>
+      <!-- <input
         class="filter"
         id="jaar"
         type="number"
         placeholder="jaar"
         required
-      />
+      /> -->
       <input
         class="filter"
         id="artiest"
