@@ -41,7 +41,7 @@ The hash-part of an url points to a specific resource in the web page. An elemen
 If you use the hash-part of the url to navigate different "pages" of the SPA, the History API exposes useful methods and properties that let you navigate back and forth through the user's history.
 
 1. Define the pages/states of your SPA you want to navigate to.  
-2. Implement the hashchange event in your code to navigate to the different pages/states.
+2. Implement the hash-change event in your code to navigate to the different pages/states.
 3. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
 ### Resources
