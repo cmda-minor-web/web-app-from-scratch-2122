@@ -30,8 +30,8 @@ Design and build a Single Page Web App based on a User Story.
 
 ### Slides
 
-1. [Opdracht - Week 2 Maandag 14 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W2-01-Hello-API.pdf)
-2. [UI-Stack - Week 2 Dinsdag 15 feb](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/WAFS-W2-02-UI-Stack.pdf)
+1. [Opdracht - Week 2 Maandag 14 feb](WAFS-W2-01-Hello-API.pdf)
+2. [UI-Stack - Week 2 Dinsdag 15 feb](WAFS-W2-02-UI-Stack.pdf)
 
 
 
