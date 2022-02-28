@@ -11,4 +11,4 @@ For this project, I'm using the Rijksdata API. To start using the data and image
 You can create an issue in this repository and let me know what's wrong.
 
  ## License
-[MIT](https://github.com/AronPelgrim/web-app-from-scratch-2122/blob/master/LICENSE)
+[MIT](https://github.com/AronPelgrim/web-app-from-scratch-2122/blob/main/LICENSE)
