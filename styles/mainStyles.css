@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem 0;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 0px 12px 20px -10px black;
+    transform: rotate(-90deg) translateX(-50%);
+    transform-origin: left top;
+    top: 50%;
+    left: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: grid;
+    padding-top: 5rem;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+    gap: 10rem;
+}
+
+ul li img {
+    max-width: 90vw;
+    transition: all 0.1s ease;
+}
+
+ul li img:hover {
+    cursor: pointer;
+    transform: scale(1.04);
+}

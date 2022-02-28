@@ -21,4 +21,3 @@ function getPaintings() {
 function bodyE(element) {
     return document.querySelector(element)
 }
- 
