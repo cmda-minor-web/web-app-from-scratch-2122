@@ -13,7 +13,7 @@ function getPaintings() {
         .then(function(paintings){   
             for (let i = 0; i < paintings.artObjects.length; i++) {     
             bodyList.insertAdjacentHTML('afterbegin', 
-            `<li><img src="${paintings.artObjects[i].webImage.url.slice(0, -3)+"=s1000"}"></li>`) 
+            `<li><img src="${paintings.artObjects[i].webImage.url.slice(0, -3)+"=s1000"}"><p>${paintings.artObjects[i].longTitle}<p/><p>${paintings.artObjects[i].principalOrFirstMaker}<p/></li>`) 
             }
         })
 }
