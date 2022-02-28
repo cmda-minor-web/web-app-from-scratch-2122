@@ -90,6 +90,7 @@ Design the code logics of your SPA in an Activity Diagram.
 2. Add a swimlane with url/hash for the different states
 3. Add a swimlane for the Control Flow, use pseudo code for all modules and methods 
 4. Add your Activity Diagram to the Readme
+5. Code ... code ... code ...
 
 
 #### Resources
