@@ -36,16 +36,14 @@ On a single page web app (SPA) you will have to create the URLs (or routes) to t
 
 ### Hash router
 
-The hash-part of an url points to a specific resource in the web page. An element with a corresponding value for the id attribute.
-
-The hash-part of an url isn’t send to the server. It is interpreted by the browser and accessible through JavaScript... If you want to be able to navigate to a detail page in an SPA, you can do this by using the hash (#) in the url, in combination with the _hashchange event_.
+The hash-part of an url points to a specific resource in the web page. An element with a corresponding value for the id attribute. The hash-part of an url isn’t send to the server. It is interpreted by the browser and accessible through JavaScript... If you want to be able to navigate to a detail page in an SPA, you can do this by using the hash (#) in the url, in combination with the _hashchange event_.
 
 If you use the hash-part of the url to navigate different "pages" of the SPA, the History API exposes useful methods and properties that let you navigate back and forth through the user's history.
 
-Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
 1. Define the pages/states of your SPA you want to navigate to.  
 2. Implement the hashchange event in your code to navigate to the different pages/states.
+3. Making a router yourself is quite complicated, so this is a good opportunity to use a micro library. Routie.js is a simple hash router that you can use.
 
 ### Resources
 
@@ -62,7 +60,7 @@ Making a router yourself is quite complicated, so this is a good opportunity to 
 Up until now, in your JavaScript code, you are fetching data from an api, render the data into the HTML page and you added a router to be able to switch the different states of your application. Your code can become harder and harder to read and maintain. This is a good time to refactor the structure of your app by splitting up your code in different ES modules. 
 
 Make sure to check the issues you received from the peer review and fix code issues after you refactored your code.    
-And check our [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md) for clean coding tips and tricks.
+And check the [JavaScript Best Pactices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md) for clean coding tips and tricks.
 
 #### Resources
 
