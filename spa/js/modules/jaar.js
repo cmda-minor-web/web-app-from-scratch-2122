@@ -14,8 +14,8 @@ export function jaar() {
     jaarInvoer.classList.toggle("hidden");
     console.log(jaarButton);
   });
+}
 
-  function $(element) {
-    return document.querySelector(element);
-  }
+function $(element) {
+  return document.querySelector(element);
 }

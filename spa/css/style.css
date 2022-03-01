@@ -15,12 +15,7 @@ main {
 }
 
 body {
-  background: linear-gradient(
-    180deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgb(90, 55, 18) 10%,
-    rgb(223, 126, 88) 30%
-  );
+  background-color: #1d1b1b80;
 }
 
 section {
@@ -33,7 +28,7 @@ h1 {
   font-family: "poe-vetica-new-condensed", sans-serif;
   font-size: calc(1.3vw + 1.3vh + 1.3vmin);
   max-width: 100%;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   color: #c6cfd0;
   /* margin-left: 3vw; */
 }
@@ -44,23 +39,19 @@ li {
   margin: 4vh 0;
 }
 
-/* ul {
-  display: flex;
-  flex-direction: row;
-} */
-
 img {
   width: 25vw;
   margin: 0 2vh 2vw;
 }
 
 button {
-  position: relative;
+  /* position: relative; */
   border: none;
-  background-color: #40474f;
+  /* background-color: #40474f; */
 }
 
 /* Search bar */
+
 form {
   display: flex;
   flex-direction: column;
@@ -74,7 +65,8 @@ form {
   font-weight: 400;
   font-size: calc(1.3vw + 1.3vh + 1.3vmin);
   border: none;
-  border-radius: 0.25rem;
+  width: 100%;
+  border-radius: 0.25rem 0 0 0.25rem;
 }
 
 #search-input::placeholder {
@@ -82,10 +74,28 @@ form {
 }
 
 .search-icon {
-  position: absolute;
-  right: 0.5rem;
-  top: -1.9rem;
-  width: calc(1.3vw + 2vh + 1.3vmin);
+  /* position: absolute; */
+  color: black;
+  margin: auto;
+
+  align-items: center;
+  width: calc(2vw + 2vh + 2vmin);
+  height: calc(2vw + 2vh + 2vmin);
+}
+
+.search-button {
+  align-items: center;
+  justify-content: flex-end;
+  background-color: white;
+  padding: 0.45rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 0 0.25rem 0.25rem 0;
+}
+
+header form {
+  display: flex;
+  flex-direction: row;
 }
 
 /* De filter buttons */
@@ -182,6 +192,7 @@ input:focus {
   width: calc(5vw + 5vh + 5vmin);
   height: 9vh;
   align-self: center;
+  justify-content: center;
   /* height: 54%; */
   background-color: #d55140;
   border-radius: 4px;
@@ -190,10 +201,8 @@ input:focus {
 
 .arrow-down {
   width: calc(1.3vw + 3vh + 1.3vmin);
-
   align-self: center;
-  /* justify-content: center; */
-  margin-left: 30%;
+  justify-content: center;
 }
 
 /* Section of artwork */
@@ -265,6 +274,35 @@ a {
   border-radius: 10px;
   margin: 0;
 }
+
+/* Next Page */
+
+.next-page {
+  display: flex;
+}
+
+.page {
+  font-size: calc(1.2vw + 1.2vh + 1.2vmin);
+  font-weight: 400;
+  margin: auto;
+}
+
+.left,
+.right {
+  width: calc(2vw + 2vh + 2vmin);
+  height: calc(2vw + 2vh + 2vmin);
+  background-color: #c2ccce;
+  color: #40474f;
+  /* font-weight: 600; */
+  border-radius: 70px;
+}
+
+.page-number {
+  font-family: "poe-vetica-new-condensed", sans-serif;
+  font-weight: 600;
+}
+
+/* Extra stuff */
 
 .hidden {
   display: none;

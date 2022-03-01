@@ -2,10 +2,22 @@
 
 import { render } from "./render.js";
 
+// let pagenr = 0;
+// let aantal = 10;
+
 const rijksAPI =
   "https://www.rijksmuseum.nl/api/nl/collection?key=8Rynz75W&p=0-n&ps=10&imgonly=true";
 
 const stateDisplay = document.getElementsByClassName("emptyList");
+
+// export function volgende() {
+//   pagenr++;
+//   getData();
+// }
+// export function vorige() {
+//   pagenr--;
+//   getData();
+// }
 
 // Functions
 

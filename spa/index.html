@@ -10,14 +10,18 @@
       rel="stylesheet"
       type="text/css"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <script type="module" src="js/main.js"></script>
     <title>Rijksmuseum</title>
   </head>
   <body>
     <header>
       <form>
-        <input id="search-input" type="text" placeholder="Zoeken..." required />
-        <button>
+        <input id="search-input" type="text" placeholder="Zoeken..." />
+        <button type="submit" class="search-button">
           <img src="img/search.svg" alt="search icon" class="search-icon" />
         </button>
       </form>
@@ -57,7 +61,7 @@
       <input class="filter" id="artiest" type="text" placeholder="artiest" />
       <input class="filter" id="type" type="text" placeholder="type" />
       <button class="apply filter">
-        <img src="img/arrow.svg" alt="arrow down" class="arrow-down" />
+        <i class="fa fa-angle-down arrow-down"></i>
       </button>
     </form>
     <main>
@@ -103,6 +107,11 @@
             </ul>
           </li>
         </ul>
+        <div class="next-page">
+          <button class="page left"><i class="fa fa-angle-left"></i></button>
+          <h1 class="page page-number">1</h1>
+          <button class="page right"><i class="fa fa-angle-right"></i></button>
+        </div>
       </section>
       <section id="information">
         <h1>more indepth info</h1>
