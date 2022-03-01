@@ -15,7 +15,7 @@ main {
 }
 
 body {
-  background-color: #1d1b1b80;
+  background-color: #a0999980;
 }
 
 section {
@@ -51,7 +51,6 @@ button {
 }
 
 /* Search bar */
-
 form {
   display: flex;
   flex-direction: column;
@@ -97,7 +96,6 @@ header form {
   display: flex;
   flex-direction: row;
 }
-
 /* De filter buttons */
 
 .filter {
@@ -291,7 +289,7 @@ a {
 .right {
   width: calc(2vw + 2vh + 2vmin);
   height: calc(2vw + 2vh + 2vmin);
-  background-color: #c2ccce;
+  background-color: #d55140;
   color: #40474f;
   /* font-weight: 600; */
   border-radius: 70px;
@@ -302,6 +300,10 @@ a {
   font-weight: 600;
 }
 
+i {
+  color: #c2ccce;
+  /* background-color: #d55140; */
+}
 /* Extra stuff */
 
 .hidden {
