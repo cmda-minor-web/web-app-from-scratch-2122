@@ -29,7 +29,7 @@ Refactor your Single Page Web App.
 ### Slides
 
 1. [Routes en Modules - Week 3 Maandag 28 feb](WAFS-W3-01-Refactor.pdf)
-2. Design Code logics - Week 3 Dinsdag 1 mrt
+2. [Design Code logics - Week 3 Dinsdag 1 mrt](WAFS-W3-02-Design-Code-Logics.pdf)
 
 --- 
 
