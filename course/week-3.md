@@ -103,8 +103,8 @@ Design the code logics of your SPA in an Activity Diagram.
 
 ## 4. Conduct code review (Vrijdag)
 
-On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
-Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
+Conduct a vertical and horizontal code review. Review the code on Router and Modules. 
+Create issues for different peer students. You can look at improvements / suggestions for or questions about the JavaScript code.
 
 ### Resources
 
