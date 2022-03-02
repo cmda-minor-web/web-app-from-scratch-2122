@@ -109,6 +109,6 @@ Create issues for different peer students. You can look at improvements / sugges
 ### Resources
 
 - [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md)
-- [Best practices JavaScript](hhttps://github.com/cmda-minor-web/best-practices/blob/master/javascript.md))
+- [Best practices JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md)
 
 
