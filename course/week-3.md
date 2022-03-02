@@ -10,7 +10,7 @@ Iterate on the user story. Add routes and states. refactor code into modules.
 
 ### Next week: ‘Wrapping up’ 🎁
 
-Final iteration on user story. Manipulate, filter and sort data
+Final iteration on user story. Manipulate, filter and sort data. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-4.md)
 
 ---
 
