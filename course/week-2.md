@@ -160,6 +160,6 @@ Create at least 2 issues for different peer students. You can look at improvemen
 ### Resources
 
 - [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md)
-- [Best practices WAFS](https://github.com/cmda-minor-web/best-practices/blob/master/web-app-from-scratch.md)
+- [Best practices JavaScript](hhttps://github.com/cmda-minor-web/best-practices/blob/master/javascript.md)
 
 
