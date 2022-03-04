@@ -73,6 +73,8 @@ export function render(detailed) {
 
 # Week 3
 
+**Day 1**
+
 Week 3 was all about refactoring your code and making it more readable and understandable using possibly, modules and micro libraries.
 I chose to do the modules, since for my that was the best option becuase I had multiple functions in 1 file and was going to add even more.
 I read into it and understood it, but wasnt really to implement it to my code.
