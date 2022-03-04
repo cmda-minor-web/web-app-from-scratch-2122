@@ -157,7 +157,10 @@ export function search() {
 
 # Pictures
 
-<img src="img/Readme/initial-design.jpg">
+_Picture 3_
+<img src="img/Readme/initial-design.jpg" width="100" height="auto">
 </img>
-<img src="img/Readme/flow.jpg">
+
+_Flow Chart_
+<img src="img/Readme/flow.jpg" width="100" height="auto">
 </img>
