@@ -20,15 +20,11 @@ Refactor code into modules, improve UI and write documentation.
 
 ### Sub tasks
 
-1. Manipulate, filter and sort data with a data module (Monday)
-2. Improve UI (Monday)
-3. Documentation (Monday)
-4. Code review and reflect on work (Tuesday)
-5. 
-
-### Slides
-
-1. 
+1. [Manipulate, filter and sort data with a data module](#1-manipulate-filter-and-sort-data-monday) (Monday)
+2. [Documentation](#2-documentation-monday) (Monday)
+3. [Improve UI](#3-improve-ui-tuesday) (Tuesday)
+4. [Code review and reflect on work](#4-code-review-tuesday) (Tuesday)
+5. [Reflect on work](#5-reflect-on-work-thursdayfriday) (Thursday/Friday)
 
 ---
 
@@ -45,7 +41,36 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 ---
 
-## 2. Improve UI (Monday)
+## 2. Documentation (Monday)
+
+When you pubish your code to Github, others can fork your code to use in their own project or collaborate with yours. 
+It's important to write your Readme with a description of your own work, explenation of your code and a link and poster image to showcase your project.
+
+When you're writing your project's README, it should be able to answer the what, why, and the how of the project.
+
+```
+- Add a link to your live demo in Github Pages 🌐
+- Write a description of your work
+- Showcase your project with Github Pages, add the url to the readme and add the url to the About  🌍
+- Add a nice poster image showing off your shiny frontend 📸
+
+— Write a section that describes how to install this project 🤓
+- Write sections of how to use this project? What are its features 🤔
+- What external data source is featured in your project and what are its properties 🌠
+- Maybe a checklist of done stuff and stuff still on your wishlist? ✅
+
+- Add a table of contents 📚
+
+```
+
+
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
+
+
+---
+
+## 3. Improve UI (Tuesday)
 
 Zero state, visuele hierarchie, interative elements and labes
 
@@ -53,14 +78,6 @@ Zero state, visuele hierarchie, interative elements and labes
 
 - 
 - 
-
----
-
-## 3. Doumentation (Monday)
-
-Hoe lever je je code/project op als frontender.
-
-Hoe ziet de Reame er uit?
 
 ---
 
