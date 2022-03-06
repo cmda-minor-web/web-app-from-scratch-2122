@@ -47,6 +47,8 @@ It's important to write your Readme with a description of your own work, explena
 
 When you're writing your project's README, it should be able to answer the what, why, and the how of the project.
 
+<!-- Project - your app is working and published on GitHub Pages. Your project is thoroughly documented in the README.md file in your repository. -->
+
 ```
 - Add a link to your live demo in Github Pages 🌐
 - Write a description of your work 
@@ -90,6 +92,7 @@ By creating visual hierarchies, designers enable pages to be scanned and make in
 Appearance follows behavior
 Humans are most comfortable with things that behave the way we expect. Other people, animals, objects, software. When someone or something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. Form follows function. In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
 
+<!-- User Interface - you design, build and test the user interface by applying interface design principles -->
 
 ### Resources
 
@@ -101,11 +104,14 @@ Humans are most comfortable with things that behave the way we expect. Other peo
 
 ## 4. Code review (Tuesday)
 
-<!-- Rubric, criteria. 
-Code review op structuur/modules. 
-Code review op Best practices.
-Issues aanmaken, MOSCOW
+Workshop Code review about code struture and Data Management. 
+
+
+<!-- Code structure - you write modular, consistent and efficient HTML, CSS and JavaScript code by applying structure and best practices. You manage state for the application and the UI	
+
+Data management - you understand how you can work with an external API using asynchronous code. You can retrieve data, manipulate and dynamically convert it to structured html
  -->
+
 ---
 
 ## 5. Reflect on work (Thursday/Friday)
