@@ -55,7 +55,7 @@ When you're writing your project's README, it should be able to answer the what,
 — Write a section that describes how to install this project 🤓
 - Write sections of how to use this project, what are its features 🤔
 - What external data source is featured in your project and what are its properties 🌠
-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅
+- Add a checklist of done stuff and stuff you have still on your wishlist ✅
 
 - Add a table of contents 📚
 
