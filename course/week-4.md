@@ -34,7 +34,7 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 ### Resources
 
-- [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
+- [Advanced data manipulationin Javascirpt - Map, Filter, Reduce](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
 - [From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!!
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 - [Asynchronous Javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript) (promises)
