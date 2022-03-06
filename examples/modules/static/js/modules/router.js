@@ -6,13 +6,13 @@ import './vendor/routie.min.js'
 export function handleRoutes() {
   routie(
     {
-    'gifs': () => {
+    'gifs': () => { //entreepagina
       getData().then(data => {
         render(data)
         updateUI('gifs')
       });
     },
-    'gifs/:id': id => {
+    'gifs/:id': id => { //detailpagina
       getData(id).then(data => {
         render(data, id)
         updateUI('giphy')
@@ -21,7 +21,6 @@ export function handleRoutes() {
     'about': () => {
       updateUI('about')
     }
+    
   })
 }
-
-
