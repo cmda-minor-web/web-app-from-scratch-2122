@@ -1,4 +1,4 @@
-import { getData } from './api.js'
+import { get as getData } from './data.js'
 import { render } from './render.js'
 import { updateUI } from './ui.js'
 import './vendor/routie.min.js'
