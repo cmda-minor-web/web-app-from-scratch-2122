@@ -1,4 +1,5 @@
 import { state } from './state.js'
+import { $ } from './ui.js'
 
 export function get(id) {
   const endpoint = 'https://api.giphy.com/v1/gifs/'
@@ -28,7 +29,7 @@ function filter(json) {
   let giphies = []
   !Array.isArray(data) ? giphies.push(data) : giphies = data
 
-  return giphies.filter(giphy => giphy.rating === 'pg' )
+  return giphies.filter(giphy => giphy.rating === 'g' )
 }
 
 function clean(data) {
@@ -48,7 +49,7 @@ function calculateTotalImgSize(data) {
     return (prev + curr.size)
   }, 0)
 
-  document.body.insertAdjacentHTML('beforeend', `<footer>Total image size: ${totalSize}</footer>`)
+  $('footer').innerHTML = `Total image size: <strong>${totalSize} bytes</strong>`
 
   return data
 }
