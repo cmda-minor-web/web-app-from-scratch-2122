@@ -112,9 +112,13 @@ Issues aanmaken, MOSCOW
 
 <!-- Opleveren, presentatie, refelectie vragen. -->
 
-What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
+What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? 
+
+
+<!-- Read the articles below and consider the advantages and disadvantages of this method.
 
 ### Resources
 
 [The coast of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)  
 [One-page-applications are not accessible](http://www.craigabbott.co.uk/one-page-applications-are-not-accessible)
+ -->
