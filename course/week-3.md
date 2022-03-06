@@ -10,7 +10,7 @@ Iterate on the user story. Add routes and states. refactor code into modules.
 
 ### Next week: ‘Wrapping up’ 🎁
 
-Final iteration on user story. Manipulate, filter and sort data
+Final iteration on user story. Manipulate, filter and sort data. [Check it out](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-4.md)
 
 ---
 
@@ -29,7 +29,7 @@ Refactor your Single Page Web App.
 ### Slides
 
 1. [Routes en Modules - Week 3 Maandag 28 feb](WAFS-W3-01-Refactor.pdf)
-2. Design Code logics - Week 3 Dinsdag 1 mrt
+2. [Design Code logics - Week 3 Dinsdag 1 mrt](WAFS-W3-02-Design-Code-Logics.pdf)
 
 --- 
 
@@ -88,25 +88,27 @@ Design the code logics of your SPA in an Activity Diagram.
 
 1. Sketch all states of your SPA and create a Wireflow
 2. Add a swimlane with url/hash for the different states
-3. Add a swimlane for the Programm Flowchart, use pseudo code for all modules and methods 
+3. Add a swimlane for the Control Flow, use pseudo code for all modules and methods 
+4. Add your Activity Diagram to the Readme
+5. Code ... code ... code ...
 
 
 #### Resources
 
 - [Activity diagram](http://agilemodeling.com/style/activityDiagram.htm)
-- [Wireflow]()
-- [Swimlanes](https://circle.visual-paradigm.com/activity-diagram-example-swimlane/)
-- [Programm Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
+- [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804)
+- [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
+- [Program Flowchart](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
 
 ## 4. Conduct code review (Vrijdag)
 
-On GitHub you can use Issues to suggest changes to a colleague developer's code. You can do this online via the GitHub website.
-Create at least 2 issues for different peer students. You can look at improvements / suggestions for or questions about HTML, CSS & JavaScript code.
+Conduct a vertical and horizontal code review. Review the code on Router and Modules. 
+Create issues for different peer students. You can look at improvements / suggestions for or questions about the JavaScript code.
 
 ### Resources
 
 - [Vertical and horizontal peer review](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/peer-review-1.md)
-- [Best practices WAFS](https://github.com/cmda-minor-web/best-practices/blob/master/web-app-from-scratch.md)
+- [Best practices JavaScript](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md)
 
 
