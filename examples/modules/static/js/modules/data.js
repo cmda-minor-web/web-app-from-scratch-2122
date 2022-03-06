@@ -19,7 +19,7 @@ export function get(id) {
     .then(response => response.json())
     .then(json => filter(json))
     .then(data => clean(data))
-    .then(data => calculateTotalImgSize(data))
+    .then(data => calcBytes(data))
     .catch(err => state(err))
     .finally(() => state('loaded'))
 }
@@ -44,7 +44,7 @@ function clean(data) {
   })
 }
 
-function calculateTotalImgSize(data) {
+function calcBytes(data) {
   const totalSize = data.reduce((prev,curr) => {
     return (prev + curr.size)
   }, 0)
