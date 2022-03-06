@@ -30,7 +30,6 @@ Refactor code into modules, improve UI and write documentation.
 
 1. 
 
-
 ---
 
 ## 1. Manipulate, filter and sort data (Monday)
@@ -39,11 +38,10 @@ To be able to view the data that you have loaded from an API in a more targeted 
 
 ### Resources
 
-
 - [Advanced data manipulation](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
-- [From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!! 
+- [From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!!
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
-- [Asynchronous Javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript) (promises) 
+- [Asynchronous Javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript) (promises)
 
 ---
 
@@ -53,8 +51,8 @@ Zero state, visuele hierarchie, interative elements and labes
 
 ### Resources
 
-
-
+- 
+- 
 
 ---
 
@@ -64,17 +62,14 @@ Hoe lever je je code/project op als frontender.
 
 Hoe ziet de Reame er uit?
 
-
 ---
 
 ## 4. Code review (Tuesday)
 
 Rubric, criteria. 
 Code review op structuur/modules. 
-Code review op Best practices. 
+Code review op Best practices.
 Issues aanmaken, MOSCOW
-
-
 
 ---
 
@@ -82,13 +77,9 @@ Issues aanmaken, MOSCOW
 
 Opleveren, presentatie, refelectie vragen.
 
-
 What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
 
 ### Resources
 
 [The coast of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)  
 [One-page-applications are not accessible](http://www.craigabbott.co.uk/one-page-applications-are-not-accessible)
-
-
-
