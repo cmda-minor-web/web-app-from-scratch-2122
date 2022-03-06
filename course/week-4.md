@@ -35,7 +35,7 @@ Refactor code into modules, improve UI and write documentation.
 
 ## 1. Manipulate, filter and sort data (Monday)
 
-To be able to view the data that you have loaded from an API in a more targeted way, add a filtering and sorting component to your web app. To properly filter and sort the data, it is useful to store data locally. for example in LocalStorage or simply in an object that is part of your app. With the map, filter and reduce methods you always retrieve the desired data and display it in the interface.
+To be able to view the data that you have loaded from an API in a more targeted way, add a filtering and sorting component to your web app. To properly filter and sort the data, it is useful to store data in an object that is part of your app or in LocalStorage. With the map, filter and reduce methods you always retrieve the desired data and display it in the interface.
 
 ### Resources
 
