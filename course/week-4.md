@@ -61,36 +61,56 @@ When you're writing your project's README, it should be able to answer the what,
 
 ```
 
-
 - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 - [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
-
 
 ---
 
 ## 3. Improve UI (Tuesday)
 
-Zero state, visuele hierarchie, interative elements and labes
+In order to best help our users get up to speed with our designs, it is best to design for the zero state, the state in which nothing has yet occurred. This state shouldn't be a blank canvas…it should provide direction and guidance for getting up to speed. Much of the friction of interaction is in that initial context… once people understand the rules they have a much higher likelihood of success.
+
+### Design Zero state using Visual Hierarchy
+
+Web pages and websites have a lot of information to communicate. When we land on a new page we immediately have some questions we need answered.
+
+- Is what I’m looking for on this page?
+- Where is it?
+- How do I complete my task?
+
+By creating visual hierarchies, designers enable pages to be scanned and make information easier to understand.
+
+1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
+2. Write down all feedback and remarks 
+3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge important titles/ improve contrast/ ...
+4. Create and write issues on your Github Repo with issues you cannot fix immediately, and label them using the MOSCOW method
+
+### If it looks like a button it should act like a button
+
+Appearance follows behavior
+Humans are most comfortable with things that behave the way we expect. Other people, animals, objects, software. When someone or something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. Form follows function. In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
+
 
 ### Resources
 
-- 
-- 
+- [A crucial moment: the zero state - Principe 16](http://bokardo.com/principles-of-user-interface-design/)
+- [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
+- [MoSCoW Method](https://www.projectsmart.co.uk/tools/moscow-method.php)
 
 ---
 
 ## 4. Code review (Tuesday)
 
-Rubric, criteria. 
+<!-- Rubric, criteria. 
 Code review op structuur/modules. 
 Code review op Best practices.
 Issues aanmaken, MOSCOW
-
+ -->
 ---
 
 ## 5. Reflect on work (Thursday/Friday)
 
-Opleveren, presentatie, refelectie vragen.
+<!-- Opleveren, presentatie, refelectie vragen. -->
 
 What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? Read the articles below and consider the advantages and disadvantages of this method.
 
