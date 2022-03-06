@@ -49,8 +49,7 @@ When you're writing your project's README, it should be able to answer the what,
 
 ```
 - Add a link to your live demo in Github Pages 🌐
-- Write a description of your work
-- Showcase your project with Github Pages, add the url to the readme and add the url to the About  🌍
+- Write a description of your work 
 - Add a nice poster image showing off your shiny frontend 📸
 
 — Write a section that describes how to install this project 🤓
