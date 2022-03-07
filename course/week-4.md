@@ -23,7 +23,7 @@ Refactor code into modules, improve UI and write documentation.
 1. [Manipulate, filter and sort data](#1-manipulate-filter-and-sort-data-monday) (Monday)
 2. [Documentation](#2-documentation-monday) (Monday)
 3. [Improve UI](#3-improve-ui-tuesday) (Tuesday)
-4. [Code review and reflect on work](#4-code-review-tuesday) (Tuesday)
+4. [Code review](#4-code-review-tuesday) (Tuesday)
 5. [Reflect on work](#5-reflect-on-work-thursdayfriday) (Thursday/Friday)
 
 ---
