@@ -129,7 +129,7 @@ Data management - you understand how you can work with an external API using asy
 
 <!-- Opleveren, presentatie, refelectie vragen. -->
 
-What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? 
+The past weeks you've build a Single Page Web App. What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? 
 
 Your work will be assessed on the criteria: User Interface, Code structure, Data management and Project (documentation).
 
