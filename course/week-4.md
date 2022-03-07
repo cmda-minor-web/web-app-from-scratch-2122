@@ -75,7 +75,7 @@ When you're writing your project's README, it should be able to answer the what,
 
 In order to best help our users get up to speed with our designs, it is best to design for the zero state, the state in which nothing has yet occurred. This state shouldn't be a blank canvas…it should provide direction and guidance for getting up to speed. Much of the friction of interaction is in that initial context… once people understand the rules they have a much higher likelihood of success.
 
-### Design the Zero State using Visual Hiërarchy
+### Design the Zero State using Visual Hierarchy
 
 Web pages and websites have a lot of information to communicate. When we land on a new page we immediately have some questions we need answered.
 
@@ -83,7 +83,7 @@ Web pages and websites have a lot of information to communicate. When we land on
 - Where is it?
 - How do I complete my task?
 
-By creating visual hiërarchies, designers enable pages to be scanned and make information easier to understand.
+By creating visual hierarchies, designers enable pages to be scanned and make information easier to understand.
 
 1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
 2. Write down all feedback and remarks 
