@@ -133,7 +133,7 @@ The past weeks you've build a Single Page Web App. What are the consequences of 
 
 Your work will be assessed on the criteria: User Interface, Code structure, Data management and Project (documentation).
 
-Your efforts will be graded using a single point [rubric](https://github.com/cmda-minor-web/web-app-from-scratch-2122#rubric). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
+Your efforts will be graded using a single point [rubric](https://github.com/cmda-minor-web/web-app-from-scratch-2122#rubric). You will have to pass the criterion to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
 
 
 
