@@ -131,6 +131,11 @@ Data management - you understand how you can work with an external API using asy
 
 What are the consequences of building a web app that runs entirely in the browser, a client side, single page web app? 
 
+Your work will be assessed on the criteria: User Interface, Code structure, Data management and Project (documentation).
+
+Your efforts will be graded using a single point [rubric](https://github.com/cmda-minor-web/web-app-from-scratch-2122#rubric). You will have to pass the criterion (centre column) to pass the course. During the test you will be consulted and will be given feedback on things we think deficient and things we think are an improvement on the criterion.
+
+
 
 <!-- Read the articles below and consider the advantages and disadvantages of this method.
 
