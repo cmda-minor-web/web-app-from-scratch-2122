@@ -20,7 +20,7 @@ Refactor code into modules, improve UI and write documentation.
 
 ### Sub tasks
 
-1. [Manipulate, filter and sort data with a data module](#1-manipulate-filter-and-sort-data-monday) (Monday)
+1. [Manipulate, filter and sort data](#1-manipulate-filter-and-sort-data-monday) (Monday)
 2. [Documentation](#2-documentation-monday) (Monday)
 3. [Improve UI](#3-improve-ui-tuesday) (Tuesday)
 4. [Code review and reflect on work](#4-code-review-tuesday) (Tuesday)
@@ -30,7 +30,9 @@ Refactor code into modules, improve UI and write documentation.
 
 ## 1. Manipulate, filter and sort data (Monday)
 
-To be able to view the data that you have loaded from an API in a more targeted way, add a filtering and sorting component to your web app. To properly filter and sort the data, it is useful to store data in an object that is part of your app or in LocalStorage. With the map, filter and reduce methods you always retrieve the desired data and display it in the interface.
+To be able to view the data that you have loaded from an API in a more targeted way, add a filtering and sorting component to your web app. 
+To properly filter and sort the data, it is useful to store data in an object that is part of your app or in LocalStorage. 
+With the map, filter and reduce methods you retrieve the desired data to display it in the interface.
 
 ### Resources
 
@@ -56,6 +58,7 @@ When you're writing your project's README, it should be able to answer the what,
 
 — Write a section that describes how to install this project 🤓
 - Write sections of how to use this project, what are its features 🤔
+- Add the Activity Diagram with a wireflow for the interaction and control flow of your code 🛠
 - What external data source is featured in your project and what are its properties 🌠
 - Add a checklist of done stuff and stuff you have still on your wishlist ✅
 
