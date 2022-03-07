@@ -76,7 +76,7 @@ When you're writing your project's README, it should be able to answer the what,
 
 In order to best help our users get up to speed with our designs, it is best to design for the zero state, the state in which nothing has yet occurred. This state shouldn't be a blank canvas…it should provide direction and guidance for getting up to speed. Much of the friction of interaction is in that initial context… once people understand the rules they have a much higher likelihood of success.
 
-### Design Zero state using Visual Hierarchy
+### Design the zero state using visual hierarchy
 
 Web pages and websites have a lot of information to communicate. When we land on a new page we immediately have some questions we need answered.
 
@@ -100,7 +100,7 @@ Humans are most comfortable with things that behave the way we expect. Other peo
 
 ### Resources
 
-- [A crucial moment: the zero state - Principe 16](http://bokardo.com/principles-of-user-interface-design/)
+- [A crucial moment: the zero state - Principle 16](http://bokardo.com/principles-of-user-interface-design/)
 - [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
 - [MoSCoW Method](https://www.projectsmart.co.uk/tools/moscow-method.php)
 
