@@ -80,7 +80,6 @@ In order to best help our users get up to speed with our designs, it is best to 
 
 Web pages and websites have a lot of information to communicate. When we land on a new page we immediately have some questions we need answered.
 
-- Where am I?
 - Is what I’m looking for on this page?
 - Where is it?
 - How do I complete my task?
