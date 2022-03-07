@@ -90,7 +90,7 @@ By creating visual hiërarchies, designers enable pages to be scanned and make i
 3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge (sub) titles/ enlarge input fields/ improve contrast/ ...
 4. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MOSCOW method
 
-### Design interactive elments
+### Design interactive elements
 
 Humans are most comfortable with things that behave the way we expect. Other people, animals, objects and software. When something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. 
 
