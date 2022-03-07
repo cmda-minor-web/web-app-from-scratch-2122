@@ -16,55 +16,57 @@
     />
     <script type="module" src="js/main.js"></script>
     <title>Rijksmuseum</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.png" />
   </head>
   <body>
-    <header>
-      <form>
-        <input id="search-input" type="text" placeholder="Zoeken..." />
-        <button type="submit" class="search-button">
-          <img src="img/search.svg" alt="search icon" class="search-icon" />
-        </button>
-      </form>
-    </header>
-    <form>
-      <button class="jaar-button">jaar</button>
-      <div class="jaar-open hidden">
-        <input
-          class="jaar-open-style"
-          id="jaar"
-          type="number"
-          name="jaarmin"
-          min="1000"
-          max="2021"
-          step="20"
-          placeholder="1000"
-        />
-        <h1 class="dash">-</h1>
-        <input
-          class="jaar-open-style"
-          id="jaar"
-          type="number"
-          name="jaarmax"
-          min="1000"
-          max="2021"
-          step="20"
-          placeholder="2021"
-        />
-      </div>
-      <!-- <input
-        class="filter"
-        id="jaar"
-        type="number"
-        placeholder="jaar"
-        required
-      /> -->
-      <input class="filter" id="artiest" type="text" placeholder="artiest" />
-      <input class="filter" id="type" type="text" placeholder="type" />
-      <button class="apply filter">
-        <i class="fa fa-angle-down arrow-down"></i>
-      </button>
-    </form>
     <main>
+      <section id="home">
+        <header>
+          <form>
+            <input id="search-input" type="text" placeholder="Zoeken..." />
+            <button type="submit" class="search-button">
+              <img src="img/search.svg" alt="search icon" class="search-icon" />
+            </button>
+          </form>
+        </header>
+        <form>
+          <button class="jaar-button">jaar</button>
+          <div class="jaar-open hidden">
+            <input
+              class="jaar-open-style"
+              id="jaar"
+              type="number"
+              name="jaarmin"
+              min="1000"
+              max="2021"
+              step="20"
+              placeholder="1000"
+            />
+            <h1 class="dash">-</h1>
+            <input
+              class="jaar-open-style"
+              id="jaar"
+              type="number"
+              name="jaarmax"
+              min="1000"
+              max="2021"
+              step="20"
+              placeholder="2021"
+            />
+          </div>
+
+          <input
+            class="filter"
+            id="artiest"
+            type="text"
+            placeholder="artiest"
+          />
+          <input class="filter" id="type" type="text" placeholder="type" />
+          <button class="apply filter">
+            <i class="fa fa-angle-down arrow-down"></i>
+          </button>
+        </form>
+      </section>
       <section id="art-list">
         <!-- Empty state / Skeleton State -->
         <!-- <div class="line5"></div> -->
@@ -113,8 +115,30 @@
           <button class="page right"><i class="fa fa-angle-right"></i></button>
         </div>
       </section>
-      <section id="information">
-        <h1>more indepth info</h1>
+      <section id="information" class="hidden">
+        <div class="empty-info">
+          <div class="title-balk">
+            <a href="#home">
+              <button class="back">
+                <i class="fa fa-angle-left back-arrow"></i>
+              </button>
+            </a>
+            <div class="line6"></div>
+          </div>
+          <br />
+          <div class="square2"></div>
+          <ul class="">
+            <li class="line7"></li>
+            <li class="line8"></li>
+            <li class="line7"></li>
+            <li class="line9"></li>
+            <li class="line8"></li>
+            <li class="line7"></li>
+            <li class="line8"></li>
+            <li class="line8"></li>
+            <li class="line9"></li>
+          </ul>
+        </div>
       </section>
     </main>
   </body>

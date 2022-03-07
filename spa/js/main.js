@@ -4,6 +4,6 @@ import { search } from "./modules/search.js";
 import { page } from "./modules/page.js";
 
 getData();
-jaar();
 search();
+jaar();
 page();

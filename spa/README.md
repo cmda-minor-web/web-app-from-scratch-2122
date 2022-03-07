@@ -157,6 +157,16 @@ export function search() {
 }
 ```
 
+# Week 4
+
+To do:
+
+- seperate file for loading state
+- make router
+- add functions for other filters
+- create flow
+-
+
 # Pictures
 
 _Picture 2_

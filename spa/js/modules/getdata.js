@@ -1,23 +1,12 @@
 // api ES
 
 import { render } from "./render.js";
-
-// let pagenr = 0;
-// let aantal = 10;
+import { skeletonState } from "./ui.js";
 
 const rijksAPI =
   "https://www.rijksmuseum.nl/api/nl/collection?key=8Rynz75W&p=0-n&ps=10&imgonly=true";
 
 const stateDisplay = document.getElementsByClassName("emptyList");
-
-// export function volgende() {
-//   pagenr++;
-//   getData();
-// }
-// export function vorige() {
-//   pagenr--;
-//   getData();
-// }
 
 // Functions
 
@@ -28,9 +17,7 @@ export function getData() {
     })
     .then(function (collection) {
       console.log(collection);
-      const skeleton = $("ul.empty-list");
-      console.log(skeleton);
-      skeleton.classList.toggle("hidden");
+      skeletonState();
       for (let i = 0; i < collection.artObjects.length; i++) {
         fetch(
           "https://www.rijksmuseum.nl/api/nl/collection/" +
@@ -46,8 +33,4 @@ export function getData() {
           });
       }
     });
-}
-
-function $(element) {
-  return document.querySelector(element);
 }
