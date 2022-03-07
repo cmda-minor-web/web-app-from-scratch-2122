@@ -36,6 +36,7 @@ With the map, filter and reduce methods you retrieve the desired data to display
 
 ### Resources
 
+- [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 - [Advanced data manipulation in Javascript - Map, Filter and Reduce](https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d)
 - [From IIFE to Common.js to ES Modules](https://www.youtube.com/watch?v=qJWALEoGge4) MUST SEE!!!
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
