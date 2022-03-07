@@ -88,7 +88,7 @@ By creating visual hiërarchies, designers enable pages to be scanned and make i
 1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
 2. Write down all feedback and remarks 
 3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge (sub) titles/ enlarge input fields/ improve contrast/ ...
-4. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MoSCoW method
+4. Create and write issues on your repo with issues you cannot fix immediately. Add labels using the MoSCoW method
 
 ### Design interactive elements
 
@@ -100,7 +100,7 @@ In practice this means that someone should be able to predict how an interface e
 2. Check if all interactive elements that behave the same look the same
 3. Check if all states of the interactive elements have (enough) styling
 4. Fix styling if neccesary
-5. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MoSC0W method
+5. Create and write issues on your repo with issues you cannot fix immediately. Add labels using the MoSC0W method
 
 <!-- User Interface - you design, build and test the user interface by applying interface design principles -->
 
