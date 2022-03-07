@@ -115,7 +115,7 @@ In practice this means that someone should be able to predict how an interface e
 
 ## 4. Code review (Tuesday)
 
-Workshop Code review about code struture and Data Management. 
+Workshop Code review. Do a code review based on the [Javascript bet-practices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md).
 
 
 <!-- Code structure - you write modular, consistent and efficient HTML, CSS and JavaScript code by applying structure and best practices. You manage state for the application and the UI	
