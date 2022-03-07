@@ -25,11 +25,20 @@ export function get(id) {
 }
 
 function filter(json) {
+  // Filter on Content Rating Level 1: G 
+  // Contains images that are broadly accepted as appropriate and commonly witnessed by people in a public environment.
+  // https://developers.giphy.com/docs/optional-settings#rating
+  const ratingLevel = 'g'
   const data = json.data
+  
+  // Convert single item in array 💩, refactor later!
   let giphies = []
-  !Array.isArray(data) ? giphies.push(data) : giphies = data
 
-  return giphies.filter(giphy => giphy.rating === 'g' )
+  !Array.isArray(data) 
+    ? giphies.push(data) 
+    : giphies = data
+
+  return giphies.filter(giphy => giphy.rating === ratingLevel)
 }
 
 function clean(data) {
