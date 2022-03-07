@@ -86,18 +86,20 @@ Web pages and websites have a lot of information to communicate. When we land on
 
 By creating visual hierarchies, designers enable pages to be scanned and make information easier to understand.
 
+#### Assignment
+
 1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
 2. Write down all feedback and remarks 
-3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge important titles/ improve contrast/ ...
+3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge (sub) titles/ enlarge input fields/ improve contrast/ ...
 4. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MOSCOW method
 
 ### Appearance follows behavior
 
 Humans are most comfortable with things that behave the way we expect. Other people, animals, objects and software. When something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. 
 
-#### Form follows function. 
-
 In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
+
+#### Assignment
 
 1. Check if all interactive elements look like how they behave (buttons and links)
 2. Check if all interactive elements that behave the same look the same
