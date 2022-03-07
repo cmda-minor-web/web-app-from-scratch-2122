@@ -89,12 +89,21 @@ By creating visual hierarchies, designers enable pages to be scanned and make in
 1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
 2. Write down all feedback and remarks 
 3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge important titles/ improve contrast/ ...
-4. Create and write issues on your Github Repo with issues you cannot fix immediately, and label them using the MOSCOW method
+4. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MOSCOW method
 
-### If it looks like a button it should act like a button
+### Appearance follows behavior
 
-Appearance follows behavior
-Humans are most comfortable with things that behave the way we expect. Other people, animals, objects, software. When someone or something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. Form follows function. In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
+Humans are most comfortable with things that behave the way we expect. Other people, animals, objects and software. When something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. 
+
+#### Form follows function. 
+
+In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
+
+1. Check if all interactive elements look like how they behave (buttons and links)
+2. Check if all interactive elements that behave the same look the same
+3. Check if all states of the interactive elements have (enough) styling
+4. Fix styling if neccesary
+
 
 <!-- User Interface - you design, build and test the user interface by applying interface design principles -->
 
@@ -102,6 +111,7 @@ Humans are most comfortable with things that behave the way we expect. Other peo
 
 - [A crucial moment: the zero state - Principle 16](http://bokardo.com/principles-of-user-interface-design/)
 - [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
+- [Designing Button States](https://cloudfour.com/thinks/designing-button-states/)
 - [MoSCoW Method](https://www.projectsmart.co.uk/tools/moscow-method.php)
 
 ---
