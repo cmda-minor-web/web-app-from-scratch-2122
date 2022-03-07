@@ -50,7 +50,7 @@ Positive feedback is also welcome and can be put into an issue
 
 - Read the code
     + Try to understand the code flow
-    + Check the code against our course's [best practices](https://github.com/cmda-minor-web/best-practices/blob/master/web-app-from-scratch.md)
+    + Check the code against our course's [best practices](https://github.com/cmda-minor-web/best-practices/blob/master/javascript.md)
     + Check the code for consistency, is code being written the same way in different places?
     + Does the code follow naming conventions? Do variable and function names make sense to you?
     + Feel free to give feedback on HTML and CSS aswell!
