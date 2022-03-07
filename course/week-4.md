@@ -76,7 +76,7 @@ When you're writing your project's README, it should be able to answer the what,
 
 In order to best help our users get up to speed with our designs, it is best to design for the zero state, the state in which nothing has yet occurred. This state shouldn't be a blank canvas…it should provide direction and guidance for getting up to speed. Much of the friction of interaction is in that initial context… once people understand the rules they have a much higher likelihood of success.
 
-### Design the zero state using visual hierarchy
+### Design the Zero State using Visual Hiërarchy
 
 Web pages and websites have a lot of information to communicate. When we land on a new page we immediately have some questions we need answered.
 
@@ -84,28 +84,24 @@ Web pages and websites have a lot of information to communicate. When we land on
 - Where is it?
 - How do I complete my task?
 
-By creating visual hierarchies, designers enable pages to be scanned and make information easier to understand.
-
-#### Assignment
+By creating visual hiërarchies, designers enable pages to be scanned and make information easier to understand.
 
 1. Ask a collegue to use your app and encourage him/her to think out loud while interactting with your app
 2. Write down all feedback and remarks 
 3. Try fixing the low hanging fruit immediately after the test, fix unclear labels/ enlarge (sub) titles/ enlarge input fields/ improve contrast/ ...
 4. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MOSCOW method
 
-### Appearance follows behavior
+### Design interactive elments
 
 Humans are most comfortable with things that behave the way we expect. Other people, animals, objects and software. When something behaves consistently with our expectations we feel like we have a good relationship with it. To that end designed elements should look like how they behave. 
 
 In practice this means that someone should be able to predict how an interface element will behave merely by looking at it. If it looks like a button it should act like a button. 
 
-#### Assignment
-
 1. Check if all interactive elements look like how they behave (buttons and links)
 2. Check if all interactive elements that behave the same look the same
 3. Check if all states of the interactive elements have (enough) styling
 4. Fix styling if neccesary
-
+5. Create and write issues on your repo with issues you cannot fix immediately, add labels using the MOSCOW method
 
 <!-- User Interface - you design, build and test the user interface by applying interface design principles -->
 
