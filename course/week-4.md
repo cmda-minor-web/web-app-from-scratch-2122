@@ -26,6 +26,11 @@ Refactor code into modules, improve UI and write documentation.
 4. [Code review](#4-code-review-tuesday) (Tuesday)
 5. [Reflect on work](#5-reflect-on-work-thursdayfriday) (Thursday/Friday)
 
+### Slides
+
+1. Manipulate, filter and sort data - Week 4 Maandag 7 mrt
+2. [Review - Week 4 Dinsdag 8 mrt](WAFS-W4-02-Review.pdf)
+
 ---
 
 ## 1. Manipulate, filter and sort data (Monday)
