@@ -28,7 +28,7 @@ Refactor code into modules, improve UI and write documentation.
 
 ### Slides
 
-1. Manipulate, filter and sort data - Week 4 Maandag 7 mrt
+1. [Live coding map, filter, reduce - Week 4 Maandag 7 mrt](https://codepen.io/robertspier/pen/BamELJd?editors=1012)
 2. [Review - Week 4 Dinsdag 8 mrt](WAFS-W4-02-Review.pdf)
 
 ---
