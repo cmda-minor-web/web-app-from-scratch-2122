@@ -22,8 +22,8 @@ Refactor your Single Page Web App.
 
 1. [Handle routes to manage state](#1-handle-routes-to-manage-state)
 2. [Refactor code into modules](#2-refactor-code-into-modules)
-3. [Design code logics](#3-design-code-logics-dinsdag) Dinsdag
-4. [Conduct code review](#4-conduct-code-review-vrijdag) Vrijdag
+3. [Design code logics](#3-design-code-logics-dinsdag) (Dinsdag)
+4. [Conduct code review](#4-conduct-code-review-vrijdag) (Vrijdag)
 
 
 ### Slides
