@@ -5,7 +5,7 @@ In this course you will learn to build a web application without frameworks or u
 ## Assignment
 
 1. [Visitekaartje](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-1.md#1-visitekaartje): Ontwerp en maak met HTML, CSS en JS een visitekaartje.
-2. [Teampagina](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-1.md#2-teampagina): Ontwerp en maak met je team een teampagina waarin je de verschillende visitekaartjes toont.
+2. [Squadpagina](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/main/course/week-1.md#2-squadpagina): Ontwerp en maak met je team een squadpagina waarin je de verschillende visitekaartjes toont.
 3. [Single Page App](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md): Design and build a single page web app based on a User Story.
 
 ---
@@ -14,7 +14,7 @@ In this course you will learn to build a web application without frameworks or u
 
 | Planning | Maandag | Dinsdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1 - Hellooo 🤸](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | Teampagina | Teambespreking |
+| [Week 1 - Hellooo 🤸](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-1.md) | Introduction + visitekaartje | Squadpagina | Teambespreking |
 | [Week 2 - Hello API 🐒](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-2.md) | College + briefing opdracht | College + Work | Feedbackgesprekken |
 | Voorjaarsvakantie |  |  |  |
 | [Week 3 - Refactor 🛠](https://github.com/cmda-minor-web/web-app-from-scratch-2122/blob/master/course/week-3.md)  | College + work  | College + work | Feedbackgesprekken  |
