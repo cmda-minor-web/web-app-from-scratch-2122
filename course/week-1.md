@@ -47,27 +47,27 @@ zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een solli
 
 ---
 
-## 2. Squadpagina
+## 2. Teampagina
 
-Ontwerp en maak met je team een squadagina waarin je de verschillende visitekaartjes toont. Of doorlinkt. Of iets anders ...
+Ontwerp en maak met je team een teampagina waarin je de verschillende visitekaartjes toont. Of doorlinkt. Of iets anders ...
 
 ### User Story
 
 **Als minor web student of docent,
-Wil ik de squadpagina van studenten kunnen bekijken,
+Wil ik de teampagina van studenten kunnen bekijken,
 zodat ik een goed beeld krijg van de studenten die de minor dit jaar doen.**
 
 ### Deeltaken
 
 1. Maak met elkaar kennis door je visitekaartje te presenteren.
-2. Bedenk samen met je team een squadnaam & ontwerp een squadlogo …
-3. Schets samen ideeën voor de squadpagina. Bedenk creatieve, originele, of (technisch) uitdagende manieren om alle de teamleden te tonen.
+2. Bedenk samen met je team een teamnaam & ontwerp een teamlogo …
+3. Schets samen ideeën voor de teampagina. Bedenk creatieve, originele, of (technisch) uitdagende manieren om alle de teamleden te tonen.
 4. Maak gezamenlijk een break-down schets van jullie ontwerp/
 5. Fork de opdracht van Github (staat bij week 1).
-6. Haal data van alle members van het team op uit de Tribe API. Gebruik dit voor de squadpagina.
+6. Haal data van alle members van het team op uit de Tribe API. Gebruik dit voor de teampagina.
 
 ### Resources
 
-- [Tribe API](...)
-- [Documentatie Tribe Api](...)
+- [Tribe API](https://github.com/fdnd-apis/tribe)
+- [Documentatie Tribe Api](https://redocly.github.io/redoc/?url=https://tribe.api.fdnd.nl/v1)
 - [Werk samen op GitHub](https://github.com/udit-001/Collaboration-For-Beginners)
