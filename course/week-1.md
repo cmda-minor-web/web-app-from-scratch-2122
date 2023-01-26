@@ -69,5 +69,5 @@ zodat ik een goed beeld krijg van de studenten die de minor dit jaar doen.**
 ### Resources
 
 - [Tribe API](...)
-- [Documentatie Tribe Api](https://redocly.github.io/redoc/?url=https://tribe.api.fdnd.nl/v1)
+- [Documentatie Tribe Api](...)
 - [Werk samen op GitHub](https://github.com/udit-001/Collaboration-For-Beginners)
