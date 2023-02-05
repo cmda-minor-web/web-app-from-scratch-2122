@@ -14,7 +14,7 @@ In week 1 ga je twee opdrachten maken. Een [visitekaartje](#1-visitekaartje) en 
 
 ### Slides
 
-1. [Kickoff en opdracht - Week 1 Maandag 6 feb](...)
+[Kickoff en opdracht - Week 1 Maandag 6 feb](...)
 
 ---
 
@@ -41,8 +41,7 @@ zodat ik een inschatting kan maken of ik de student ga uitnodigen voor een solli
 ### Resources
 
 - [Eerste Hulp bij het gebruik van API's](https://cmda-minor-web.github.io/kickoff-2021/eerste-hulp-bij-het-gebruik-van-apis.pdf)
-- [Tribe API](https://github.com/fdnd-apis/tribe)
-- [Documentatie Tribe Api](https://redocly.github.io/redoc/?url=https://tribe.api.fdnd.nl/v1)
+- [Documentatie Tribe Api](https://whois.fdnd.nl/docs)
 - [Haal data op uit een API (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
 ---
@@ -68,6 +67,5 @@ zodat ik een goed beeld krijg van de studenten die de minor dit jaar doen.**
 
 ### Resources
 
-- [Tribe API](https://github.com/fdnd-apis/tribe)
-- [Documentatie Tribe Api](https://redocly.github.io/redoc/?url=https://tribe.api.fdnd.nl/v1)
+- [Documentatie Tribe Api](https://whois.fdnd.nl/docs)
 - [Werk samen op GitHub](https://github.com/udit-001/Collaboration-For-Beginners)
